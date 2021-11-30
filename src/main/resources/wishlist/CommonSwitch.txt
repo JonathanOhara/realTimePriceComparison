@@ -3,7 +3,6 @@ Atelier LULUA: THE SCION OF ARLAND {https://www.pricecharting.com/pt/game/ninten
 Atelier Ryza 2: Lost Legends {https://www.pricecharting.com/game/nintendo-switch/atelier-ryza-2-lost-legends-&-the-secret-fairy}
 Atelier Ryza Ever Darkness {https://www.pricecharting.com/game/nintendo-switch/atelier-ryza-ever-darkness-and-the-secret-hideout}
 Azure Striker Gunvolt Striker Pack {https://www.pricecharting.com/game/nintendo-switch/azure-striker-gunvolt-striker-pack}
-Binding OF ISAAC: AFTERBIRTH {https://www.pricecharting.com/game/nintendo-switch/binding-of-isaac-afterbirth+}
 Bioshock The Collection switch {https://www.pricecharting.com/game/nintendo-switch/bioshock-the-collection}
 Blasphemous switch {https://www.pricecharting.com/pt/game/nintendo-switch/blasphemous}
 Borderlands Legendary Collection {https://www.pricecharting.com/game/nintendo-switch/borderlands-legendary-collection}
@@ -16,7 +15,7 @@ Crysis Remastered switch {https://www.pricecharting.com/pt/game/nintendo-switch/
 Dark souls remastered switch {https://www.pricecharting.com/pt/game/nintendo-switch/dark-souls-remastered}
 Darksiders Deathinitive Edition {https://www.pricecharting.com/game/nintendo-switch/darksiders-ii-deathinitive-edition}
 Darksiders Genesis switch {https://www.pricecharting.com/game/nintendo-switch/darksiders-genesis}
-Darksiders III switch {https://www.pricecharting.com/game/nintendo-switch/darksiders-iii}
+Darksiders 3 switch {https://www.pricecharting.com/game/nintendo-switch/darksiders-iii}
 Darksiders WARMASTERED switch {https://www.pricecharting.com/game/nintendo-switch/darksiders-warmastered-edition}
 Deadly PREMONITION ORIGINS {https://www.pricecharting.com/pt/game/nintendo-switch/deadly-premonition-origins}
 Deadly Premonition 2 {https://www.pricecharting.com/game/nintendo-switch/deadly-premonition-2-a-blessing-in-disguise}
@@ -56,7 +55,7 @@ Monster Hunter Stories 2: Wings Of Ruin {https://www.pricecharting.com/game/nint
 Nelke & THE LEGENDARY ALCHEMISTS: ATELIERS OF THE NEW WORLD {https://www.pricecharting.com/game/nintendo-switch/nelke-&-the-legendary-alchemists-ateliers-of-the-new-world}
 New Pokemon Snap {https://www.pricecharting.com/game/nintendo-switch/new-pokemon-snap}
 Ni No Kuni II: Revenant Kingdom {https://www.pricecharting.com/game/nintendo-switch/ni-no-kuni-ii-revenant-kingdom}
-No more heroes 3 {https://www.pricecharting.com/game/nintendo-switch/no-more-heroes-iii}
+No more heroes III {https://www.pricecharting.com/game/nintendo-switch/no-more-heroes-iii}
 Northgard {https://www.pricecharting.com/game/nintendo-switch/northgard}
 Octopath TRAVELER {https://www.pricecharting.com/pt/game/nintendo-switch/octopath-traveler}
 Outer Worlds switch {https://www.pricecharting.com/game/nintendo-switch/the-outer-worlds}
@@ -66,9 +65,8 @@ Pokken TOURNAMENT DX {https://www.pricecharting.com/pt/game/nintendo-switch/pokk
 Resident EVIL: REVELATIONS COLLECTION {https://www.pricecharting.com/game/nintendo-switch/resident-evil-revelations-collection}
 Saints ROW elected switch {https://www.pricecharting.com/game/nintendo-switch/saints-row-iv-re-elected}
 Sakuna: of rice and ruin {https://www.pricecharting.com/game/nintendo-switch/sakuna-of-rice-and-ruin}
-Shin MEGAMI TENSEI III: NOCTURNE HD REMASTER {https://www.pricecharting.com/game/nintendo-switch/shin-megami-tensei-iii-nocturne-hd-remaster}
+Shin MEGAMI TENSEI III REMASTER {https://www.pricecharting.com/game/nintendo-switch/shin-megami-tensei-iii-nocturne-hd-remaster}
 Shin Megami Tensei V {https://www.pricecharting.com/game/nintendo-switch/shin-megami-tensei-v}
-Shining Resonance Refrain {https://www.pricecharting.com/game/nintendo-switch/shining-resonance-refrain}
 Shovel KNIGHT: TREASURE TROVE {https://www.pricecharting.com/game/nintendo-switch/shovel-knight-treasure-trove}
 Sonic Mania Plus switch {https://www.pricecharting.com/game/nintendo-switch/sonic-mania-plus}
 Stardew VALLEY switch {https://www.pricecharting.com/game/nintendo-switch/stardew-valley}
@@ -80,7 +78,6 @@ Super Robot Wars T {https://www.pricecharting.com/pt/game/jp-nintendo-switch/sup
 Super Smash Bros Ultimate {https://www.pricecharting.com/game/nintendo-switch/super-smash-bros-ultimate}
 Survivalists {https://www.pricecharting.com/game/nintendo-switch/the-survivalists}
 This War Of Mine Complete Edition {https://www.pricecharting.com/game/nintendo-switch/this-war-of-mine-complete-edition}
-Titan Quest {https://www.pricecharting.com/game/nintendo-switch/titan-quest}
 Tokyo MIRAGE SESSIONS FE ENCORE {https://www.pricecharting.com/pt/game/nintendo-switch/tokyo-mirage-sessions-fe-encore}
 Tony Hawk Pro Skater 1 2 switch {https://www.pricecharting.com/game/nintendo-switch/tony-hawk%27s-pro-skater-1+2}
 Trials OF MANA switch {https://www.pricecharting.com/pt/game/nintendo-switch/trials-of-mana}

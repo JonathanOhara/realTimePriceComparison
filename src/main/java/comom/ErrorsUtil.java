@@ -28,9 +28,8 @@ public class ErrorsUtil {
             dir.mkdir();
         }
 
-
         if(!matchWordsErrors.isEmpty()) {
-            File file = new File(dir, "/matchWordsErrors" + productName + ".log");
+            File file = new File(dir, "/" + productName + "_matchWordsErrors.log");
             if (!file.exists()) {
                 file.createNewFile();
             }
@@ -42,10 +41,11 @@ public class ErrorsUtil {
 
             bw.flush();
             bw.close();
+            matchWordsErrors.clear();
         }
 
         if(!denyWordErrors.isEmpty()){
-            File file = new File(dir, "/denyWordErrors" + productName + ".log");
+            File file = new File(dir, "/" + productName + "_denyWordErrors.log");
             if (!file.exists()) {
                 file.createNewFile();
             }
@@ -57,6 +57,7 @@ public class ErrorsUtil {
 
             bw.flush();
             bw.close();
+            denyWordErrors.clear();
         }
     }
 }

@@ -6,7 +6,6 @@ Final fantasy psp {https://www.pricecharting.com/game/psp/final-fantasy}
 Grand theft auto chinatown wars psp {https://www.pricecharting.com/game/psp/grand-theft-auto-chinatown-wars}
 Grand theft auto liberty city stories psp {https://www.pricecharting.com/game/psp/grand-theft-auto-liberty-city-stories}
 Guilty gear judgment psp {https://www.pricecharting.com/game/psp/guilty-gear-judgment}
-Jeanne d'arc {https://www.pricecharting.com/game/psp/jeanne-d%27arc}
 Killzone: liberation {https://www.pricecharting.com/game/psp/killzone-liberation}
 Kingdom hearts: birth by sleep {https://www.pricecharting.com/game/psp/kingdom-hearts-birth-by-sleep}
 Kingdom of paradise psp {https://www.pricecharting.com/game/psp/kingdom-of-paradise}
@@ -26,7 +25,6 @@ Patapon psp {https://www.pricecharting.com/game/psp/patapon}
 Phantasy star portable {https://www.pricecharting.com/game/psp/phantasy-star-portable}
 Pixel junk psp {https://www.pricecharting.com/game/psp/pixel-junk-monsters-deluxe}
 Prince of persia rival swords {https://www.pricecharting.com/game/psp/prince-of-persia-rival-swords}
-Sid meier's pirates {https://www.pricecharting.com/game/psp/sid-meiers-pirates-live-the-life}
 Silent hill: origins {https://www.pricecharting.com/game/psp/silent-hill-origins}
 Tales of the world: radiant mythology {https://www.pricecharting.com/game/psp/tales-of-the-world-radiant-mythology}
 Valkyria chronicles psp {https://www.pricecharting.com/game/psp/valkyria-chronicles-2}
@@ -34,4 +32,3 @@ Valkyrie profile: lenneth {https://www.pricecharting.com/game/psp/valkyrie-profi
 Warhammer squad command {https://www.pricecharting.com/game/psp/warhammer-40000-squad-command}
 Wipeout pure {https://www.pricecharting.com/game/psp/wipeout-pure}
 X men legends rise of apocalypse psp {https://www.pricecharting.com/game/pc-games/x-men-legends-ii-rise-of-apocalypse}
-warriors of the lost empire psp {https://www.pricecharting.com/game/psp/warriors-of-the-lost-empire}
