@@ -5,7 +5,7 @@ Bloodstained: CURSE OF THE MOON {https://www.pricecharting.com/game/nintendo-swi
 Brigandine: The Legend Of Runersia {https://www.pricecharting.com/game/nintendo-switch/brigandine-the-legend-of-runersia}
 CAVE STORY switch {https://www.pricecharting.com/game/nintendo-switch/cave-story+}
 Castlevania Anniversary Collection {https://www.pricecharting.com/game/nintendo-switch/castlevania-anniversary-collection}
-Celeste {https://www.pricecharting.com/game/nintendo-switch/celeste}
+Celeste switch {https://www.pricecharting.com/game/nintendo-switch/celeste}
 Diablo III ETERNAL COLLECTION {https://www.pricecharting.com/pt/game/nintendo-switch/diablo-iii-eternal-collection}
 Disgaea 4 COMPLETE+ {https://www.pricecharting.com/game/nintendo-switch/disgaea-4-complete+}
 Divinity: ORIGINAL SIN II - DEFINITIVE EDITION {https://www.pricecharting.com/game/nintendo-switch/divinity-original-sin-ii-definitive-edition}
@@ -18,7 +18,6 @@ Iconoclasts {https://www.pricecharting.com/game/nintendo-switch/iconoclasts}
 Mary Skelter 2 {https://www.pricecharting.com/game/nintendo-switch/mary-skelter-2}
 Messenger switch {https://www.pricecharting.com/game/nintendo-switch/the-messenger}
 Monster Boy And The Cursed Kingdom {https://www.pricecharting.com/game/nintendo-switch/monster-boy-and-the-cursed-kingdom}
-Nights Of Azure 2: Bride Of The New Moon {https://www.pricecharting.com/game/nintendo-switch/nights-of-azure-2-bride-of-the-new-moon}
 No More Heroes 2: Desperate Struggle {https://www.pricecharting.com/game/nintendo-switch/no-more-heroes-2-desperate-struggle}
 No More Heroes {https://www.pricecharting.com/game/nintendo-switch/no-more-heroes}
 Samurai Warriors 5 {https://www.pricecharting.com/game/nintendo-switch/samurai-warriors-5}

@@ -61,7 +61,7 @@ public abstract class SeleniumSearch implements Search {
     }
 
     protected void afterConnectUrl(Shop shop, String productName) throws InterruptedException {
-        Thread.sleep(4000);
+        Thread.sleep(2500);
     }
 
     private List<Product> readEachProduct(Shop shop, Game game, List<WebElement> els, Filter filter) throws IOException {
@@ -93,7 +93,7 @@ public abstract class SeleniumSearch implements Search {
                 previewName = titleElement.get(0).getText();
 //                System.out.println("\t\tNome do Produto: "+previewName);
 
-                if(  filter.filter(previewName, game.getName(), shop.getNome(), ignoreNameFilter()) ){
+                if( filter.filter(previewName, game.getName(), shop.getNome(), ignoreNameFilter()) ){
                     individualUrl = getIndividualUrl(shop, productContainer);
 
                     List<WebElement> priceElements = element.findElements(By.cssSelector(getProductPriceCssQuery()));

@@ -18,9 +18,7 @@ public class SeleniumUtil {
     }
 
     public static WebDriver getDriver(){
-        if(count++ % 24 == 0) {
-            closeDriver();
-        }
+        count++;
         if(driver == null){
             init();
 //            FirefoxOptions firefoxOptions = new FirefoxOptions();

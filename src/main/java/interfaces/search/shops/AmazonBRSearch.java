@@ -12,6 +12,11 @@ import java.net.URISyntaxException;
 public class AmazonBRSearch extends SeleniumSearch {
 
 	@Override
+	protected String priceSanatize(String price) {
+		return super.priceSanatize(price.replace("\n", ","));
+	}
+
+	@Override
 	public String getName() {
 		return "AmazonBR";
 	}
@@ -43,7 +48,7 @@ public class AmazonBRSearch extends SeleniumSearch {
 
 	@Override
 	protected String getProductPriceCssQuery() {
-		return "span.a-price[data-a-color='base'] > span.a-offscreen";
+		return "span.a-price[data-a-color='base'] > span:nth-child(2)";
 	}
 
 	@Override

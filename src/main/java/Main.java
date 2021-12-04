@@ -44,9 +44,9 @@ public class Main {
 
 			configurarSaida(game.getName());
 			generateHtmlReport(i, game, shops);
+			SeleniumUtil.closeDriver();
 		}
 
-		SeleniumUtil.closeDriver();
 		totalsReport.closeAndWriteFile();
 
 /*
@@ -185,9 +185,9 @@ public class Main {
 		shops.add( buildShop( new NetShoesSeleniumSearch(), productType ) );
 
 		if( productType.equals(ProductType.SWITCH) ) {
-			shops.add(buildShop(new CasasBahiaSeleniumSearch(), productType));
-			shops.add(buildShop(new ExtraSeleniumSearch(), productType));
-			shops.add(buildShop(new PontoFrioSeleniumSearch(), productType));
+//			shops.add(buildShop(new CasasBahiaSeleniumSearch(), productType));
+//			shops.add(buildShop(new ExtraSeleniumSearch(), productType));
+//			shops.add(buildShop(new PontoFrioSeleniumSearch(), productType));
 		}
 
 		shops.add( buildShop( new RiHappySeleniumSearch(), productType ) );

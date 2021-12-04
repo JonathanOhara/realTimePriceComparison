@@ -89,6 +89,10 @@ public class Product {
 		float valueModificator = 1;
 		try{
 
+			if( value.indexOf(",") != value.lastIndexOf(",")){
+				value.replace(",","");
+			}
+
 			if( value.startsWith("$") ){ //Nintendo eShop
 				value = value.replace("$", "").trim();
 				value = value.replace("*", "").trim();

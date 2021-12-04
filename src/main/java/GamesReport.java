@@ -114,7 +114,11 @@ public class GamesReport {
 			if( higherPrice > 0){
 				style = "background-color: #FFCCCB;";
 
-				if(totalProductPrice < higherPrice * 1.25f){
+				if(totalProductPrice <= higherPrice * 1.33f){
+					style = "background-color: #FFD580;";
+				}
+
+				if(totalProductPrice <= higherPrice * 1.15f){
 					style = "background-color: #FFFACD;";
 				}
 
