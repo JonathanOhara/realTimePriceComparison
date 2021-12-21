@@ -6,8 +6,7 @@ import interfaces.search.SeleniumSearch;
 import objects.Product;
 import objects.ProductType;
 import objects.Shop;
-import org.openqa.selenium.By;
-import org.openqa.selenium.WebElement;
+import objects.normalizer.PageElement;
 
 import java.net.MalformedURLException;
 import java.net.URISyntaxException;
@@ -70,8 +69,7 @@ public class EbaySeleniumSearch extends SeleniumSearch {
 
 	@Override
 	protected Product afterBuildProduct(Product product) {
-		String shipmentCost = product.getProductContainerSelenium().findElement(By.cssSelector(".s-item__logisticsCost")).getText();
-
+		String shipmentCost = product.getPageElement().getByCssSelector(".s-item__logisticsCost").get(0).getText();
 
 		if(shipmentCost.indexOf("R$") > -1) {
 			String shipmentMsg = " shipping";
@@ -94,9 +92,9 @@ public class EbaySeleniumSearch extends SeleniumSearch {
 	}
 
 	@Override
-	protected boolean validProduct(WebElement productContainer) {
+	protected boolean validProduct(PageElement productContainer) {
 		boolean valid = true;
-		String shipmentCost = productContainer.findElement(By.cssSelector(".s-item__logisticsCost")).getText();
+		String shipmentCost = productContainer.getByCssSelector(".s-item__logisticsCost").get(0).getText();
 
 		if(shipmentCost.toLowerCase().contains("não")){
 			System.out.println("[ERROR] Item pode não enviar para o Brasil");

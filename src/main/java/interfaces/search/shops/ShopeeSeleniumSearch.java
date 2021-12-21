@@ -6,6 +6,7 @@ import objects.ProductType;
 import objects.Shop;
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
+import org.openqa.selenium.WebDriver;
 
 import java.net.MalformedURLException;
 import java.net.URISyntaxException;
@@ -24,11 +25,13 @@ public class ShopeeSeleniumSearch extends SeleniumSearch {
 
 	@Override
 	public String getSearchPattern(ProductType productType) {
-		return "https://shopee.com.br/search?keyword=<BUSCA>";
+		return "https://shopee.com.br/search?category=26942&keyword=<BUSCA>&subcategory=26957";
 	}
 
 	@Override
 	protected void afterFindProductName(String previewName) {
+		WebDriver driver = (WebDriver) pageDocument.getSourceObject();
+
 		driver.findElement(By.cssSelector("body")).sendKeys(Keys.ARROW_DOWN);
 		driver.findElement(By.cssSelector("body")).sendKeys(Keys.ARROW_DOWN);
 		super.afterFindProductName(previewName);
@@ -41,7 +44,7 @@ public class ShopeeSeleniumSearch extends SeleniumSearch {
 
 	@Override
 	protected String getProductNameCssQuery() {
-		return "div.UjjMrh";
+		return "div._3GAFiR";
 	}
 
 	@Override

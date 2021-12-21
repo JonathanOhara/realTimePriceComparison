@@ -21,6 +21,11 @@ public class PlayAsiaSeleniumSearch extends SeleniumSearch {
 	}
 
 	@Override
+	protected boolean isProductPage(String currentUrl) {
+		return !currentUrl.contains("/search/");
+	}
+
+	@Override
 	public String getSearchPattern(ProductType productType) {
 		switch (productType){
 			case DEFAULT:
@@ -57,6 +62,11 @@ public class PlayAsiaSeleniumSearch extends SeleniumSearch {
 	@Override
 	protected String getProductPriceCssQuery() {
 		return "span.price_val";
+	}
+
+	@Override
+	protected String getProductPagePriceCssQuery() {
+		return "#price_pi > span.price_val";
 	}
 
 	@Override

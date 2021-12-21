@@ -5,6 +5,7 @@ import interfaces.search.SeleniumSearch;
 import objects.ProductType;
 import objects.Shop;
 import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
 
 import java.net.MalformedURLException;
 import java.net.URISyntaxException;
@@ -28,6 +29,8 @@ public class PontoFrioSeleniumSearch extends SeleniumSearch {
 
 	@Override
 	protected void afterConnectUrl(Shop shop, String productName) throws InterruptedException {
+		WebDriver driver = (WebDriver) pageDocument.getSourceObject();
+
 		try {
 			Thread.sleep(100);
 			if(driver.findElements(By.cssSelector(getProductPriceCssQuery())).isEmpty()) {

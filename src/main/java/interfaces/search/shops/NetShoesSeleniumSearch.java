@@ -4,7 +4,7 @@ import comom.Util;
 import interfaces.search.SeleniumSearch;
 import objects.ProductType;
 import objects.Shop;
-import org.openqa.selenium.WebElement;
+import objects.normalizer.PageElement;
 
 import java.net.MalformedURLException;
 import java.net.URISyntaxException;
@@ -27,7 +27,7 @@ public class NetShoesSeleniumSearch extends SeleniumSearch {
 	}
 
 	@Override
-	protected String getIndividualUrl(Shop shop, WebElement productContainer) {
+	protected String getIndividualUrl(Shop shop, PageElement productContainer) {
 		String individualUrl;
 		individualUrl = productContainer.getAttribute("href");
 		return individualUrl;

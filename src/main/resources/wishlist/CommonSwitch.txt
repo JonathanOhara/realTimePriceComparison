@@ -8,7 +8,7 @@ Blasphemous switch {https://www.pricecharting.com/pt/game/nintendo-switch/blasph
 Borderlands Legendary Collection {https://www.pricecharting.com/game/nintendo-switch/borderlands-legendary-collection}
 Bravely DEFAULT II {https://www.pricecharting.com/game/nintendo-switch/bravely-default-ii}
 Cadence OF HYRULE {https://www.pricecharting.com/game/nintendo-switch/cadence-of-hyrule-crypt-of-the-necrodancer}
-Cris TALES {https://www.pricecharting.com/game/nintendo-switch/cris-tales}
+Cris TALES switch {https://www.pricecharting.com/game/nintendo-switch/cris-tales}
 Cruis BLAST {https://www.pricecharting.com/game/nintendo-switch/cruis%27n-blast}
 Crypt OF THE NECRODANCER {https://www.pricecharting.com/game/nintendo-switch/crypt-of-the-necrodancer-collector%27s-edition}
 Crysis Remastered switch {https://www.pricecharting.com/pt/game/nintendo-switch/crysis-remastered}
@@ -22,7 +22,6 @@ Deadly Premonition 2 {https://www.pricecharting.com/game/nintendo-switch/deadly-
 Disgaea 5 COMPLETE switch {https://www.pricecharting.com/pt/game/nintendo-switch/disgaea-5-complete}
 Disgaea 6: Defiance Of Destiny {https://www.pricecharting.com/game/nintendo-switch/disgaea-6-defiance-of-destiny-unrelenting-edition}
 Donkey KONG TROPICAL FREEZE {https://www.pricecharting.com/pt/game/nintendo-switch/donkey-kong-country-tropical-freeze}
-Doom Slayers Collection switch {https://www.pricecharting.com/game/nintendo-switch/doom-slayers-collection}
 Dragon BALL FIGHTER Z switch {https://www.pricecharting.com/game/nintendo-switch/dragon-ball-fighterz}
 Dragon Ball Xenoverse 2 {https://www.pricecharting.com/game/nintendo-switch/dragon-ball-xenoverse-2}
 Dragon Ball Z: Kakarot + A New Power Awakens Set {https://www.pricecharting.com/game/nintendo-switch/dragon-ball-z-kakarot-+-a-new-power-awakens-set}
@@ -35,7 +34,7 @@ Ghostrunner {https://www.pricecharting.com/game/nintendo-switch/ghostrunner}
 Great ACE ATTORNEY CHRONICLES {https://www.pricecharting.com/game/nintendo-switch/the-great-ace-attorney-chronicles}
 Horizon Chase Turbo switch {https://www.pricecharting.com/game/nintendo-switch/horizon-chase-turbo}
 Hotline miami collection {https://www.pricecharting.com/game/nintendo-switch/hotline-miami-collection}
-Hyrule WARRIORS: AGE OF CALAMITY {https://www.pricecharting.com/pt/game/nintendo-switch/hyrule-warriors-age-of-calamity}
+Hyrule WARRIORS: CALAMITY {https://www.pricecharting.com/pt/game/nintendo-switch/hyrule-warriors-age-of-calamity}
 Immortals: FENYX RISING switch {https://www.pricecharting.com/pt/game/nintendo-switch/immortals-fenyx-rising}
 Indivisible switch {https://www.pricecharting.com/game/nintendo-switch/indivisible}
 Kingdoms Of Amalur switch {https://www.pricecharting.com/game/nintendo-switch/kingdoms-of-amalur-re-reckoning}
@@ -52,10 +51,9 @@ Minecraft DUNGEONS switch {https://www.pricecharting.com/game/nintendo-switch/mi
 Monster Hunter Generations Ultimate {https://www.pricecharting.com/game/nintendo-switch/monster-hunter-generations-ultimate}
 Monster Hunter Rise {https://www.pricecharting.com/game/nintendo-switch/monster-hunter-rise}
 Monster Hunter Stories 2: Wings Of Ruin {https://www.pricecharting.com/game/nintendo-switch/monster-hunter-stories-2-wings-of-ruin}
-Nelke & THE LEGENDARY ALCHEMISTS: ATELIERS OF THE NEW WORLD {https://www.pricecharting.com/game/nintendo-switch/nelke-&-the-legendary-alchemists-ateliers-of-the-new-world}
+Nelke THE LEGENDARY ALCHEMISTS {https://www.pricecharting.com/game/nintendo-switch/nelke-&-the-legendary-alchemists-ateliers-of-the-new-world}
 New Pokemon Snap {https://www.pricecharting.com/game/nintendo-switch/new-pokemon-snap}
 Ni No Kuni II: Revenant Kingdom {https://www.pricecharting.com/game/nintendo-switch/ni-no-kuni-ii-revenant-kingdom}
-No more heroes III {https://www.pricecharting.com/game/nintendo-switch/no-more-heroes-iii}
 Northgard {https://www.pricecharting.com/game/nintendo-switch/northgard}
 Octopath TRAVELER {https://www.pricecharting.com/pt/game/nintendo-switch/octopath-traveler}
 Outer Worlds switch {https://www.pricecharting.com/game/nintendo-switch/the-outer-worlds}

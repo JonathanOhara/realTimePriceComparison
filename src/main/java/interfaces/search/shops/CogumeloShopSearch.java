@@ -4,8 +4,7 @@ import comom.Util;
 import interfaces.search.JsoupSearch;
 import objects.ProductType;
 import objects.Shop;
-import org.jsoup.nodes.Element;
-
+import objects.normalizer.PageElement;
 
 import java.net.MalformedURLException;
 import java.net.URISyntaxException;
@@ -28,10 +27,10 @@ public class CogumeloShopSearch extends JsoupSearch {
 	}
 
 	@Override
-	protected boolean validProduct(Element productContainer) {
+	protected boolean validProduct(PageElement productContainer) {
 		boolean valid = true;
 
-		if(productContainer.select("div.preco-produto").text().startsWith("Indispon")){
+		if(productContainer.getByCssSelector("div.preco-produto").get(0).getText().startsWith("Indispon")){
 			System.out.println("[ERROR] TAG indisponivel encontrada");
 			valid = false;
 		}

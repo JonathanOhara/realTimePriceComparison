@@ -1,5 +1,8 @@
-import comom.*;
-import interfaces.search.*;
+import comom.DefaultFilters;
+import comom.MyPrintStream;
+import comom.SeleniumUtil;
+import comom.Util;
+import interfaces.search.Search;
 import interfaces.search.shops.*;
 import objects.Game;
 import objects.PriceCharting;
@@ -185,9 +188,9 @@ public class Main {
 		shops.add( buildShop( new NetShoesSeleniumSearch(), productType ) );
 
 		if( productType.equals(ProductType.SWITCH) ) {
-//			shops.add(buildShop(new CasasBahiaSeleniumSearch(), productType));
-//			shops.add(buildShop(new ExtraSeleniumSearch(), productType));
-//			shops.add(buildShop(new PontoFrioSeleniumSearch(), productType));
+			shops.add(buildShop(new CasasBahiaSeleniumSearch(), productType));
+			shops.add(buildShop(new ExtraSeleniumSearch(), productType));
+			shops.add(buildShop(new PontoFrioSeleniumSearch(), productType));
 		}
 
 		shops.add( buildShop( new RiHappySeleniumSearch(), productType ) );
@@ -196,14 +199,16 @@ public class Main {
 
 		shops.add( buildShop( new AtacadoDosJogosSearch(), productType ) );
 		shops.add( buildShop( new BigBoyGamesSearch(), productType ) );
-		shops.add( buildShop( new CogumeloShopSearch(), productType ) );
+
+		if(productType.equals(ProductType.N3DS) || productType.equals(ProductType.NDS) || productType.equals(ProductType.SWITCH) ) {
+			shops.add( buildShop( new CogumeloShopSearch(), productType ) );
+			shops.add(buildShop( new TrilogyNintendoSearch(), productType) );
+		}
+
 		shops.add( buildShop( new GTAGamesSearch(), productType ) );
 		shops.add( buildShop( new IzzyGamesSearch(), productType ) );
 		shops.add( buildShop( new BlueWavesGamesSearch(), productType ) );
 
-		if(productType.equals(ProductType.N3DS) || productType.equals(ProductType.NDS) || productType.equals(ProductType.SWITCH) ) {
-			shops.add(buildShop(new TrilogyNintendoSearch(), productType));
-		}
 
 		shops.add( buildShop( new MercadoLivreSeleniumSearch(), productType ) );
 		shops.add( buildShop( new ShopeeSeleniumSearch(), productType ) );
@@ -211,6 +216,7 @@ public class Main {
 		shops.add( buildShop( new Shop4BRSearch(), productType ) );
 		shops.add( buildShop( new PlayAsiaSeleniumSearch(), productType ) );
 		shops.add( buildShop( new EbaySeleniumSearch(), productType ) );
+
 
 //		shops.add( buildShop( new AmazonUSSearch(), productType ) ); TODO FIX currency conversion
 //		shops.add( buildShop( new FuturisticGamesSeleniumSearch(), productType ) );

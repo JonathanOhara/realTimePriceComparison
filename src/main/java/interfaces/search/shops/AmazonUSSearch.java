@@ -1,7 +1,6 @@
 package interfaces.search.shops;
 
 import comom.Util;
-import interfaces.search.JsoupSearch;
 import interfaces.search.SeleniumSearch;
 import objects.ProductType;
 import objects.Shop;

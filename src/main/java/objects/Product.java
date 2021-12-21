@@ -1,8 +1,7 @@
 package objects;
 
 import comom.Keys;
-import org.jsoup.nodes.Node;
-import org.openqa.selenium.WebElement;
+import objects.normalizer.PageElement;
 
 import java.util.Optional;
 
@@ -15,31 +14,19 @@ public class Product {
 	private String value;
 
 	private String shipping;
-	
-	private Node productContainer;
-	private WebElement productContainerSelenium;
+
+	private PageElement pageElement;
 
 	public Product() {}
-		
-	
-	public Product(Game game, String name, String imageUrl, String url, Node productContainer, String value) {
-		super();
-		this.game = game;
-		this.name = name;
-		this.imageUrl = imageUrl;
-		this.url = url;
-		this.value = value;
-		this.productContainer = productContainer;
-	}
 
-	public Product(Game game, String name, String imageUrl, String url, WebElement productContainerSelenium, String value) {
+	public Product(Game game, String name, String imageUrl, String url, PageElement pageElement, String value) {
 		super();
 		this.game = game;
 		this.name = name;
 		this.imageUrl = imageUrl;
 		this.url = url;
 		this.value = value;
-		this.productContainerSelenium = productContainerSelenium;
+		this.pageElement = pageElement;
 	}
 
 
@@ -102,6 +89,7 @@ public class Product {
 
 			value = value.replace("por R$", "").trim();
 			value = value.replace("R$", "").trim();
+			value = value.replace("R ", "").trim();
 
 			if( value.contains(".") ){
 				if( value.indexOf(".") == value.length() - 2 || value.indexOf(".") == value.length() - 3 ){
@@ -126,7 +114,7 @@ public class Product {
 		return returnValue;
 	}
 
-	/*
+/*
 	public static void main(String[] args) {
 		Product product = new Product();
 		
@@ -160,10 +148,14 @@ public class Product {
 		product.setValue("1,000.01");
 		System.out.println( product.getFloatValue() );
 
+		product.setValue("R 1,048.88");
+		System.out.println( product.getFloatValue() );
+
 		product.setValue("Indisponível");
 		System.out.println( product.getFloatValue() );
 	}
-	*/
+*/
+
 	public String getValue() {
 		return value;
 	}
@@ -171,13 +163,6 @@ public class Product {
 		this.value = value;
 	}
 
-	public Node getProductContainer() {
-		return productContainer;
-	}
-
-	public void setProductContainer(Node productContainer) {
-		this.productContainer = productContainer;
-	}
 
 	public String getShipping() {
 		return shipping;
@@ -187,12 +172,12 @@ public class Product {
 		this.shipping = shipping;
 	}
 
-	public WebElement getProductContainerSelenium() {
-		return productContainerSelenium;
+	public PageElement getPageElement() {
+		return pageElement;
 	}
 
-	public void setProductContainerSelenium(WebElement productContainerSelenium) {
-		this.productContainerSelenium = productContainerSelenium;
+	public void setPageElement(PageElement pageElement) {
+		this.pageElement = pageElement;
 	}
 
 	public Game getGame() {
