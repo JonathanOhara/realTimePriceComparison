@@ -14,6 +14,12 @@ import java.net.URISyntaxException;
 public class ShopeeSeleniumSearch extends SeleniumSearch {
 
 	@Override
+	protected void afterConnectUrl(Shop shop, String productName) throws InterruptedException {
+		Thread.sleep(2000);
+		super.afterConnectUrl(shop, productName);
+	}
+
+	@Override
 	public String getName() {
 		return "Shopee";
 	}
@@ -44,12 +50,12 @@ public class ShopeeSeleniumSearch extends SeleniumSearch {
 
 	@Override
 	protected String getProductNameCssQuery() {
-		return "div._3GAFiR";
+		return "div._3GAFiR > div.ZG__4J > div";
 	}
 
 	@Override
 	protected String getProductPriceCssQuery() {
-		return "div._1heB4J";
+		return "div._3_FVSo > div.zp9xm9.kNGSLn.l-u0xK";
 	}
 
 	@Override

@@ -43,11 +43,13 @@ public class Main {
 			String gameInput = ler.get(i);
 
 			Game game = extractGame(gameInput, true);
-			System.out.println("Game: " + game.getName());
+			PrintStream printStream = configurarSaida(game.getName());
 
-			configurarSaida(game.getName());
+			System.out.println("Game: " + game.getName());
 			generateHtmlReport(i, game, shops);
 			SeleniumUtil.closeDriver();
+			printStream.flush();
+			printStream.close();
 		}
 
 		totalsReport.closeAndWriteFile();
@@ -131,13 +133,14 @@ public class Main {
 		return priceCharting;
 	}
 
-	private static void configurarSaida(String productName) throws IOException {
+	private static PrintStream configurarSaida(String productName) throws IOException {
 		logAdress = Util.getReportsPath() + "/" + Util.sanitizeFilename( productName ) + ".log";
 		PrintStream fileStream = new MyPrintStream(new FileOutputStream( logAdress, true ), System.out);
 		
 		System.setOut(fileStream);
 		System.setErr(fileStream);
-		
+
+		return  fileStream;
 	}
 
 	public static void generateHtmlReport(int index, Game game, List<Shop> shops) throws URISyntaxException, IOException{
@@ -188,9 +191,9 @@ public class Main {
 		shops.add( buildShop( new NetShoesSeleniumSearch(), productType ) );
 
 		if( productType.equals(ProductType.SWITCH) ) {
-			shops.add(buildShop(new CasasBahiaSeleniumSearch(), productType));
-			shops.add(buildShop(new ExtraSeleniumSearch(), productType));
-			shops.add(buildShop(new PontoFrioSeleniumSearch(), productType));
+//			shops.add(buildShop(new CasasBahiaSeleniumSearch(), productType));
+//			shops.add(buildShop(new ExtraSeleniumSearch(), productType));
+//			shops.add(buildShop(new PontoFrioSeleniumSearch(), productType));
 		}
 
 		shops.add( buildShop( new RiHappySeleniumSearch(), productType ) );
@@ -202,7 +205,7 @@ public class Main {
 
 		if(productType.equals(ProductType.N3DS) || productType.equals(ProductType.NDS) || productType.equals(ProductType.SWITCH) ) {
 			shops.add( buildShop( new CogumeloShopSearch(), productType ) );
-			shops.add(buildShop( new TrilogyNintendoSearch(), productType) );
+			shops.add( buildShop( new TrilogyNintendoSearch(), productType) );
 		}
 
 		shops.add( buildShop( new GTAGamesSearch(), productType ) );
@@ -216,7 +219,6 @@ public class Main {
 		shops.add( buildShop( new Shop4BRSearch(), productType ) );
 		shops.add( buildShop( new PlayAsiaSeleniumSearch(), productType ) );
 		shops.add( buildShop( new EbaySeleniumSearch(), productType ) );
-
 
 //		shops.add( buildShop( new AmazonUSSearch(), productType ) ); TODO FIX currency conversion
 //		shops.add( buildShop( new FuturisticGamesSeleniumSearch(), productType ) );
