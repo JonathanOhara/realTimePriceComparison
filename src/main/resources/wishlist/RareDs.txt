@@ -1,4 +1,4 @@
-Age Of Empires Mythologies {https://www.pricecharting.com/game/nintendo-ds/age-of-empires-mythologies}
+Age Of Empires ds {https://www.pricecharting.com/game/nintendo-ds/age-of-empires-mythologies}
 Aliens: infestation {https://www.pricecharting.com/game/nintendo-ds/aliens-infestation}
 Atelier annie: alchemists of sera island {https://www.pricecharting.com/game/nintendo-ds/atelier-annie-alchemists-of-sera-island}
 Avalon code {https://www.pricecharting.com/game/nintendo-ds/avalon-code}
@@ -13,17 +13,18 @@ Draglade ds {https://www.pricecharting.com/game/nintendo-ds/draglade}
 Dragon ball z attack of the saiyans {https://www.pricecharting.com/game/nintendo-ds/dragon-ball-z-attack-of-the-saiyans}
 Dragon ball z supersonic warriors 2 {https://www.pricecharting.com/game/nintendo-ds/dragon-ball-z-supersonic-warriors-2}
 Dragon ball: origins 2 {https://www.pricecharting.com/game/nintendo-ds/dragon-ball-origins-2}
-Dragon quest iv chapters of the chosen {https://www.pricecharting.com/game/nintendo-ds/dragon-quest-iv-chapters-of-the-chosen}
-Dragon quest ix sentinels of the starry skies {https://www.pricecharting.com/game/nintendo-ds/dragon-quest-ix-sentinels-of-the-starry-skies}
+Dragon quest iv {https://www.pricecharting.com/game/nintendo-ds/dragon-quest-iv-chapters-of-the-chosen}
+Dragon quest ix {https://www.pricecharting.com/game/nintendo-ds/dragon-quest-ix-sentinels-of-the-starry-skies}
 Dragon quest monsters joker {https://www.pricecharting.com/game/nintendo-ds/dragon-quest-monsters-joker}
 Dragon quest monsters: joker 2 {https://www.pricecharting.com/game/nintendo-ds/dragon-quest-monsters-joker-2}
-Dragon quest v: hand of the heavenly bride {https://www.pricecharting.com/game/nintendo-ds/dragon-quest-v-hand-of-the-heavenly-bride}
-Dragon quest vi: realms of revelation {https://www.pricecharting.com/game/nintendo-ds/dragon-quest-vi-realms-of-revelation}
+Dragon quest v hand of the heavenly bride {https://www.pricecharting.com/game/nintendo-ds/dragon-quest-v-hand-of-the-heavenly-bride}
+Dragon quest vi {https://www.pricecharting.com/game/nintendo-ds/dragon-quest-vi-realms-of-revelation}
 Drone tactics ds {https://www.pricecharting.com/game/nintendo-ds/drone-tactics}
 Etrian odyssey ii heroes of lagaard {https://www.pricecharting.com/game/nintendo-ds/etrian-odyssey-ii-heroes-of-lagaard}
 Etrian odyssey iii: the drowned city {https://www.pricecharting.com/game/nintendo-ds/etrian-odyssey-iii-the-drowned-city}
 Etrian odyssey {https://www.pricecharting.com/game/nintendo-ds/etrian-odyssey}
 Final fantasy: the 4 heroes of light {https://www.pricecharting.com/game/nintendo-ds/final-fantasy-the-4-heroes-of-light}
+Fire emblem: shadow dragon ds {https://www.pricecharting.com/game/nintendo-ds/fire-emblem-shadow-dragon}
 From the abyss {https://www.pricecharting.com/game/nintendo-ds/from-the-abyss}
 Front mission ds {https://www.pricecharting.com/game/nintendo-ds/front-mission}
 Harvest moon ds: sunshine islands {https://www.pricecharting.com/game/nintendo-ds/harvest-moon-sunshine-islands}
@@ -61,4 +62,4 @@ Summon night: twin age {https://www.pricecharting.com/game/nintendo-ds/summon-ni
 Super princess peach {https://www.pricecharting.com/game/nintendo-ds/super-princess-peach}
 Super robot taisen og saga: endless frontier {https://www.pricecharting.com/game/nintendo-ds/super-robot-taisen-og-saga-endless-frontier}
 The dark spire {https://www.pricecharting.com/game/nintendo-ds/the-dark-spire}
-Viewtiful joe double trouble {https://www.pricecharting.com/game/nintendo-ds/viewtiful-joe-double-trouble}
+Viewtiful joe {https://www.pricecharting.com/game/nintendo-ds/viewtiful-joe-double-trouble}

@@ -11,6 +11,12 @@ import java.net.URISyntaxException;
 public class MercadoLivreSeleniumSearch extends SeleniumSearch {
 
 	@Override
+	protected void afterConnectUrl(Shop shop, String productName) throws InterruptedException {
+		Thread.sleep(1000);
+		super.afterConnectUrl(shop, productName);
+	}
+
+	@Override
 	public String getName() {
 		return "Mercado Livre";
 	}

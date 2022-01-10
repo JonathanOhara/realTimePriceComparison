@@ -37,7 +37,7 @@ public class GamesReport {
 		htmlFinal.append("<body>\n");
 		
 		htmlFinal.append("\t<section class='wrapper' >\n");
-		htmlFinal.append("\t\t<h1>Navegue pelas abas para outras Visualizações do Resultado</h1>\n");
+		htmlFinal.append("\t\t<h1>").append(nameToSearch).append("</h1>\n");
 		htmlFinal.append("\t\t<ul class='tabs'>\n");
 		htmlFinal.append("\t\t\t<li><a href='#tab1'>Relatório</a></li>\n");
 		htmlFinal.append("\t\t\t\t<li><a href='#tab2'>Outros Buscadores</a></li>\n");

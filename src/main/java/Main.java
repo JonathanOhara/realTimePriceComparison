@@ -182,7 +182,7 @@ public class Main {
 
 		shops.add( buildShop( new AmericanasSearch(), productType ) );
 		shops.add( buildShop( new SubmarinoSearch(), productType ) );
-		shops.add( buildShop( new ShopTimeSeleniumSearch(), productType ) );
+//		shops.add( buildShop( new ShopTimeSeleniumSearch(), productType ) );
 		shops.add( buildShop( new CarrefourSeleniumSearch(), productType ) );
 		shops.add( buildShop( new FastShopSeleniumSearch(), productType ) );
 		shops.add( buildShop( new KabumSeleniumSearch(), productType ) );
@@ -211,7 +211,6 @@ public class Main {
 		shops.add( buildShop( new GTAGamesSearch(), productType ) );
 		shops.add( buildShop( new IzzyGamesSearch(), productType ) );
 		shops.add( buildShop( new BlueWavesGamesSearch(), productType ) );
-
 
 		shops.add( buildShop( new MercadoLivreSeleniumSearch(), productType ) );
 		shops.add( buildShop( new ShopeeSeleniumSearch(), productType ) );
