@@ -1,6 +1,4 @@
 Daxter psp {https://www.pricecharting.com/game/psp/daxter}
-Dragon ball z: shin budokai {https://www.pricecharting.com/game/psp/dragon-ball-z-shin-budokai}
-Dungeon siege throne of agony {https://www.pricecharting.com/game/psp/dungeon-siege-throne-of-agony}
 Final fantasy psp {https://www.pricecharting.com/game/psp/final-fantasy}
 Grand theft auto chinatown wars psp {https://www.pricecharting.com/game/psp/grand-theft-auto-chinatown-wars}
 Grand theft auto liberty city stories psp {https://www.pricecharting.com/game/psp/grand-theft-auto-liberty-city-stories}
@@ -22,12 +20,9 @@ Monster hunter freedom unite {https://www.pricecharting.com/game/psp/monster-hun
 Patapon psp {https://www.pricecharting.com/game/psp/patapon}
 Patapon 2 psp {https://www.pricecharting.com/game/psp/patapon-2}
 Phantasy star portable {https://www.pricecharting.com/game/psp/phantasy-star-portable}
-Pixel junk psp {https://www.pricecharting.com/game/psp/pixel-junk-monsters-deluxe}
 Prince of persia rival swords {https://www.pricecharting.com/game/psp/prince-of-persia-rival-swords}
-Silent hill: origins {https://www.pricecharting.com/game/psp/silent-hill-origins}
+Silent hill: origin {https://www.pricecharting.com/game/psp/silent-hill-origins}
 Tales of the world: radiant mythology {https://www.pricecharting.com/game/psp/tales-of-the-world-radiant-mythology}
 Valkyria chronicles psp {https://www.pricecharting.com/game/psp/valkyria-chronicles-2}
 Valkyrie profile: lenneth {https://www.pricecharting.com/game/psp/valkyrie-profile-lenneth}
-Warhammer squad command {https://www.pricecharting.com/game/psp/warhammer-40000-squad-command}
-Wipeout pure {https://www.pricecharting.com/game/psp/wipeout-pure}
 X men legends rise of apocalypse psp {https://www.pricecharting.com/game/pc-games/x-men-legends-ii-rise-of-apocalypse}
