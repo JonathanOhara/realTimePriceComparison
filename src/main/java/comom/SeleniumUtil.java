@@ -5,6 +5,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 
 import java.util.Arrays;
+import java.util.concurrent.TimeUnit;
 
 public class SeleniumUtil {
     private SeleniumUtil(){}
@@ -43,7 +44,9 @@ public class SeleniumUtil {
             options.setExperimentalOption("excludeSwitches", Arrays.asList("enable-automation"));
 
             driver = new ChromeDriver(options);
+            driver.manage().timeouts().pageLoadTimeout(120, TimeUnit.SECONDS);
         }
+
         return driver;
     }
 

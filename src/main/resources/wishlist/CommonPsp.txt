@@ -1,5 +1,4 @@
 Daxter psp {https://www.pricecharting.com/game/psp/daxter}
-Final fantasy psp {https://www.pricecharting.com/game/psp/final-fantasy}
 Grand theft auto chinatown wars psp {https://www.pricecharting.com/game/psp/grand-theft-auto-chinatown-wars}
 Grand theft auto liberty city stories psp {https://www.pricecharting.com/game/psp/grand-theft-auto-liberty-city-stories}
 Guilty gear judgment psp {https://www.pricecharting.com/game/psp/guilty-gear-judgment}
