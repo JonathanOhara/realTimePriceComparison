@@ -1,13 +1,12 @@
 Daxter psp {https://www.pricecharting.com/game/psp/daxter}
+Final Fantasy II {https://www.pricecharting.com/game/psp/final-fantasy-ii}
 Grand theft auto chinatown wars psp {https://www.pricecharting.com/game/psp/grand-theft-auto-chinatown-wars}
 Grand theft auto liberty city stories psp {https://www.pricecharting.com/game/psp/grand-theft-auto-liberty-city-stories}
 Guilty gear judgment psp {https://www.pricecharting.com/game/psp/guilty-gear-judgment}
 Killzone: liberation {https://www.pricecharting.com/game/psp/killzone-liberation}
-Kingdom hearts: birth by sleep {https://www.pricecharting.com/game/psp/kingdom-hearts-birth-by-sleep}
 Kingdom of paradise psp {https://www.pricecharting.com/game/psp/kingdom-of-paradise}
 Lord of Arcana {https://www.pricecharting.com/game/psp/lord-of-arcana}
 Lord of the rings tactics psp {https://www.pricecharting.com/game/psp/lord-of-the-rings-tactics}
-Manhunt 2 psp {https://www.pricecharting.com/game/psp/manhunt-2}
 Medal of honor heroes psp {https://www.pricecharting.com/game/psp/medal-of-honor-heroes}
 Medievil resurrection psp {https://www.pricecharting.com/game/psp/medievil-resurrection}
 Mega man maverick hunter {https://www.pricecharting.com/game/psp/mega-man-maverick-hunter-x}
@@ -23,5 +22,4 @@ Prince of persia rival swords {https://www.pricecharting.com/game/psp/prince-of-
 Silent hill: origin {https://www.pricecharting.com/game/psp/silent-hill-origins}
 Tales of the world: radiant mythology {https://www.pricecharting.com/game/psp/tales-of-the-world-radiant-mythology}
 Valkyria chronicles psp {https://www.pricecharting.com/game/psp/valkyria-chronicles-2}
-Valkyrie profile: lenneth {https://www.pricecharting.com/game/psp/valkyrie-profile-lenneth}
 X men legends rise of apocalypse psp {https://www.pricecharting.com/game/pc-games/x-men-legends-ii-rise-of-apocalypse}

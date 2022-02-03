@@ -8,7 +8,6 @@ Blasphemous switch {https://www.pricecharting.com/pt/game/nintendo-switch/blasph
 Borderlands Legendary Collection {https://www.pricecharting.com/game/nintendo-switch/borderlands-legendary-collection}
 Bravely DEFAULT II {https://www.pricecharting.com/game/nintendo-switch/bravely-default-ii}
 Cadence OF HYRULE {https://www.pricecharting.com/game/nintendo-switch/cadence-of-hyrule-crypt-of-the-necrodancer}
-Cris TALES switch {https://www.pricecharting.com/game/nintendo-switch/cris-tales}
 Cruis BLAST {https://www.pricecharting.com/game/nintendo-switch/cruis%27n-blast}
 Crypt OF THE NECRODANCER {https://www.pricecharting.com/game/nintendo-switch/crypt-of-the-necrodancer-collector%27s-edition}
 Crysis Remastered switch {https://www.pricecharting.com/pt/game/nintendo-switch/crysis-remastered}
@@ -50,7 +49,6 @@ Monster Hunter Generations Ultimate {https://www.pricecharting.com/game/nintendo
 Monster Hunter Rise {https://www.pricecharting.com/game/nintendo-switch/monster-hunter-rise}
 Monster Hunter Stories 2: Wings Of Ruin {https://www.pricecharting.com/game/nintendo-switch/monster-hunter-stories-2-wings-of-ruin}
 Nelke THE LEGENDARY ALCHEMISTS {https://www.pricecharting.com/game/nintendo-switch/nelke-&-the-legendary-alchemists-ateliers-of-the-new-world}
-New Pokemon Snap {https://www.pricecharting.com/game/nintendo-switch/new-pokemon-snap}
 Ni No Kuni II {https://www.pricecharting.com/game/nintendo-switch/ni-no-kuni-ii-revenant-kingdom}
 Northgard {https://www.pricecharting.com/game/nintendo-switch/northgard}
 Octopath TRAVELER {https://www.pricecharting.com/pt/game/nintendo-switch/octopath-traveler}
@@ -58,6 +56,8 @@ Outer Worlds switch {https://www.pricecharting.com/game/nintendo-switch/the-oute
 Paper MARIO: ORIGAMI KING {https://www.pricecharting.com/pt/game/nintendo-switch/paper-mario-the-origami-king}
 Pikmin 3 DELUXE {https://www.pricecharting.com/game/nintendo-switch/pikmin-3-deluxe}
 Pokken TOURNAMENT DX {https://www.pricecharting.com/pt/game/nintendo-switch/pokken-tournament-dx}
+Pokemon Brilliant Diamond {https://www.pricecharting.com/game/nintendo-switch/pokemon-brilliant-diamond}
+Pokemon Legends Arceus {https://www.pricecharting.com/game/nintendo-switch/pokemon-legends-arceus}
 Resident EVIL: REVELATIONS COLLECTION {https://www.pricecharting.com/game/nintendo-switch/resident-evil-revelations-collection}
 Saints ROW elected switch {https://www.pricecharting.com/game/nintendo-switch/saints-row-iv-re-elected}
 Shin MEGAMI TENSEI III REMASTER {https://www.pricecharting.com/game/nintendo-switch/shin-megami-tensei-iii-nocturne-hd-remaster}
@@ -75,7 +75,7 @@ Tokyo MIRAGE SESSIONS FE ENCORE {https://www.pricecharting.com/pt/game/nintendo-
 Tony Hawk Pro Skater 1 2 switch {https://www.pricecharting.com/game/nintendo-switch/tony-hawk%27s-pro-skater-1+2}
 Trials OF MANA switch {https://www.pricecharting.com/pt/game/nintendo-switch/trials-of-mana}
 Trine 4 {https://www.pricecharting.com/game/nintendo-switch/trine-4-the-nightmare-prince}
-World Ends With You: Final Remix {https://www.pricecharting.com/game/nintendo-switch/world-ends-with-you-final-remix}
+World Ends With You: Final  Remix {https://www.pricecharting.com/game/nintendo-switch/world-ends-with-you-final-remix}
 YS MONSTRUM NOX {https://www.pricecharting.com/pt/game/nintendo-switch/ys-ix-monstrum-nox-pact-edition}
 YS ORIGIN {https://www.pricecharting.com/pt/game/nintendo-switch/ys-origin}
 Yoshi Crafted World {https://www.pricecharting.com/game/nintendo-switch/yoshi%27s-crafted-world}

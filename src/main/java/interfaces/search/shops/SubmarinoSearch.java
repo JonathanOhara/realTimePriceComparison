@@ -37,12 +37,12 @@ public class SubmarinoSearch extends JsoupSearch {
 
 	@Override
 	protected String getProductNameCssQuery() {
-		return ".dBpyfL";
+		return "h3";
 	}
 
 	@Override
 	protected String getProductPriceCssQuery() {
-		return ".kTMqhz";
+		return ".pXfdS";
 	}
 
 	@Override
