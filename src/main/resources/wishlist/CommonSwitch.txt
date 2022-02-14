@@ -1,7 +1,6 @@
 Arms switch {https://www.pricecharting.com/game/nintendo-switch/arms}
-Atelier LULUA: THE SCION OF ARLAND {https://www.pricecharting.com/pt/game/nintendo-switch/atelier-lulua-the-scion-of-arland}
-Atelier Ryza 2: Lost Legends {https://www.pricecharting.com/game/nintendo-switch/atelier-ryza-2-lost-legends-&-the-secret-fairy}
-Atelier Ryza Ever Darkness {https://www.pricecharting.com/game/nintendo-switch/atelier-ryza-ever-darkness-and-the-secret-hideout}
+Atelier LULUA THE SCION OF ARLAND {https://www.pricecharting.com/pt/game/nintendo-switch/atelier-lulua-the-scion-of-arland}
+Atelier Ryza 2 Lost Legends {https://www.pricecharting.com/game/nintendo-switch/atelier-ryza-2-lost-legends-&-the-secret-fairy}
 Azure Striker Gunvolt Striker Pack {https://www.pricecharting.com/game/nintendo-switch/azure-striker-gunvolt-striker-pack}
 Bioshock The Collection switch {https://www.pricecharting.com/game/nintendo-switch/bioshock-the-collection}
 Blasphemous switch {https://www.pricecharting.com/pt/game/nintendo-switch/blasphemous}
@@ -11,6 +10,7 @@ Cadence OF HYRULE {https://www.pricecharting.com/game/nintendo-switch/cadence-of
 Cruis BLAST {https://www.pricecharting.com/game/nintendo-switch/cruis%27n-blast}
 Crypt OF THE NECRODANCER {https://www.pricecharting.com/game/nintendo-switch/crypt-of-the-necrodancer-collector%27s-edition}
 Crysis Remastered switch {https://www.pricecharting.com/pt/game/nintendo-switch/crysis-remastered}
+Danganronpa Decadence {https://www.pricecharting.com/game/nintendo-switch/danganronpa-decadence}
 Dark souls remastered switch {https://www.pricecharting.com/pt/game/nintendo-switch/dark-souls-remastered}
 Darksiders Deathinitive Edition {https://www.pricecharting.com/game/nintendo-switch/darksiders-ii-deathinitive-edition}
 Darksiders Genesis switch {https://www.pricecharting.com/game/nintendo-switch/darksiders-genesis}
@@ -26,11 +26,10 @@ Dragon Ball Xenoverse 2 {https://www.pricecharting.com/game/nintendo-switch/drag
 Dragon Ball Z Kakarot {https://www.pricecharting.com/game/nintendo-switch/dragon-ball-z-kakarot-+-a-new-power-awakens-set}
 Dying Light: Platinum Edition {https://www.pricecharting.com/game/nintendo-switch/dying-light-platinum-edition}
 Enter THE GUNGEON {https://www.pricecharting.com/game/nintendo-switch/enter-the-gungeon}
-Fate EXTELLA LINK switch {https://www.pricecharting.com/pt/game/nintendo-switch/fateextella-link}
 Fire EMBLEM: THREE HOUSES {https://www.pricecharting.com/pt/game/nintendo-switch/fire-emblem-three-houses}
 Ghostrunner {https://www.pricecharting.com/game/nintendo-switch/ghostrunner}
 Great ACE ATTORNEY CHRONICLES {https://www.pricecharting.com/game/nintendo-switch/the-great-ace-attorney-chronicles}
-Horizon Chase Turbo switch {https://www.pricecharting.com/game/nintendo-switch/horizon-chase-turbo}
+HARVEST MOON: ONE WORLD {https://www.pricecharting.com/game/nintendo-switch/harvest-moon-one-world}
 Hotline miami collection {https://www.pricecharting.com/game/nintendo-switch/hotline-miami-collection}
 Hyrule WARRIORS: CALAMITY {https://www.pricecharting.com/pt/game/nintendo-switch/hyrule-warriors-age-of-calamity}
 Immortals: FENYX RISING switch {https://www.pricecharting.com/pt/game/nintendo-switch/immortals-fenyx-rising}
@@ -40,6 +39,7 @@ Langrisser I II {https://www.pricecharting.com/game/nintendo-switch/langrisser-i
 Lego CITY UNDERCOVER switch {https://www.pricecharting.com/game/nintendo-switch/lego-city-undercover}
 Luigi MANSION 3 switch {https://www.pricecharting.com/pt/game/nintendo-switch/luigi%27s-mansion-3}
 Mario kart 8 deluxe {https://www.pricecharting.com/game/nintendo-switch/mario-kart-8-deluxe}
+MARIO PARTY SUPERSTARS {https://www.metacritic.com/game/switch/mario-party-superstars}
 Marvel ULTIMATE ALLIANCE 3 {https://www.pricecharting.com/game/nintendo-switch/marvel-ultimate-alliance-3-the-black-order}
 Mega Man Zero Legacy Collection {https://www.pricecharting.com/game/nintendo-switch/mega-man-zerozx-legacy-collection}
 Metro Redux switch {https://www.pricecharting.com/game/nintendo-switch/metro-redux}
@@ -49,17 +49,22 @@ Monster Hunter Generations Ultimate {https://www.pricecharting.com/game/nintendo
 Monster Hunter Rise {https://www.pricecharting.com/game/nintendo-switch/monster-hunter-rise}
 Monster Hunter Stories 2: Wings Of Ruin {https://www.pricecharting.com/game/nintendo-switch/monster-hunter-stories-2-wings-of-ruin}
 Nelke THE LEGENDARY ALCHEMISTS {https://www.pricecharting.com/game/nintendo-switch/nelke-&-the-legendary-alchemists-ateliers-of-the-new-world}
+NEO: The World Ends With You {https://www.pricecharting.com/game/nintendo-switch/neo-the-world-ends-with-you}
 Ni No Kuni II {https://www.pricecharting.com/game/nintendo-switch/ni-no-kuni-ii-revenant-kingdom}
 Northgard {https://www.pricecharting.com/game/nintendo-switch/northgard}
 Octopath TRAVELER {https://www.pricecharting.com/pt/game/nintendo-switch/octopath-traveler}
 Outer Worlds switch {https://www.pricecharting.com/game/nintendo-switch/the-outer-worlds}
 Paper MARIO: ORIGAMI KING {https://www.pricecharting.com/pt/game/nintendo-switch/paper-mario-the-origami-king}
+PERSONA 5 STRIKERS {https://www.pricecharting.com/game/nintendo-switch/persona-5-strikers}
 Pikmin 3 DELUXE {https://www.pricecharting.com/game/nintendo-switch/pikmin-3-deluxe}
 Pokken TOURNAMENT DX {https://www.pricecharting.com/pt/game/nintendo-switch/pokken-tournament-dx}
 Pokemon Brilliant Diamond {https://www.pricecharting.com/game/nintendo-switch/pokemon-brilliant-diamond}
 Pokemon Legends Arceus {https://www.pricecharting.com/game/nintendo-switch/pokemon-legends-arceus}
 Resident EVIL: REVELATIONS COLLECTION {https://www.pricecharting.com/game/nintendo-switch/resident-evil-revelations-collection}
 Saints ROW elected switch {https://www.pricecharting.com/game/nintendo-switch/saints-row-iv-re-elected}
+SAMURAI WARRIORS 5 {https://www.pricecharting.com/game/nintendo-switch/samurai-warriors-5}
+Saviors Of Sapphire Wings Stranger Of Sword City Revisited {https://www.pricecharting.com/game/nintendo-switch/saviors-of-sapphire-wings-&-stranger-of-sword-city-revisited}
+Scott Pilgrim Vs The World The Game Complete Edition {https://www.pricecharting.com/game/nintendo-switch/scott-pilgrim-vs-the-world-the-game-complete-edition}
 Shin MEGAMI TENSEI III REMASTER {https://www.pricecharting.com/game/nintendo-switch/shin-megami-tensei-iii-nocturne-hd-remaster}
 Shin Megami Tensei V {https://www.pricecharting.com/game/nintendo-switch/shin-megami-tensei-v}
 Shovel KNIGHT: TREASURE TROVE {https://www.pricecharting.com/game/nintendo-switch/shovel-knight-treasure-trove}
