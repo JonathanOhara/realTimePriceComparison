@@ -32,7 +32,7 @@ public class AmericanasSearch extends JsoupSearch {
 
 	@Override
 	protected String getProductListCssQuery() {
-		return "div.grid__StyledGrid-sc-1man2hx-0.iFeuoP.src__GridItem-sc-122lblh-0.gGJHBq > div";
+ 		return "div.grid__StyledGrid-sc-1man2hx-0.iFeuoP > div";
 	}
 
 	@Override

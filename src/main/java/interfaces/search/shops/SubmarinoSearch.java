@@ -2,13 +2,20 @@ package interfaces.search.shops;
 
 import comom.Util;
 import interfaces.search.JsoupSearch;
+import interfaces.search.SeleniumSearch;
 import objects.ProductType;
 import objects.Shop;
 
 import java.net.MalformedURLException;
 import java.net.URISyntaxException;
 
-public class SubmarinoSearch extends JsoupSearch {
+public class SubmarinoSearch extends SeleniumSearch {
+
+	@Override
+	protected void afterConnectUrl(Shop shop, String productName) throws InterruptedException {
+		Thread.sleep(4000);
+		super.afterConnectUrl(shop, productName);
+	}
 
 	@Override
 	public String getName() {

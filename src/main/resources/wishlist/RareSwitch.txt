@@ -9,7 +9,6 @@ CAVE STORY switch {https://www.pricecharting.com/game/nintendo-switch/cave-story
 Castlevania Anniversary Collection {https://www.pricecharting.com/game/nintendo-switch/castlevania-anniversary-collection}
 Celeste switch {https://www.pricecharting.com/game/nintendo-switch/celeste}
 Diablo III ETERNAL COLLECTION {https://www.pricecharting.com/pt/game/nintendo-switch/diablo-iii-eternal-collection}
-Disgaea 4 COMPLETE+ {https://www.pricecharting.com/game/nintendo-switch/disgaea-4-complete+}
 Divinity: ORIGINAL SIN II - DEFINITIVE EDITION {https://www.pricecharting.com/game/nintendo-switch/divinity-original-sin-ii-definitive-edition}
 Escapists: Complete Edition {https://www.pricecharting.com/game/nintendo-switch/the-escapists-complete-edition}
 Forager switch {https://www.pricecharting.com/game/nintendo-switch/forager}
@@ -22,6 +21,7 @@ Messenger switch {https://www.pricecharting.com/game/nintendo-switch/the-messeng
 Monster Boy And The Cursed Kingdom {https://www.pricecharting.com/game/nintendo-switch/monster-boy-and-the-cursed-kingdom}
 No More Heroes 1 e 2
 Samurai Warriors 5 {https://www.pricecharting.com/game/nintendo-switch/samurai-warriors-5}
+Scott Pilgrim Vs The World The Game Complete Edition {https://www.pricecharting.com/game/nintendo-switch/scott-pilgrim-vs-the-world-the-game-complete-edition}
 Shakedown Hawaii {https://www.pricecharting.com/pt/game/nintendo-switch/shakedown-hawaii}
 Shining Resonance Refrain {https://www.pricecharting.com/game/nintendo-switch/shining-resonance-refrain}
 Spiritfarer {https://www.pricecharting.com/game/nintendo-switch/spiritfarer}

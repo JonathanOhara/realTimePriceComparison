@@ -190,7 +190,7 @@ public class Main {
 		shops.add( buildShop( new MagazineLuizaSeleniumSearch(), productType ) );
 		shops.add( buildShop( new NetShoesSeleniumSearch(), productType ) );
 
-		if( productType.equals(ProductType.SWITCH) ) {
+		if( productType.equals(ProductType.SWITCH)  || productType.equals(ProductType.PSVITA)) {
 //			shops.add(buildShop(new CasasBahiaSeleniumSearch(), productType));
 //			shops.add(buildShop(new ExtraSeleniumSearch(), productType));
 //			shops.add(buildShop(new PontoFrioSeleniumSearch(), productType));
