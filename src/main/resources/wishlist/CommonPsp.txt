@@ -1,8 +1,7 @@
 Daxter psp {https://www.pricecharting.com/game/psp/daxter}
 Final Fantasy II {https://www.pricecharting.com/game/psp/final-fantasy-ii}
-Grand theft auto chinatown wars psp {https://www.pricecharting.com/game/psp/grand-theft-auto-chinatown-wars}
-Grand theft auto liberty city stories psp {https://www.pricecharting.com/game/psp/grand-theft-auto-liberty-city-stories}
-Guilty gear judgment psp {https://www.pricecharting.com/game/psp/guilty-gear-judgment}
+Chinatown wars psp {https://www.pricecharting.com/game/psp/grand-theft-auto-chinatown-wars}
+Liberty city stories psp {https://www.pricecharting.com/game/psp/grand-theft-auto-liberty-city-stories}
 Killzone: liberation {https://www.pricecharting.com/game/psp/killzone-liberation}
 Kingdom of paradise psp {https://www.pricecharting.com/game/psp/kingdom-of-paradise}
 LocoRoco {https://www.pricecharting.com/game/psp/locoroco}
@@ -13,7 +12,7 @@ Medievil resurrection psp {https://www.pricecharting.com/game/psp/medievil-resur
 Mega man maverick hunter {https://www.pricecharting.com/game/psp/mega-man-maverick-hunter-x}
 Mega man powered up {https://www.pricecharting.com/game/psp/mega-man-powered-up}
 Metal gear solid portable ops {https://www.pricecharting.com/game/psp/metal-gear-solid-portable-ops-plus}
-Midnight club: la remix {https://www.pricecharting.com/game/psp/midnight-club-la-remix}
+Midnight club {https://www.pricecharting.com/game/psp/midnight-club-la-remix}
 Monster hunter 2 psp {https://www.pricecharting.com/game/psp/monster-hunter-freedom-2}
 Monster hunter freedom unite {https://www.pricecharting.com/game/psp/monster-hunter-freedom-unite}
 Patapon psp {https://www.pricecharting.com/game/psp/patapon}

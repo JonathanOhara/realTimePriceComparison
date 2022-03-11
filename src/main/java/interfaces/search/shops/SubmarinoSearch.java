@@ -9,7 +9,7 @@ import objects.Shop;
 import java.net.MalformedURLException;
 import java.net.URISyntaxException;
 
-public class SubmarinoSearch extends SeleniumSearch {
+public class SubmarinoSearch extends JsoupSearch {
 
 	@Override
 	protected void afterConnectUrl(Shop shop, String productName) throws InterruptedException {

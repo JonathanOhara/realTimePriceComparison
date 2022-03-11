@@ -70,9 +70,9 @@ public class GamesReport {
 			for( Product product: products){
 				htmlReport.append("\t\t\t<tr>\n");
 				htmlReport.append("\t\t\t\t<td>\n");
-				htmlReport.append("\t\t\t\t\t<a href='");
+				htmlReport.append("\t\t\t\t\t<a href=\"");
 				htmlReport.append(product.getUrl());
-				htmlReport.append("'>\n");
+				htmlReport.append("\">\n");
 				htmlReport.append(product.getName());
 				htmlReport.append("\t\t\t\t\t</a>\n");
 				htmlReport.append("\t\t\t\t</td>\n");
