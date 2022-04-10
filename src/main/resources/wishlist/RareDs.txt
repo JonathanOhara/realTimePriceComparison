@@ -25,6 +25,7 @@ Etrian odyssey iii: the drowned city {https://www.pricecharting.com/game/nintend
 Etrian odyssey {https://www.pricecharting.com/game/nintendo-ds/etrian-odyssey}
 Final fantasy: the 4 heroes of light {https://www.pricecharting.com/game/nintendo-ds/final-fantasy-the-4-heroes-of-light}
 Fire emblem: shadow dragon ds {https://www.pricecharting.com/game/nintendo-ds/fire-emblem-shadow-dragon}
+Fossil Fighters {https://www.pricecharting.com/game/nintendo-ds/fossil-fighters}
 From the abyss {https://www.pricecharting.com/game/nintendo-ds/from-the-abyss}
 Front mission ds {https://www.pricecharting.com/game/nintendo-ds/front-mission}
 Harvest moon ds: sunshine islands {https://www.pricecharting.com/game/nintendo-ds/harvest-moon-sunshine-islands}
@@ -32,6 +33,7 @@ Heroes Of Mana ds {https://www.pricecharting.com/game/nintendo-ds/heroes-of-mana
 Inazuma eleven 2: blizzard {https://www.pricecharting.com/game/pal-nintendo-ds/inazuma-eleven-2-blizzard}
 Inazuma eleven 2: firestorm {https://www.pricecharting.com/game/pal-nintendo-ds/inazuma-eleven-2-firestorm}
 Izuna legend of the unemployed ninja {https://www.pricecharting.com/game/nintendo-ds/izuna-legend-of-the-unemployed-ninja}
+Kirby: canvas curse {https://www.pricecharting.com/game/nintendo-ds/kirby-canvas-curse}
 Knights in the nightmare ds {https://www.pricecharting.com/game/nintendo-ds/knights-in-the-nightmare}
 Legacy of ys: books i ii {https://www.pricecharting.com/game/nintendo-ds/legacy-of-ys-books-i-&-ii}
 Lost magic {https://www.pricecharting.com/game/nintendo-ds/lost-magic#}
@@ -49,6 +51,7 @@ Panzer tactics {https://www.pricecharting.com/game/nintendo-ds/panzer-tactics}
 Phantasy star 0 {https://www.pricecharting.com/game/nintendo-ds/phantasy-star-0}
 Populous DS {https://www.pricecharting.com/game/nintendo-ds/populous-ds}
 Resident evil deadly silence {https://www.pricecharting.com/game/nintendo-ds/resident-evil-deadly-silence}
+Robocalypse {https://www.pricecharting.com/game/nintendo-ds/robocalypse}
 Rondo of swords {https://www.pricecharting.com/game/nintendo-ds/rondo-of-swords}
 Rune factory 2: a fantasy harvest moon {https://www.pricecharting.com/game/nintendo-ds/rune-factory-2-a-fantasy-harvest-moon}
 Rune factory 3: a fantasy harvest moon {https://www.pricecharting.com/game/nintendo-ds/rune-factory-3-a-fantasy-harvest-moon}
@@ -63,4 +66,6 @@ Summon night: twin age {https://www.pricecharting.com/game/nintendo-ds/summon-ni
 Super princess peach {https://www.pricecharting.com/game/nintendo-ds/super-princess-peach}
 Super robot taisen og saga: endless frontier {https://www.pricecharting.com/game/nintendo-ds/super-robot-taisen-og-saga-endless-frontier}
 The dark spire {https://www.pricecharting.com/game/nintendo-ds/the-dark-spire}
+Trauma Center 2 ds {https://www.pricecharting.com/game/nintendo-ds/trauma-center-under-the-knife-2}
+Ultimate Spiderman ds {https://www.pricecharting.com/game/nintendo-ds/ultimate-spiderman}
 Viewtiful joe {https://www.pricecharting.com/game/nintendo-ds/viewtiful-joe-double-trouble}

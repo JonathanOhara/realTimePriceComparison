@@ -15,13 +15,11 @@ Final fantasy crystal chronicles: ring of fates {https://www.pricecharting.com/g
 Final fantasy fables: chocobo tales {https://www.pricecharting.com/game/nintendo-ds/final-fantasy-fables-chocobo-tales}
 Final fantasy tactics a2 {https://www.pricecharting.com/game/nintendo-ds/final-fantasy-crystal-chronicles-echoes-of-time}
 Final fantasy xii revenant wings ds {https://www.pricecharting.com/game/nintendo-ds/final-fantasy-xii-revenant-wings}
-Fossil Fighters {https://www.pricecharting.com/game/nintendo-ds/fossil-fighters}
 Glory of heracles ds {https://www.pricecharting.com/game/nintendo-ds/glory-of-heracles}
 Golden sun dark dawn {https://www.pricecharting.com/game/nintendo-ds/golden-sun-dark-dawn}
 Chinatown wars ds {https://www.pricecharting.com/game/nintendo-ds/grand-theft-auto-chinatown-wars}
 Harvest moon ds {https://www.pricecharting.com/game/nintendo-ds/harvest-moon-ds}
 Harvest moon: frantic farming {https://www.pricecharting.com/game/nintendo-ds/harvest-moon-frantic-farming}
-Kirby: canvas curse {https://www.pricecharting.com/game/nintendo-ds/kirby-canvas-curse}
 Lock Quest ds {https://www.pricecharting.com/game/nintendo-ds/lock%27s-quest}
 Lunar Dragon Song ds {https://www.pricecharting.com/game/nintendo-ds/lunar-dragon-song}
 Magical Starsign {https://www.pricecharting.com/game/nintendo-ds/magical-starsign}
@@ -40,7 +38,6 @@ Pokemon ranger ds {https://www.pricecharting.com/game/nintendo-ds/pokemon-ranger
 Pokemon soulsilver {https://www.pricecharting.com/game/nintendo-ds/pokemon-soulsilver-version}
 Professor Layton Unwound {https://www.pricecharting.com/game/nintendo-ds/professor-layton-and-the-unwound-future}
 Radiant historia {https://www.pricecharting.com/game/nintendo-ds/radiant-historia}
-Robocalypse {https://www.pricecharting.com/game/nintendo-ds/robocalypse}
 Shin Megami Tensei: Devil Survivor 2 {https://www.pricecharting.com/game/nintendo-ds/shin-megami-tensei-devil-survivor-2}
 Spectrobe Beyond The Portals ds {https://www.pricecharting.com/game/nintendo-ds/spectrobes-beyond-the-portals}
 Star Fox Command ds {https://www.pricecharting.com/game/nintendo-ds/star-fox-command}
@@ -48,8 +45,6 @@ Tomb Raider Underworld ds {https://www.pricecharting.com/game/nintendo-ds/tomb-r
 Transformers Animated ds {https://www.pricecharting.com/game/nintendo-ds/transformers-animated}
 Transformers Decepticons ds {https://www.pricecharting.com/game/nintendo-ds/transformers-decepticons}
 Transformers: Revenge ds {https://www.pricecharting.com/game/nintendo-ds/transformers-revenge-of-the-fallen-decepticons}
-Trauma Center 2 ds {https://www.pricecharting.com/game/nintendo-ds/trauma-center-under-the-knife-2}
 Trauma Center ds {https://www.pricecharting.com/game/nintendo-ds/trauma-center-under-the-knife}
-Ultimate Spiderman ds {https://www.pricecharting.com/game/nintendo-ds/ultimate-spiderman}
 Yoshi Island DS {https://www.pricecharting.com/game/nintendo-ds/yoshi%27s-island-ds}
 Yoshi Touch And Go {https://www.pricecharting.com/game/nintendo-ds/yoshi-touch-and-go}
