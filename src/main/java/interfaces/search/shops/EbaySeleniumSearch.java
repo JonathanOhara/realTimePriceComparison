@@ -34,15 +34,15 @@ public class EbaySeleniumSearch extends SeleniumSearch {
 			case DEFAULT:
 				return "https://www.ebay.com/sch/139973/i.html?_from=R40&_nkw=<BUSCA>&LH_TitleDesc=0";
 			case NDS:
-				return "https://www.ebay.com/sch/i.html?_from=R40&_nkw=<BUSCA>&_sacat=0&rt=nc&Platform=Nintendo%2520DS&_dcat=139973";
+				return "https://www.ebay.com/sch/139973/i.html?_from=R40&_nkw=<BUSCA>&_sacat=0&rt=nc&Platform=Nintendo%2520DS&_dcat=139973";
 			case N3DS:
-				return "https://www.ebay.com/sch/i.html?_from=R40&_nkw=<BUSCA>&_sacat=0&_oaa=1&Platform=Nintendo%25203DS&rt=nc&Region%2520Code=NTSC%252DU%252FC%2520%2528US%252FCanada%2529&_dcat=139973";
+				return "https://www.ebay.com/sch/139973/i.html?_from=R40&_nkw=<BUSCA>&_sacat=0&_oaa=1&Platform=Nintendo%25203DS&rt=nc&Region%2520Code=NTSC%252DU%252FC%2520%2528US%252FCanada%2529&_dcat=139973";
 			case PSP:
-				return "https://www.ebay.com/sch/i.html?_from=R40&_nkw=<BUSCA>&_sacat=0&LH_TitleDesc=0&rt=nc&Platform=Sony%2520PSP&_dcat=139973";
+				return "https://www.ebay.com/sch/139973/i.html?_from=R40&_nkw=<BUSCA>&_sacat=0&LH_TitleDesc=0&rt=nc&Platform=Sony%2520PSP&_dcat=139973";
 			case PSVITA:
-				return "https://www.ebay.com/sch/i.html?_dcat=139973&_fsrp=1&rt=nc&_from=R40&_nkw=<BUSCA>&_sacat=0&LH_TitleDesc=0&Platform=Sony%2520PlayStation%2520Vita";
+				return "https://www.ebay.com/sch/139973/i.html?_fsrp=1&_from=R40&_nkw=<BUSCA>&LH_TitleDesc=0&Platform=Sony%2520PlayStation%2520Vita&_dcat=139973";
 			case SWITCH:
-				return "https://www.ebay.com/sch/i.html?_from=R40&_nkw=<BUSCA>&_sacat=0&_oaa=1&rt=nc&Platform=Nintendo%2520Switch&_dcat=139973";
+				return "https://www.ebay.com/sch/139973/i.html?_from=R40&_nkw=<BUSCA>&_sacat=0&_oaa=1&rt=nc&Platform=Nintendo%2520Switch&_dcat=139973";
 		}
 		return "https://www.ebay.com/sch/139973/i.html?_from=R40&_nkw=<BUSCA>&LH_TitleDesc=0";
 	}
