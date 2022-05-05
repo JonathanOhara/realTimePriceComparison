@@ -15,7 +15,6 @@ Darksiders Deathinitive Edition {https://www.pricecharting.com/game/nintendo-swi
 Darksiders Genesis switch {https://www.pricecharting.com/game/nintendo-switch/darksiders-genesis}
 Darksiders 3 switch {https://www.pricecharting.com/game/nintendo-switch/darksiders-iii}
 Darksiders WARMASTERED switch {https://www.pricecharting.com/game/nintendo-switch/darksiders-warmastered-edition}
-Deadly PREMONITION ORIGINS {https://www.pricecharting.com/pt/game/nintendo-switch/deadly-premonition-origins}
 Disgaea 5 switch {https://www.pricecharting.com/pt/game/nintendo-switch/disgaea-5-complete}
 Disgaea 6 switch {https://www.pricecharting.com/game/nintendo-switch/disgaea-6-defiance-of-destiny-unrelenting-edition}
 Donkey KONG TROPICAL FREEZE {https://www.pricecharting.com/pt/game/nintendo-switch/donkey-kong-country-tropical-freeze}
@@ -44,8 +43,6 @@ Mega Man Zero Legacy Collection {https://www.pricecharting.com/game/nintendo-swi
 Metro Redux switch {https://www.pricecharting.com/game/nintendo-switch/metro-redux}
 Metroid Dread {https://www.pricecharting.com/game/nintendo-switch/metroid-dread}
 Minecraft DUNGEONS switch {https://www.pricecharting.com/game/nintendo-switch/minecraft-dungeons-hero-edition}
-Monster Hunter Rise {https://www.pricecharting.com/game/nintendo-switch/monster-hunter-rise}
-Moving Out switch {https://www.pricecharting.com/game/nintendo-switch/moving-out}
 Nelke THE LEGENDARY ALCHEMISTS {https://www.pricecharting.com/game/nintendo-switch/nelke-&-the-legendary-alchemists-ateliers-of-the-new-world}
 NEO: The World Ends With You {https://www.pricecharting.com/game/nintendo-switch/neo-the-world-ends-with-you}
 Ni No Kuni II {https://www.pricecharting.com/game/nintendo-switch/ni-no-kuni-ii-revenant-kingdom}
@@ -56,7 +53,6 @@ PERSONA 5 STRIKERS {https://www.pricecharting.com/game/nintendo-switch/persona-5
 Pikmin 3 DELUXE {https://www.pricecharting.com/game/nintendo-switch/pikmin-3-deluxe}
 Pokken TOURNAMENT DX {https://www.pricecharting.com/pt/game/nintendo-switch/pokken-tournament-dx}
 Pokemon Brilliant Diamond {https://www.pricecharting.com/game/nintendo-switch/pokemon-brilliant-diamond}
-Pokemon Legends Arceus {https://www.pricecharting.com/game/nintendo-switch/pokemon-legends-arceus}
 Resident Evil Triple Pack {https://www.pricecharting.com/game/nintendo-switch/resident-evil-triple-pack}
 Risk Of Rain 2 {https://www.pricecharting.com/game/nintendo-switch/risk-of-rain-2}
 Rune Factory 5 {https://www.pricecharting.com/game/nintendo-switch/rune-factory-5}
@@ -80,6 +76,5 @@ Trials OF MANA switch {https://www.pricecharting.com/pt/game/nintendo-switch/tri
 Trine: Ultimate Collection {https://www.pricecharting.com/game/nintendo-switch/trine-ultimate-collection}
 World Ends With You: Final  Remix {https://www.pricecharting.com/game/nintendo-switch/world-ends-with-you-final-remix}
 YS MONSTRUM NOX {https://www.pricecharting.com/pt/game/nintendo-switch/ys-ix-monstrum-nox-pact-edition}
-YS ORIGIN {https://www.pricecharting.com/pt/game/nintendo-switch/ys-origin}
 Yoshi Crafted World {https://www.pricecharting.com/game/nintendo-switch/yoshi%27s-crafted-world}
 Yu Legacy of the duelist link evolution {https://www.pricecharting.com/pt/game/nintendo-switch/yu-gi-oh-legacy-of-the-duelist-link-evolution}

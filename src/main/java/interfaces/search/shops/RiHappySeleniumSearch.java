@@ -43,12 +43,12 @@ public class RiHappySeleniumSearch extends SeleniumSearch {
 
 	@Override
 	protected String getProductNameCssQuery() {
-		return "h1 > span";
+		return "h2 > span";
 	}
 
 	@Override
 	protected String getProductPriceCssQuery() {
-		return "span.vtex-product-price-1-x-sellingPriceValue";
+		return ".vtex-product-price-1-x-sellingPriceValue";
 	}
 
 	@Override

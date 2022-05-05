@@ -50,12 +50,12 @@ public class ShopeeSeleniumSearch extends SeleniumSearch {
 
 	@Override
 	protected String getProductNameCssQuery() {
-		return "div._3GAFiR > div.ZG__4J > div";
+		return ".Cve6sh";
 	}
 
 	@Override
 	protected String getProductPriceCssQuery() {
-		return "div._3_FVSo > div.zp9xm9.kNGSLn.l-u0xK";
+		return ".rVLWG6";
 	}
 
 	@Override

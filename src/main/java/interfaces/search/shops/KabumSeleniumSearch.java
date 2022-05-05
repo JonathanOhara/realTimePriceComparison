@@ -37,7 +37,7 @@ public class KabumSeleniumSearch extends SeleniumSearch {
 
 	@Override
 	protected String getProductNameCssQuery() {
-		return "h2.nameCard";
+		return ".nameCard";
 	}
 
 	@Override

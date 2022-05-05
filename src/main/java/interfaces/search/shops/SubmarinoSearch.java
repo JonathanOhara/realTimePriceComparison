@@ -49,7 +49,7 @@ public class SubmarinoSearch extends JsoupSearch {
 
 	@Override
 	protected String getProductPriceCssQuery() {
-		return ".pXfdS";
+		return "span.price-info__ListPriceWithMargin-sc-yrgy2m-2";
 	}
 
 	@Override

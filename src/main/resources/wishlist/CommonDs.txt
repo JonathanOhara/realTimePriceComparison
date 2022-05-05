@@ -8,7 +8,6 @@ Chrono trigger ds {https://www.pricecharting.com/game/nintendo-ds/chrono-trigger
 Contra 4 ds {https://www.pricecharting.com/game/nintendo-ds/contra-4}
 Dragon BALL ORIGINS {https://www.pricecharting.com/game/nintendo-ds/dragon-ball-origins}
 Drawn To Life ds {https://www.pricecharting.com/game/nintendo-ds/drawn-to-life}
-Tom clancy End War ds {https://www.pricecharting.com/game/nintendo-ds/end-war}
 Final Fantasy III ds {https://www.pricecharting.com/game/nintendo-ds/final-fantasy-iii}
 Final fantasy crystal chronicles: echoes of time {https://www.pricecharting.com/game/nintendo-ds/final-fantasy-crystal-chronicles-echoes-of-time}
 Final fantasy crystal chronicles: ring of fates {https://www.pricecharting.com/game/nintendo-ds/final-fantasy-crystal-chronicles-ring-of-fates}
@@ -30,7 +29,6 @@ Mario luigi: bowser inside story ds {https://www.pricecharting.com/game/nintendo
 Mario luigi: partners in time {https://www.pricecharting.com/game/nintendo-ds/mario-and-luigi-partners-in-time}
 Monster lab ds {https://www.pricecharting.com/game/nintendo-ds/monster-lab}
 New super mario bros {https://www.pricecharting.com/game/nintendo-ds/new-super-mario-bros}
-Ninja Town {https://www.pricecharting.com/game/nintendo-ds/ninja-town}
 Ninja gaiden: dragon sword ds {https://www.pricecharting.com/game/nintendo-ds/ninja-gaiden-dragon-sword}
 Plants Vs Zombies ds {https://www.pricecharting.com/game/nintendo-ds/plants-vs-zombies}
 Pokemon Conquest {https://www.pricecharting.com/game/nintendo-ds/pokemon-conquest}

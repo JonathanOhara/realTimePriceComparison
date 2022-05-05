@@ -7,7 +7,6 @@ Killzone: liberation {https://www.pricecharting.com/game/psp/killzone-liberation
 Kingdom of paradise psp {https://www.pricecharting.com/game/psp/kingdom-of-paradise}
 LocoRoco {https://www.pricecharting.com/game/psp/locoroco}
 Lord of Arcana {https://www.pricecharting.com/game/psp/lord-of-arcana}
-Lord of the rings tactics psp {https://www.pricecharting.com/game/psp/lord-of-the-rings-tactics}
 Medal of honor heroes psp {https://www.pricecharting.com/game/psp/medal-of-honor-heroes}
 Medievil resurrection psp {https://www.pricecharting.com/game/psp/medievil-resurrection}
 Mega man maverick hunter {https://www.pricecharting.com/game/psp/mega-man-maverick-hunter-x}
@@ -20,6 +19,5 @@ Patapon psp {https://www.pricecharting.com/game/psp/patapon}
 Patapon 2 psp {https://www.pricecharting.com/game/psp/patapon-2}
 Phantasy star portable {https://www.pricecharting.com/game/psp/phantasy-star-portable}
 Prince of persia rival swords {https://www.pricecharting.com/game/psp/prince-of-persia-rival-swords}
-Silent hill: origin {https://www.pricecharting.com/game/psp/silent-hill-origins}
 Tales of the world: radiant mythology {https://www.pricecharting.com/game/psp/tales-of-the-world-radiant-mythology}
 Valkyria chronicles psp {https://www.pricecharting.com/game/psp/valkyria-chronicles-2}
