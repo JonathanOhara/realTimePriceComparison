@@ -22,7 +22,7 @@ public class AtacadoDosJogosSearch extends JsoupSearch {
 
 	@Override
 	public String getSearchPattern(ProductType productType) {
-		return "https://www.atacadodosjogos.com.br/exibirpesquisa.php?busca=<BUSCA>";
+		return "https://www.atacadodosjogos.com.br/<BUSCA>";
 	}
 
 	@Override
@@ -32,22 +32,22 @@ public class AtacadoDosJogosSearch extends JsoupSearch {
 
 	@Override
 	protected String getProductListCssQuery() {
-		return "section.vitrine > div";
+		return "ol.ui-search-layout > li";
 	}
 
 	@Override
 	protected String getProductNameCssQuery() {
-		return "h2.labelproduto > a";
+		return "h2.ui-search-item__title";
 	}
 
 	@Override
 	protected String getProductPriceCssQuery() {
-		return "strong.labelprecoVendaDestaque";
+		return "span.price-tag.ui-search-price__part > span.price-tag-amount";
 	}
 
 	@Override
 	protected String replaceUrl(Shop shop, String productName) throws MalformedURLException, URISyntaxException {
-		return Util.prepareUrlMode1(shop.getSearchPattern(), productName);
+		return Util.prepareUrlMode3(shop.getSearchPattern(), productName);
 	}
 
 }
