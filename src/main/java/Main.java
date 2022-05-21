@@ -1,7 +1,4 @@
-import comom.DefaultFilters;
-import comom.MyPrintStream;
-import comom.SeleniumUtil;
-import comom.Util;
+import comom.*;
 import interfaces.search.Search;
 import interfaces.search.shops.*;
 import objects.Game;
@@ -24,12 +21,12 @@ import java.util.List;
 
 
 public class Main {
-	private static String gameListAdress = "";
-	private static String logAdress = "";
+	private static String gameListAddress = "";
+	private static String logAddress = "";
 	private static TotalsReport totalsReport;
 	
 	public static void main(String[] args) throws IOException, URISyntaxException {
-		gameListAdress = Util.getProjectPath() + "/src/main/resources/search.txt";
+		gameListAddress = Util.getProjectPath() + "/src/main/resources/search.txt";
 		File gameList = readFile();
 		List<String> ler = Util.ler(gameList);
 
@@ -134,8 +131,8 @@ public class Main {
 	}
 
 	private static PrintStream configurarSaida(String productName) throws IOException {
-		logAdress = Util.getReportsPath() + "/" + Util.sanitizeFilename( productName ) + ".log";
-		PrintStream fileStream = new MyPrintStream(new FileOutputStream( logAdress, true ), System.out);
+		logAddress = Util.getReportsPath() + "/" + Util.sanitizeFilename( productName ) + ".log";
+		PrintStream fileStream = new MyPrintStream(new FileOutputStream(logAddress, true ), System.out);
 		
 		System.setOut(fileStream);
 		System.setErr(fileStream);
@@ -232,6 +229,6 @@ public class Main {
 	}
 
 	private static File readFile() {
-		return new File( gameListAdress );
+		return new File(gameListAddress);
 	}
 }

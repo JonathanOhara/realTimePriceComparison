@@ -1,3 +1,5 @@
+package comom;
+
 import comom.Util;
 
 import java.io.BufferedWriter;

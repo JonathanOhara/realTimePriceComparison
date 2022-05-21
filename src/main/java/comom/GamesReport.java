@@ -1,3 +1,5 @@
+package comom;
+
 import comom.ErrorsUtil;
 import comom.Util;
 import objects.Game;

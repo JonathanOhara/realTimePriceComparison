@@ -1,3 +1,5 @@
+package comom;
+
 import comom.Keys;
 import comom.Util;
 import objects.Product;
@@ -83,7 +85,6 @@ public class TotalsReport {
 	}
 	
 	public void closeAndWriteFile() throws IOException{
-		
 		File reportsDir = new File( Util.getReportsPath() ); 
 		if (!reportsDir.exists()) {
 			reportsDir.mkdir();

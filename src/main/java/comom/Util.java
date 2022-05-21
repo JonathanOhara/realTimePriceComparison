@@ -20,7 +20,8 @@ public class Util {
 	
 	private static String projectPath = null;
 	private static String reportsPath = null;
-	
+	private static String priceChartingPath = null;
+
 	static{
 		try {
 			String data, hora;
@@ -38,6 +39,14 @@ public class Util {
 			}
 			
 			reportsPath = reportFile.getCanonicalPath();
+
+			File priceChartingFile = new File("./priceCharting");
+			if( !priceChartingFile.exists() ){
+				priceChartingFile.mkdir();
+			}
+
+			priceChartingPath = priceChartingFile.getCanonicalPath();
+
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
@@ -66,6 +75,10 @@ public class Util {
 	
 	public static String getReportsPath() throws IOException{
 		return reportsPath;
+	}
+
+	public static String getPriceChartingPath() throws IOException{
+		return priceChartingPath;
 	}
 	
 
