@@ -85,7 +85,10 @@ public abstract class UnifiedSearch implements Search {
 //                System.out.println("\t\tNome do Produto: "+previewName);
 
                 if( filter.filter(previewName, game.getName(), shop.getNome(), ignoreNameFilter()) ){
-                    List<PageElement> priceElements = productContainer.getByCssSelector(getProductPriceCssQuery());
+                    List<PageElement> priceElements = new ArrayList<>();
+                    if(getProductPriceCssQuery() != null && !getProductPriceCssQuery().isBlank()) {
+                        priceElements = productContainer.getByCssSelector(getProductPriceCssQuery());
+                    }
                     readProduct(game, previewName, productContainer, products, priceElements, getIndividualUrl(shop, productContainer));
                 }else{
                     System.out.print("4!");
@@ -105,10 +108,14 @@ public abstract class UnifiedSearch implements Search {
     private void readProduct(Game game, String previewName, PageElement productContainer, List<Product> products, List<PageElement> priceElements, String individualUrl) {
         String price;
 
-        if(priceElements.size() > 0){
-            PageElement priceElement = priceElements.get(0);
-
-            price = priceElement.getText();
+        String productPriceManually = getProductPriceManually(productContainer);
+        if(priceElements.size() > 0 || productPriceManually != null) {
+            if (priceElements.size() > 0){
+                PageElement priceElement = priceElements.get(0);
+                price = priceElement.getText();
+            }else{
+                price = productPriceManually;
+            }
 
             if(isPriceValid(price)){
                 price = priceSanatize(price);
@@ -182,6 +189,10 @@ public abstract class UnifiedSearch implements Search {
     protected abstract String getProductNameCssQuery();
 
     protected abstract String getProductPriceCssQuery();
+
+    protected String getProductPriceManually(PageElement pageElement){
+        return null;
+    }
 
     protected abstract String replaceUrl(Shop shop, String productName) throws MalformedURLException, URISyntaxException;
 

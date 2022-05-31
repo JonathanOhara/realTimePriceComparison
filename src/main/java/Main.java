@@ -19,6 +19,8 @@ import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
 
+import static objects.ProductType.*;
+
 
 public class Main {
 	private static String gameListAddress = "";
@@ -173,7 +175,16 @@ public class Main {
 		
 		System.out.println("Tempo total: "+(System.currentTimeMillis() - time));
 	}
-	
+
+//	private static List<Shop> getAllShopsConfig(ProductType productType) {
+//		List<Shop> shops = new ArrayList<>();
+//
+//		shops.add(buildShop(new CasasBahiaSeleniumSearch(), productType));
+//
+//		return shops;
+//	}
+
+
 	private static List<Shop> getAllShopsConfig(ProductType productType) {
 		List<Shop> shops = new ArrayList<>();
 
@@ -187,8 +198,8 @@ public class Main {
 		shops.add( buildShop( new MagazineLuizaSeleniumSearch(), productType ) );
 		shops.add( buildShop( new NetShoesSeleniumSearch(), productType ) );
 
-		if( productType.equals(ProductType.SWITCH)  || productType.equals(ProductType.PSVITA)) {
-//			shops.add(buildShop(new CasasBahiaSeleniumSearch(), productType));
+		if(productType.equals(SWITCH) || productType.equals(PSVITA) || productType.equals(N3DS)) {
+			shops.add(buildShop(new CasasBahiaSeleniumSearch(), productType));
 //			shops.add(buildShop(new ExtraSeleniumSearch(), productType));
 //			shops.add(buildShop(new PontoFrioSeleniumSearch(), productType));
 		}
@@ -200,8 +211,8 @@ public class Main {
 		shops.add( buildShop( new AtacadoDosJogosSearch(), productType ) );
 		shops.add( buildShop( new BigBoyGamesSearch(), productType ) );
 
-		if(productType.equals(ProductType.N3DS) || productType.equals(ProductType.NDS) || productType.equals(ProductType.SWITCH) ) {
-			shops.add( buildShop( new CogumeloShopSearch(), productType ) );
+		if(productType.equals(N3DS) || productType.equals(NDS) || productType.equals(SWITCH) ) {
+//			shops.add( buildShop( new CogumeloShopSearch(), productType ) );
 			shops.add( buildShop( new TrilogyNintendoSearch(), productType) );
 		}
 
@@ -223,6 +234,7 @@ public class Main {
 
 		return shops;
 	}
+
 
 	private static Shop buildShop(Search search, ProductType productType) {
 		return new Shop(search.getName(), search.getMainUrl(), search.getSearchPattern(productType), search);

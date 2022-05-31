@@ -14,6 +14,8 @@ public class JsoupPageElement implements PageElement {
         this.webElement = webElement;
     }
 
+
+
     @Override
     public List<PageElement> getByCssSelector(String selector) {
         Elements elements = webElement.select(selector);
@@ -28,5 +30,9 @@ public class JsoupPageElement implements PageElement {
     @Override
     public String getAttribute(String attributeName) {
         return webElement.attr(attributeName);
+    }
+
+    public JsoupPageElement getParent() {
+        return new JsoupPageElement(webElement.parent());
     }
 }

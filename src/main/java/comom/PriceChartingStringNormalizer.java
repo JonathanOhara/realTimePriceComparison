@@ -39,6 +39,7 @@ public class PriceChartingStringNormalizer {
         regionMap.put("Deadly Premonition 2: A Blessing in Disguise:Switch", "PAL");
         regionMap.put("Disgaea 4 Complete+:Switch", "PAL");
         regionMap.put("Dragon Quest Builders:Switch", "PAL");
+        regionMap.put("Fire Emblem:Three Houses:Switch", "PAL");
 //        regionMap.put("Monster Harvest:Switch", "PAL");
         regionMap.put("Monster Hunter Rise:Switch", "PAL");
 //        regionMap.put("Rune Factory 4 Special:Switch", "PAL");

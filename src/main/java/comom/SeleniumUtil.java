@@ -29,18 +29,20 @@ public class SeleniumUtil {
 //            driver = new FirefoxDriver(firefoxOptions);
 
             ChromeOptions options = new ChromeOptions();
-            String userAgent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36 OPR/81.0.4196.37";
+            String userAgent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36";
 
             options.addArguments("start-maximized");
 
             options.addArguments(String.format("user-agent=%s", userAgent));
+            options.addArguments("--no-sandbox");
+            options.addArguments("--disable-blink-features=AutomationControlled");
 
             if( isUsingChromeProfile() ) {
                 options.addArguments("user-data-dir=C:/Users/jonat/Documents/Selenium");
                 options.addArguments("profile-directory=Profile 1");
             }
 
-            //            options.setExperimentalOption("useAutomationExtension", false);
+            options.setExperimentalOption("useAutomationExtension", false);
             options.setExperimentalOption("excludeSwitches", Arrays.asList("enable-automation"));
 
             driver = new ChromeDriver(options);

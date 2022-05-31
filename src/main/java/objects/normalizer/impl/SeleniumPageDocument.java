@@ -8,6 +8,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 
 import java.util.List;
+import java.util.Random;
 import java.util.stream.Collectors;
 
 public class SeleniumPageDocument implements PageDocument {
@@ -20,6 +21,15 @@ public class SeleniumPageDocument implements PageDocument {
 
     @Override
     public void connect(String url) {
+        Random random = new Random();
+        int minWait = 100;
+        int maxWait = 400;
+
+        try {
+            Thread.sleep(random.nextInt(maxWait -minWait)+ minWait) ;
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
         driver.get(url);
     }
 

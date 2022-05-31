@@ -1,6 +1,6 @@
 Arms switch {https://www.pricecharting.com/game/nintendo-switch/arms}
-Atelier LULUA THE SCION OF ARLAND {https://www.pricecharting.com/pt/game/nintendo-switch/atelier-lulua-the-scion-of-arland}
-Atelier Ryza 2 Lost Legends {https://www.pricecharting.com/game/nintendo-switch/atelier-ryza-2-lost-legends-&-the-secret-fairy}
+Atelier LULUA switch {https://www.pricecharting.com/pt/game/nintendo-switch/atelier-lulua-the-scion-of-arland}
+Atelier Ryza 2 switch {https://www.pricecharting.com/game/nintendo-switch/atelier-ryza-2-lost-legends-&-the-secret-fairy}
 Azure Striker Gunvolt Striker Pack {https://www.pricecharting.com/game/nintendo-switch/azure-striker-gunvolt-striker-pack}
 Bioshock The Collection switch {https://www.pricecharting.com/game/nintendo-switch/bioshock-the-collection}
 Borderlands Legendary Collection {https://www.pricecharting.com/game/nintendo-switch/borderlands-legendary-collection}
@@ -38,7 +38,7 @@ Marvel ULTIMATE ALLIANCE 3 {https://www.pricecharting.com/game/nintendo-switch/m
 Mega Man Zero Legacy Collection {https://www.pricecharting.com/game/nintendo-switch/mega-man-zerozx-legacy-collection}
 Metro Redux switch {https://www.pricecharting.com/game/nintendo-switch/metro-redux}
 Metroid Dread {https://www.pricecharting.com/game/nintendo-switch/metroid-dread}
-Minecraft DUNGEONS switch {https://www.pricecharting.com/game/nintendo-switch/minecraft-dungeons-hero-edition}
+Minecraft DUNGEONS switch {https://www.pricecharting.com/game/nintendo-switch/minecraft-dungeons-ultimate-editon}
 Nelke THE LEGENDARY ALCHEMISTS {https://www.pricecharting.com/game/nintendo-switch/nelke-&-the-legendary-alchemists-ateliers-of-the-new-world}
 NEO: The World Ends With You {https://www.pricecharting.com/game/nintendo-switch/neo-the-world-ends-with-you}
 Ni No Kuni II {https://www.pricecharting.com/game/nintendo-switch/ni-no-kuni-ii-revenant-kingdom}
