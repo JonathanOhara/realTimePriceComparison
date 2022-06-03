@@ -17,7 +17,7 @@ import java.util.stream.Collectors;
 
 
 public class GameyeToPriceCharting {
-	private static final String FILE_NAME = "05_18_2022_ge_collection.csv";
+	private static final String FILE_NAME = "06_01_2022_ge_collection.csv";
 	
 	public static void main(String[] args) throws IOException, URISyntaxException {
 		String gameyeCsvFile = Util.getProjectPath() + "/src/main/resources/gameye/" + FILE_NAME;
@@ -26,7 +26,6 @@ public class GameyeToPriceCharting {
 				.withType(GameyeObject.class).build().parse();
 
 		System.out.println(beans);
-
 
 		List<String> output = beans.stream().
 			map(gameye -> {
