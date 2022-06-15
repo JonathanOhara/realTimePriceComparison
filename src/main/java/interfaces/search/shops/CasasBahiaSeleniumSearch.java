@@ -29,33 +29,6 @@ public class CasasBahiaSeleniumSearch extends JsoupSearch {
 		return "https://www.casasbahia.com.br/<BUSCA>/b";
 	}
 
-//	@Override
-//	protected void afterConnectUrl(Shop shop, String productName) throws InterruptedException {
-//
-//		 WebDriver driver = (WebDriver) pageDocument.getSourceObject();
-//
-//		try {
-//			Thread.sleep(100);
-//			if(driver.findElements(By.cssSelector(getProductPriceCssQuery())).isEmpty()) {
-//
-//				if(driver.findElements(By.cssSelector(".ddbJTM")).size() > 1) {
-//					//TODO: arrumar gambiarra
-//					driver.findElements(By.cssSelector(".ddbJTM")).get(1).findElements(By.cssSelector("input[type='checkbox']")).get(0).click();
-//					Thread.sleep(1000);
-//					driver.findElements(By.cssSelector(".ddbJTM input[type=checkbox]:checked")).get(0).click();
-//				}else{
-//					driver.navigate().refresh();
-//				}
-//				Thread.sleep(2000);
-//
-//			}
-//		} catch (InterruptedException e) {
-//			e.printStackTrace();
-//			Thread.sleep(30000);
-//		}
-//	}
-
-
 	@Override
 	protected String getProductPriceManually(PageElement productContainer){
 		String url = "https://npreco.api-casasbahia.com.br/Produtos/PrecoVenda/?idsproduto=<SKU>&utm_source=Google&utm_medium=BuscaOrganica&utm_campaign=DescontoEspecial";
@@ -81,6 +54,12 @@ public class CasasBahiaSeleniumSearch extends JsoupSearch {
 		System.out.println("finalPrice: "+finalPrice);
 
 		return finalPrice;
+	}
+
+	@Override
+	protected String priceSanatize(String price) {
+		price = price.replace(".",",");
+		return super.priceSanatize(price);
 	}
 
 	@Override

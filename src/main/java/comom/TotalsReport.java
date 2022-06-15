@@ -22,7 +22,7 @@ public class TotalsReport {
 	private StringBuilder totalsPerGameContent = null;
 	private StringBuilder totalsPerShopContent = null;
 	
-	private Map<String, List<Product>> productsByShop = null; 
+	private Map<String, List<Product>> productsByShop = null;
 
 	public TotalsReport(List<Shop> shops) {
 		totalsPerGameContent = new StringBuilder();

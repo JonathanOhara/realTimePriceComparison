@@ -179,11 +179,10 @@ public class Main {
 //	private static List<Shop> getAllShopsConfig(ProductType productType) {
 //		List<Shop> shops = new ArrayList<>();
 //
-//		shops.add(buildShop(new ShopTimeSeleniumSearch(), productType));
+//		shops.add(buildShop(new VideoGamesPlusSearch(), productType));
 //
 //		return shops;
 //	}
-
 
 	private static List<Shop> getAllShopsConfig(ProductType productType) {
 		List<Shop> shops = new ArrayList<>();
@@ -224,6 +223,7 @@ public class Main {
 		shops.add( buildShop( new MercadoLivreSeleniumSearch(), productType ) );
 		shops.add( buildShop( new ShopeeSeleniumSearch(), productType ) );
 
+		shops.add( buildShop( new VideoGamesPlusSearch(), productType ) );
 		shops.add( buildShop( new Shop4BRSearch(), productType ) );
 		shops.add( buildShop( new PlayAsiaSeleniumSearch(), productType ) );
 		shops.add( buildShop( new EbaySeleniumSearch(), productType ) );
