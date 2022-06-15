@@ -179,7 +179,7 @@ public class Main {
 //	private static List<Shop> getAllShopsConfig(ProductType productType) {
 //		List<Shop> shops = new ArrayList<>();
 //
-//		shops.add(buildShop(new CasasBahiaSeleniumSearch(), productType));
+//		shops.add(buildShop(new ShopTimeSeleniumSearch(), productType));
 //
 //		return shops;
 //	}
@@ -190,7 +190,8 @@ public class Main {
 
 		shops.add( buildShop( new AmericanasSearch(), productType ) );
 		shops.add( buildShop( new SubmarinoSearch(), productType ) );
-//		shops.add( buildShop( new ShopTimeSeleniumSearch(), productType ) );
+		shops.add( buildShop( new SoubaratoSearch(), productType ) );
+		shops.add( buildShop( new ShopTimeSeleniumSearch(), productType ) );
 		shops.add( buildShop( new CarrefourSeleniumSearch(), productType ) );
 		shops.add( buildShop( new FastShopSeleniumSearch(), productType ) );
 		shops.add( buildShop( new KabumSeleniumSearch(), productType ) );
@@ -231,10 +232,10 @@ public class Main {
 //		shops.add( buildShop( new FuturisticGamesSeleniumSearch(), productType ) );
 		//easterland
 		//cdrstation
+		//https://videogamesplus.ca/
 
 		return shops;
 	}
-
 
 	private static Shop buildShop(Search search, ProductType productType) {
 		return new Shop(search.getName(), search.getMainUrl(), search.getSearchPattern(productType), search);

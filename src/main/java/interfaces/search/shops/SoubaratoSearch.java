@@ -1,6 +1,7 @@
 package interfaces.search.shops;
 
 import comom.Util;
+import interfaces.search.JsoupSearch;
 import interfaces.search.SeleniumSearch;
 import objects.ProductType;
 import objects.Shop;
@@ -8,36 +9,41 @@ import objects.Shop;
 import java.net.MalformedURLException;
 import java.net.URISyntaxException;
 
-public class ShopTimeSeleniumSearch extends SeleniumSearch {
+public class SoubaratoSearch extends SeleniumSearch {
 
 	@Override
 	public String getName() {
-		return "Shop Time";
+		return "Soubarato";
 	}
 
 	@Override
 	public String getMainUrl() {
-		return "https://www.shoptime.com.br/";
+		return "https://www.soubarato.com.br/";
 	}
 
 	@Override
 	public String getSearchPattern(ProductType productType) {
-		return "https://www.shoptime.com.br/busca/<BUSCA>";
+		return "https://www.soubarato.com.br/busca/<BUSCA>";
+	}
+
+	@Override
+	protected boolean completeIndividualUrl() {
+		return true;
 	}
 
 	@Override
 	protected String getProductListCssQuery() {
-		return ".iFeuoP > div";
+ 		return "div.row.product-grid.no-gutters.main-grid > div";
 	}
 
 	@Override
 	protected String getProductNameCssQuery() {
-		return ".jXqYDg";
+		return ".product-name";
 	}
 
 	@Override
 	protected String getProductPriceCssQuery() {
-		return ".hYdDoe";
+		return ".price";
 	}
 
 	@Override
