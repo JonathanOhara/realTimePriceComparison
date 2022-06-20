@@ -198,7 +198,7 @@ public class Main {
 		shops.add( buildShop( new MagazineLuizaSeleniumSearch(), productType ) );
 		shops.add( buildShop( new NetShoesSeleniumSearch(), productType ) );
 
-		if(productType.equals(SWITCH) || productType.equals(PSVITA) || productType.equals(N3DS)) {
+		if(productType.equals(SWITCH) || productType.equals(PSVITA) || productType.equals(N3DS) || productType.equals(DEFAULT)) {
 			shops.add(buildShop(new CasasBahiaSeleniumSearch(), productType));
 //			shops.add(buildShop(new ExtraSeleniumSearch(), productType));
 //			shops.add(buildShop(new PontoFrioSeleniumSearch(), productType));
@@ -211,7 +211,7 @@ public class Main {
 		shops.add( buildShop( new AtacadoDosJogosSearch(), productType ) );
 		shops.add( buildShop( new BigBoyGamesSearch(), productType ) );
 
-		if(productType.equals(N3DS) || productType.equals(NDS) || productType.equals(SWITCH) ) {
+		if(productType.equals(N3DS) || productType.equals(NDS) || productType.equals(SWITCH) || productType.equals(DEFAULT)) {
 //			shops.add( buildShop( new CogumeloShopSearch(), productType ) );
 			shops.add( buildShop( new TrilogyNintendoSearch(), productType) );
 		}
