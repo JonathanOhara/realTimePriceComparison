@@ -27,7 +27,7 @@ public class Main {
 	private static String logAddress = "";
 	private static TotalsReport totalsReport;
 	
-	public static void main(String[] args) throws IOException, URISyntaxException {
+	public static void main(String[] args) throws IOException, URISyntaxException, InterruptedException {
 		gameListAddress = Util.getProjectPath() + "/src/main/resources/search.txt";
 		File gameList = readFile();
 		List<String> ler = Util.ler(gameList);
@@ -84,7 +84,7 @@ public class Main {
 		return ProductType.DEFAULT;
 	}
 
-	private static Game extractGame(String gameName, boolean parseJson){
+	private static Game extractGame(String gameName, boolean parseJson) throws InterruptedException {
 		Game game = new Game();
 
 		if(gameName.indexOf("{") > -1 && gameName.lastIndexOf("}") > -1) {
@@ -101,33 +101,31 @@ public class Main {
 		return game;
 	}
 
-	private static PriceCharting extractPriceCharting(String url) {
+	private static PriceCharting extractPriceCharting(String url) throws InterruptedException {
 		PriceCharting priceCharting = new PriceCharting(url);
 
 		WebDriver driver = SeleniumUtil.getDriver();
-		try {
-			driver.get(url);
 
-			if( !SeleniumUtil.isUsingChromeProfile() ) {
-				driver.findElement(By.cssSelector("#dropdown_selected_currency")).click();
-				Thread.sleep(500);
-				driver.findElement(By.cssSelector("a[data-currency='BRL']")).click();
-			}
+		Thread.sleep(750);
 
-			Thread.sleep(1000);
+		driver.get(url);
 
-			String completePrice = driver.findElement(By.cssSelector("#complete_price > span.price.js-price")).getText();
-			String newPrice = driver.findElement(By.cssSelector("#new_price > span.price.js-price")).getText();
-
-			priceCharting.setCompletePrice(completePrice.replace("R ", "").trim());
-			priceCharting.setNewPrice(newPrice.replace("R ", "").trim());
-
-			System.out.println("CIB Price: "+completePrice);
-			System.out.println("NEW Price: "+newPrice);
-
-		} catch (Exception e) {
-			e.printStackTrace();
+		if( !SeleniumUtil.isUsingChromeProfile() ) {
+			driver.findElement(By.cssSelector("#dropdown_selected_currency")).click();
+			Thread.sleep(500);
+			driver.findElement(By.cssSelector("a[data-currency='BRL']")).click();
 		}
+
+		Thread.sleep(750);
+
+		String completePrice = driver.findElement(By.cssSelector("#complete_price > span.price.js-price")).getText();
+		String newPrice = driver.findElement(By.cssSelector("#new_price > span.price.js-price")).getText();
+
+		priceCharting.setCompletePrice(completePrice.replace("R ", "").trim());
+		priceCharting.setNewPrice(newPrice.replace("R ", "").trim());
+
+		System.out.println("CIB Price: "+completePrice);
+		System.out.println("NEW Price: "+newPrice);
 
 		return priceCharting;
 	}
@@ -189,7 +187,7 @@ public class Main {
 
 		shops.add( buildShop( new AmericanasSearch(), productType ) );
 		shops.add( buildShop( new SubmarinoSearch(), productType ) );
-		shops.add( buildShop( new SoubaratoSearch(), productType ) );
+//		shops.add( buildShop( new SoubaratoSearch(), productType ) );
 		shops.add( buildShop( new ShopTimeSeleniumSearch(), productType ) );
 		shops.add( buildShop( new CarrefourSeleniumSearch(), productType ) );
 		shops.add( buildShop( new FastShopSeleniumSearch(), productType ) );

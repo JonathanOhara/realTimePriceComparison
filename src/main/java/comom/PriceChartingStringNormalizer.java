@@ -44,6 +44,7 @@ public class PriceChartingStringNormalizer {
 //        regionMap.put("Monster Harvest:Switch", "PAL");
         regionMap.put("Monster Hunter Rise:Switch", "PAL");
 //        regionMap.put("Rune Factory 4 Special:Switch", "PAL");
+        regionMap.put("Skul:The Hero Slayer:Switch", "PAL");
         regionMap.put("Stardew Valley:Switch", "PAL");
         regionMap.put("Titan Quest:Switch", "PAL");
         regionMap.put("Wargroove:Switch", "PAL");
@@ -53,6 +54,7 @@ public class PriceChartingStringNormalizer {
 
         regionMap.put("Digimon World: Next Order:PS Vita", "JP");
         regionMap.put("The Legend of Heroes: Trails of Cold Steel:PS Vita", "PAL");
+        regionMap.put("Natural Doctrine:PS Vita", "PAL");
 
         regionMap.put("Digimon Adventure:PSP", "JP");
         regionMap.put("Digimon World Re:Digitize:PSP", "JP");
