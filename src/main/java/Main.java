@@ -186,9 +186,9 @@ public class Main {
 		List<Shop> shops = new ArrayList<>();
 
 		shops.add( buildShop( new AmericanasSearch(), productType ) );
-		shops.add( buildShop( new SubmarinoSearch(), productType ) );
+//		shops.add( buildShop( new SubmarinoSearch(), productType ) );
 //		shops.add( buildShop( new SoubaratoSearch(), productType ) );
-		shops.add( buildShop( new ShopTimeSeleniumSearch(), productType ) );
+//		shops.add( buildShop( new ShopTimeSeleniumSearch(), productType ) );
 		shops.add( buildShop( new CarrefourSeleniumSearch(), productType ) );
 		shops.add( buildShop( new FastShopSeleniumSearch(), productType ) );
 		shops.add( buildShop( new KabumSeleniumSearch(), productType ) );
