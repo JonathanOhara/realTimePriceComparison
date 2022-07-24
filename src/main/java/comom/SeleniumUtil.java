@@ -14,8 +14,8 @@ public class SeleniumUtil {
     private static long count = 0;
 
     private static void init() {
-        System.setProperty("webdriver.gecko.driver","C:\\geckodriver.exe");
-        System.setProperty("webdriver.chrome.driver","C:/Users/jonat/Documents/Selenium/chromedriver.exe");
+        System.setProperty("webdriver.gecko.driver","C:/Users/Jonathan/Documents/geckodriver.exe");
+        System.setProperty("webdriver.chrome.driver","C:/Users/Jonathan/Documents/Selenium/chromedriver.exe");
     }
 
     public static WebDriver getDriver(){
@@ -38,7 +38,7 @@ public class SeleniumUtil {
             options.addArguments("--disable-blink-features=AutomationControlled");
 
             if( isUsingChromeProfile() ) {
-                options.addArguments("user-data-dir=C:/Users/jonat/Documents/Selenium");
+                options.addArguments("user-data-dir=C:/Users/Jonathan/Documents/Selenium");
                 options.addArguments("profile-directory=Profile 1");
             }
 

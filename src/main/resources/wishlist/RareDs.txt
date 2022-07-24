@@ -2,6 +2,7 @@ Aliens: infestation ds {https://www.pricecharting.com/game/nintendo-ds/aliens-in
 Atelier annie: alchemists of sera island {https://www.pricecharting.com/game/nintendo-ds/atelier-annie-alchemists-of-sera-island}
 Avalon code {https://www.pricecharting.com/game/nintendo-ds/avalon-code}
 Batman: The Brave And The Bold ds {https://www.pricecharting.com/game/nintendo-ds/batman-the-brave-and-the-bold}
+Blue Dragon Plus ds {https://www.pricecharting.com/game/nintendo-ds/blue-dragon-plus}
 Castlevania: dawn of sorrow {https://www.pricecharting.com/game/nintendo-ds/castlevania-dawn-of-sorrow}
 Castlevania: order of ecclesia {https://www.pricecharting.com/game/nintendo-ds/castlevania-order-of-ecclesia}
 Castlevania: portrait of ruin {https://www.pricecharting.com/game/nintendo-ds/castlevania-portrait-of-ruin}
@@ -10,7 +11,6 @@ Custom Robo Arena {https://www.pricecharting.com/game/nintendo-ds/custom-robo-ar
 Dementium ii {https://www.pricecharting.com/game/nintendo-ds/dementium-ii}
 Dementium the ward {https://www.pricecharting.com/game/nintendo-ds/dementium-the-ward}
 Draglade ds {https://www.pricecharting.com/game/nintendo-ds/draglade}
-Dragon ball z attack of the saiyans {https://www.pricecharting.com/game/nintendo-ds/dragon-ball-z-attack-of-the-saiyans}
 Dragon ball z supersonic warriors 2 {https://www.pricecharting.com/game/nintendo-ds/dragon-ball-z-supersonic-warriors-2}
 Dragon ball: origins 2 {https://www.pricecharting.com/game/nintendo-ds/dragon-ball-origins-2}
 Dragon quest iv {https://www.pricecharting.com/game/nintendo-ds/dragon-quest-iv-chapters-of-the-chosen}
@@ -39,7 +39,6 @@ Kirby: canvas curse {https://www.pricecharting.com/game/nintendo-ds/kirby-canvas
 Knights in the nightmare ds {https://www.pricecharting.com/game/nintendo-ds/knights-in-the-nightmare}
 Legacy of ys: books i ii {https://www.pricecharting.com/game/nintendo-ds/legacy-of-ys-books-i-&-ii}
 Lost magic {https://www.pricecharting.com/game/nintendo-ds/lost-magic#}
-Lufia: curse of the sinistrals {https://www.pricecharting.com/game/nintendo-ds/lufia-curse-of-the-sinistrals}
 Luminous arc {https://www.pricecharting.com/game/nintendo-ds/luminous-arc}
 Luminous Arc 2 {https://www.pricecharting.com/game/nintendo-ds/luminous-arc-2}
 Lunar knights {https://www.pricecharting.com/game/nintendo-ds/lunar-knights}

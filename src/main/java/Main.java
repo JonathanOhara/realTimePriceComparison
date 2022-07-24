@@ -194,7 +194,7 @@ public class Main {
 		shops.add( buildShop( new KabumSeleniumSearch(), productType ) );
 
 		shops.add( buildShop( new MagazineLuizaSeleniumSearch(), productType ) );
-		shops.add( buildShop( new NetShoesSeleniumSearch(), productType ) );
+//		shops.add( buildShop( new NetShoesSeleniumSearch(), productType ) );
 
 		if(productType.equals(SWITCH) || productType.equals(PSVITA) || productType.equals(N3DS) || productType.equals(DEFAULT)) {
 			shops.add(buildShop(new CasasBahiaSeleniumSearch(), productType));
@@ -202,7 +202,7 @@ public class Main {
 //			shops.add(buildShop(new PontoFrioSeleniumSearch(), productType));
 		}
 
-		shops.add( buildShop( new RiHappySeleniumSearch(), productType ) );
+//		shops.add( buildShop( new RiHappySeleniumSearch(), productType ) );
 		shops.add( buildShop( new ShopBSearch(), productType ) );
 		shops.add( buildShop( new AmazonBRSearch(), productType ) );
 
@@ -230,7 +230,6 @@ public class Main {
 //		shops.add( buildShop( new FuturisticGamesSeleniumSearch(), productType ) );
 		//easterland
 		//cdrstation
-		//https://videogamesplus.ca/
 
 		return shops;
 	}

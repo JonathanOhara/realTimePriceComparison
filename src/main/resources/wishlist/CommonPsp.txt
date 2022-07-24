@@ -3,14 +3,13 @@ Daxter psp {https://www.pricecharting.com/game/psp/daxter}
 Final Fantasy II {https://www.pricecharting.com/game/psp/final-fantasy-ii}
 Chinatown wars psp {https://www.pricecharting.com/game/psp/grand-theft-auto-chinatown-wars}
 Field Commander {https://www.pricecharting.com/game/psp/field-commander}
-Gods Eater Burst {https://www.pricecharting.com/game/psp/gods-eater-burst}
 Killzone: liberation {https://www.pricecharting.com/game/psp/killzone-liberation}
 Kingdom of paradise psp {https://www.pricecharting.com/game/psp/kingdom-of-paradise}
 LocoRoco {https://www.pricecharting.com/game/psp/locoroco}
 Lord of Arcana {https://www.pricecharting.com/game/psp/lord-of-arcana}
 Medal of honor heroes psp {https://www.pricecharting.com/game/psp/medal-of-honor-heroes}
 Medievil resurrection psp {https://www.pricecharting.com/game/psp/medievil-resurrection}
-Mega man maverick hunter {https://www.pricecharting.com/game/psp/mega-man-maverick-hunter-x}
+Maverick hunter {https://www.pricecharting.com/game/psp/mega-man-maverick-hunter-x}
 Metal gear solid portable ops {https://www.pricecharting.com/game/psp/metal-gear-solid-portable-ops-plus}
 Midnight club {https://www.pricecharting.com/game/psp/midnight-club-la-remix}
 Monster hunter 2 psp {https://www.pricecharting.com/game/psp/monster-hunter-freedom-2}
@@ -19,4 +18,3 @@ Patapon psp {https://www.pricecharting.com/game/psp/patapon}
 Patapon 2 psp {https://www.pricecharting.com/game/psp/patapon-2}
 Phantom Brave: The Hermuda Triangle {https://www.pricecharting.com/game/psp/phantom-brave-the-hermuda-triangle}
 Prince of persia rival swords {https://www.pricecharting.com/game/psp/prince-of-persia-rival-swords}
-Tales of the world: radiant mythology {https://www.pricecharting.com/game/psp/tales-of-the-world-radiant-mythology}

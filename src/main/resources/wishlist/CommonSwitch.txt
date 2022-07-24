@@ -37,9 +37,11 @@ HARVEST MOON: ONE WORLD {https://www.pricecharting.com/game/nintendo-switch/harv
 Hotline miami collection {https://www.pricecharting.com/game/nintendo-switch/hotline-miami-collection}
 Hyrule WARRIORS: CALAMITY {https://www.pricecharting.com/pt/game/nintendo-switch/hyrule-warriors-age-of-calamity}
 Immortals: FENYX RISING switch {https://www.pricecharting.com/pt/game/nintendo-switch/immortals-fenyx-rising}
+Live A Live {https://www.pricecharting.com/pt/game/nintendo-switch/live-a-live}
 Luigi MANSION 3 switch {https://www.pricecharting.com/pt/game/nintendo-switch/luigi%27s-mansion-3}
 Mario kart 8 deluxe {https://www.pricecharting.com/game/nintendo-switch/mario-kart-8-deluxe}
 MARIO PARTY SUPERSTARS {https://www.pricecharting.com/game/nintendo-switch/mario-party-superstars}
+Mario Strikers Battle League {https://www.pricecharting.com/pt/game/nintendo-switch/mario-strikers-battle-league}
 Marvel ULTIMATE ALLIANCE 3 {https://www.pricecharting.com/game/nintendo-switch/marvel-ultimate-alliance-3-the-black-order}
 Mega Man Zero Legacy Collection {https://www.pricecharting.com/game/nintendo-switch/mega-man-zerozx-legacy-collection}
 Metro Redux switch {https://www.pricecharting.com/game/nintendo-switch/metro-redux}
@@ -50,7 +52,6 @@ NEO: The World Ends With You {https://www.pricecharting.com/game/nintendo-switch
 Neptunia X Senran Kagura Ninja Wars {https://www.pricecharting.com/game/nintendo-switch/neptunia-x-senran-kagura-ninja-wars}
 Ni No Kuni II {https://www.pricecharting.com/game/nintendo-switch/ni-no-kuni-ii-revenant-kingdom}
 Octopath TRAVELER {https://www.pricecharting.com/pt/game/nintendo-switch/octopath-traveler}
-Outer Worlds switch {https://www.pricecharting.com/game/nintendo-switch/the-outer-worlds}
 Paper MARIO: ORIGAMI KING {https://www.pricecharting.com/pt/game/nintendo-switch/paper-mario-the-origami-king}
 PERSONA 5 STRIKERS {https://www.pricecharting.com/game/nintendo-switch/persona-5-strikers}
 Pikmin 3 DELUXE {https://www.pricecharting.com/game/nintendo-switch/pikmin-3-deluxe}
@@ -73,6 +74,7 @@ Streets OF RAGE 4 {https://www.pricecharting.com/game/nintendo-switch/streets-of
 Super Robot Wars T {https://www.pricecharting.com/pt/game/jp-nintendo-switch/super-robot-wars-t}
 Super Smash Bros Ultimate {https://www.pricecharting.com/game/nintendo-switch/super-smash-bros-ultimate}
 Survivalists {https://www.pricecharting.com/game/nintendo-switch/the-survivalists}
+Teenage Mutant Ninja Turtles switch {https://www.pricecharting.com/pt/game/nintendo-switch/teenage-mutant-ninja-turtles-shredder%27s-revenge}
 The Cruel King And The Great Hero {https://www.pricecharting.com/game/nintendo-switch/the-cruel-king-and-the-great-hero-storybook-edition}
 Tokyo MIRAGE SESSIONS FE ENCORE {https://www.pricecharting.com/pt/game/nintendo-switch/tokyo-mirage-sessions-fe-encore}
 Tony Hawk Pro Skater 1 2 switch {https://www.pricecharting.com/game/nintendo-switch/tony-hawk%27s-pro-skater-1+2}
