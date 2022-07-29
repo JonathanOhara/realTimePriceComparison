@@ -17,7 +17,8 @@ public class PriceChartingStringNormalizer {
         titleMap.put("Baldur's Gate and Baldur's Gate II: Enhanced Editions:Switch", "Baldur's Gate 1 & 2 Enhanced Edition");
         titleMap.put("Bayonetta 2:Switch", "Bayonetta 2 + Bayonetta");
         titleMap.put("Legend of Mana:Switch", "Legend Of Mana Remastered");
-        titleMap.put("Little Town Hero:Switch", "Little Town Hero [Big   Idea Edition]");
+        titleMap.put("Little Town Hero:Switch", "Little Town Hero [Big Idea Edition]");
+        titleMap.put("Sword Art Online FATAL BULLET Complete Edition:Switch", "Sword Art Online: Fatal Bullet");
         titleMap.put("Wargroove:Switch", "Wargroove Deluxe Edition");
 
         titleMap.put("Harvest Moon 3D: The Tale of Two Towns:3DS", "Harvest Moon: The Tale Of Two Towns");
@@ -33,8 +34,10 @@ public class PriceChartingStringNormalizer {
         regionMap.put("Astral Chain:Switch", "PAL");
         regionMap.put("Brigandine: The Legend of Runersia:Switch", "PAL");
         regionMap.put("Blasphemous: Deluxe Edition:Switch", "PAL");
+        regionMap.put("Bravely Default II:Switch", "PAL");
         regionMap.put("Cadence of Hyrule: Crypt of the NecroDancer featuring The Legend of Zelda:Switch", "PAL");
         regionMap.put("CrossCode:Switch", "PAL");
+        regionMap.put("Crysis Remastered:Switch", "PAL");
         regionMap.put("Daemon X Machina:Switch", "PAL");
         regionMap.put("Deadly Premonition 2: A Blessing in Disguise:Switch", "PAL");
         regionMap.put("Disgaea 4 Complete+:Switch", "PAL");
@@ -47,11 +50,13 @@ public class PriceChartingStringNormalizer {
 //        regionMap.put("Rune Factory 4 Special:Switch", "PAL");
         regionMap.put("Skul:The Hero Slayer:Switch", "PAL");
         regionMap.put("Stardew Valley:Switch", "PAL");
+        regionMap.put("Sword Art Online FATAL BULLET Complete Edition:Switch", "PAL");
         regionMap.put("Titan Quest:Switch", "PAL");
         regionMap.put("Travis Strikes Again: No More Heroes:Switch", "PAL");
         regionMap.put("Wargroove:Switch", "PAL");
         regionMap.put("Ys Origin:Switch", "PAL");
         regionMap.put("Ys VIII: Lacrimosa of DANA:Switch", "PAL");
+        regionMap.put("Ys IX: Monstrum Nox - Pact Edition:Switch", "PAL");
         regionMap.put("Valkyria Chronicles 4:Switch", "PAL");
 
         regionMap.put("Digimon World: Next Order:PS Vita", "JP");
@@ -61,6 +66,7 @@ public class PriceChartingStringNormalizer {
         regionMap.put("Digimon Adventure:PSP", "JP");
         regionMap.put("Digimon World Re:Digitize:PSP", "JP");
         regionMap.put("Gundam Battle Royale:PSP", "JP");
+        regionMap.put("Grand Theft Auto: Vice City Stories:PSP", "PAL ");
         regionMap.put("Super Robot Wars MX Portable:PSP", "JP");
         regionMap.put("Warhammer 40,000: Squad Command:PSP", "PAL");
 

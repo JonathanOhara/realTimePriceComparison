@@ -189,8 +189,9 @@ public class Main {
 //		shops.add( buildShop( new SubmarinoSearch(), productType ) );
 //		shops.add( buildShop( new SoubaratoSearch(), productType ) );
 //		shops.add( buildShop( new ShopTimeSeleniumSearch(), productType ) );
-		shops.add( buildShop( new CarrefourSeleniumSearch(), productType ) );
+//		shops.add( buildShop( new CarrefourSeleniumSearch(), productType ) );
 		shops.add( buildShop( new FastShopSeleniumSearch(), productType ) );
+
 		shops.add( buildShop( new KabumSeleniumSearch(), productType ) );
 
 		shops.add( buildShop( new MagazineLuizaSeleniumSearch(), productType ) );

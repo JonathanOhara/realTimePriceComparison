@@ -5,6 +5,7 @@ import objects.normalizer.PageDocument;
 import objects.normalizer.PageElement;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebDriverException;
 import org.openqa.selenium.WebElement;
 
 import java.util.List;
@@ -22,15 +23,21 @@ public class SeleniumPageDocument implements PageDocument {
     @Override
     public void connect(String url) {
         Random random = new Random();
-        int minWait = 100;
-        int maxWait = 400;
+        int minWait = 200;
+        int maxWait = 500;
 
         try {
-            Thread.sleep(random.nextInt(maxWait -minWait)+ minWait) ;
+            Thread.sleep(random.nextInt(maxWait - minWait) + minWait) ;
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
-        driver.get(url);
+        try{
+            driver.get(url);
+        }catch (WebDriverException ex){
+            ex.printStackTrace();
+
+        }
+
     }
 
     @Override
