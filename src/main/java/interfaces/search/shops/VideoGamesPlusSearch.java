@@ -7,6 +7,7 @@ import objects.Shop;
 
 import java.net.MalformedURLException;
 import java.net.URISyntaxException;
+import java.text.DecimalFormat;
 
 import static comom.Keys.CAD_VALUE;
 
@@ -29,7 +30,7 @@ public class VideoGamesPlusSearch extends JsoupSearch {
 			case DEFAULT:
 				return "https://videogamesplus.ca/search?type=article%2Cpage%2Cproduct&q=<BUSCA>";
 			case NDS:
-				return "https://videogamesplus.ca/search?type=article%2Cpage%2Cproduct&q=<BUSCA>+product_type%3ANINTENDO+DS";
+				return "https://videogamesplus.ca/search?type=article%2Cpage%2Cproduct&q=<BUSCA>";
 			case N3DS:
 				return "https://videogamesplus.ca/search?type=article%2Cpage%2Cproduct&q=<BUSCA>+product_type%3ANINTENDO+3DS";
 			case PSP:
@@ -69,7 +70,10 @@ public class VideoGamesPlusSearch extends JsoupSearch {
 			price = price.substring(1);
 			price = price.replace("CAD","").trim();
 			double cadPrice = Double.parseDouble(price);
-			price = String.valueOf(cadPrice * CAD_VALUE);
+
+			double amount = cadPrice * CAD_VALUE;
+			DecimalFormat twoPlaces = new DecimalFormat("0.00");
+			price = twoPlaces.format(amount);
 		}
 
 		return price;

@@ -46,7 +46,7 @@ public class SeleniumUtil {
             options.setExperimentalOption("excludeSwitches", Arrays.asList("enable-automation"));
 
             driver = new ChromeDriver(options);
-            driver.manage().timeouts().pageLoadTimeout(120, TimeUnit.SECONDS);
+            driver.manage().timeouts().pageLoadTimeout(30, TimeUnit.SECONDS);
         }
 
         return driver;

@@ -22,7 +22,7 @@ public class KabumSeleniumSearch extends SeleniumSearch {
 
 	@Override
 	public String getSearchPattern(ProductType productType) {
-		return "https://www.kabum.com.br/busca?query=<BUSCA>";
+		return "https://www.kabum.com.br/busca/<BUSCA>";
 	}
 
 	@Override
@@ -47,7 +47,7 @@ public class KabumSeleniumSearch extends SeleniumSearch {
 
 	@Override
 	protected String replaceUrl(Shop shop, String productName) throws MalformedURLException, URISyntaxException {
-		return Util.prepareUrlMode1(shop.getSearchPattern(), productName);
+		return Util.prepareUrlMode3(shop.getSearchPattern(), productName);
 	}
 	
 }
