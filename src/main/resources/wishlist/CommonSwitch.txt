@@ -7,7 +7,7 @@ Atelier Sophie 2 {https://www.pricecharting.com/game/nintendo-switch/atelier-sop
 Azure Striker Gunvolt Striker Pack {https://www.pricecharting.com/game/nintendo-switch/azure-striker-gunvolt-striker-pack}
 Bioshock The Collection switch {https://www.pricecharting.com/game/nintendo-switch/bioshock-the-collection}
 Borderlands Legendary Collection {https://www.pricecharting.com/game/nintendo-switch/borderlands-legendary-collection}
-Cruis BLAST {https://www.pricecharting.com/game/nintendo-switch/cruis%27n-blast}
+Cruis n BLAST {https://www.pricecharting.com/game/nintendo-switch/cruis%27n-blast}
 Crystar {https://www.pricecharting.com/game/nintendo-switch/crystar}
 Danganronpa Decadence {https://www.pricecharting.com/game/nintendo-switch/danganronpa-decadence}
 Dark souls remastered switch {https://www.pricecharting.com/pt/game/nintendo-switch/dark-souls-remastered}
@@ -29,15 +29,12 @@ Enter THE GUNGEON {https://www.pricecharting.com/game/nintendo-switch/enter-the-
 Fallen Legion Revenants {https://www.pricecharting.com/game/nintendo-switch/fallen-legion-revenants}
 Ghostrunner {https://www.pricecharting.com/game/nintendo-switch/ghostrunner}
 Great ACE ATTORNEY CHRONICLES {https://www.pricecharting.com/game/nintendo-switch/the-great-ace-attorney-chronicles}
-HARVEST MOON: ONE WORLD {https://www.pricecharting.com/game/nintendo-switch/harvest-moon-one-world}
 Hotline miami collection {https://www.pricecharting.com/game/nintendo-switch/hotline-miami-collection}
 Hyrule WARRIORS: CALAMITY {https://www.pricecharting.com/pt/game/nintendo-switch/hyrule-warriors-age-of-calamity}
-Immortals: FENYX RISING switch {https://www.pricecharting.com/pt/game/nintendo-switch/immortals-fenyx-rising}
 Live A Live switch {https://www.pricecharting.com/pt/game/nintendo-switch/live-a-live}
 Luigi MANSION 3 switch {https://www.pricecharting.com/pt/game/nintendo-switch/luigi%27s-mansion-3}
 Mario kart 8 deluxe {https://www.pricecharting.com/game/nintendo-switch/mario-kart-8-deluxe}
 MARIO PARTY SUPERSTARS {https://www.pricecharting.com/game/nintendo-switch/mario-party-superstars}
-Mario Strikers Battle League {https://www.pricecharting.com/pt/game/nintendo-switch/mario-strikers-battle-league}
 Marvel ULTIMATE ALLIANCE 3 {https://www.pricecharting.com/game/nintendo-switch/marvel-ultimate-alliance-3-the-black-order}
 Mega Man Zero Legacy Collection {https://www.pricecharting.com/game/nintendo-switch/mega-man-zerozx-legacy-collection}
 Metro Redux switch {https://www.pricecharting.com/game/nintendo-switch/metro-redux}
@@ -51,8 +48,8 @@ Octopath TRAVELER {https://www.pricecharting.com/pt/game/nintendo-switch/octopat
 Paper MARIO: ORIGAMI KING {https://www.pricecharting.com/pt/game/nintendo-switch/paper-mario-the-origami-king}
 PERSONA 5 STRIKERS {https://www.pricecharting.com/game/nintendo-switch/persona-5-strikers}
 Pikmin 3 DELUXE {https://www.pricecharting.com/game/nintendo-switch/pikmin-3-deluxe}
+Pokemon Mystery Dungeon: Rescue Team DX {https://www.pricecharting.com/pt/game/nintendo-switch/pokemon-mystery-dungeon-rescue-team-dx}
 Pokken TOURNAMENT DX {https://www.pricecharting.com/pt/game/nintendo-switch/pokken-tournament-dx}
-Pokemon Brilliant Diamond {https://www.pricecharting.com/game/nintendo-switch/pokemon-brilliant-diamond}
 Resident Evil Triple Pack {https://www.pricecharting.com/game/nintendo-switch/resident-evil-triple-pack}
 Risk Of Rain 2 {https://www.pricecharting.com/game/nintendo-switch/risk-of-rain-2}
 Rune Factory 5 {https://www.pricecharting.com/game/nintendo-switch/rune-factory-5}
@@ -61,7 +58,6 @@ Saints ROW elected switch {https://www.pricecharting.com/game/nintendo-switch/sa
 Samurai Warriors 5 {https://www.pricecharting.com/game/nintendo-switch/samurai-warriors-5}
 Saviors Of Sapphire Wings Stranger Of Sword City Revisited {https://www.pricecharting.com/game/nintendo-switch/saviors-of-sapphire-wings-&-stranger-of-sword-city-revisited}
 Sentinels Aegis Rim switch {https://www.pricecharting.com/game/nintendo-switch/13-sentinels-aegis-rim}
-Shin MEGAMI TENSEI III REMASTER {https://www.pricecharting.com/game/nintendo-switch/shin-megami-tensei-iii-nocturne-hd-remaster}
 Shovel KNIGHT: TREASURE TROVE {https://www.pricecharting.com/game/nintendo-switch/shovel-knight-treasure-trove}
 Sonic Mania Plus switch {https://www.pricecharting.com/game/nintendo-switch/sonic-mania-plus}
 Story OF SEASONS: FRIENDS OF MINERAL TOWN {https://www.pricecharting.com/pt/game/nintendo-switch/story-of-seasons-friends-of-mineral-town}
@@ -78,6 +74,7 @@ Trials OF MANA switch {https://www.pricecharting.com/pt/game/nintendo-switch/tri
 Triangle Strategy {https://www.pricecharting.com/game/nintendo-switch/triangle-strategy}
 Trine: Ultimate Collection {https://www.pricecharting.com/game/nintendo-switch/trine-ultimate-collection}
 World Ends With You: Final  Remix {https://www.pricecharting.com/game/nintendo-switch/world-ends-with-you-final-remix}
+Xenoblade chronicles 3 {https://www.pricecharting.com/pt/game/nintendo-switch/xenoblade-chronicles-3}
 Yoshi Crafted World {https://www.pricecharting.com/game/nintendo-switch/yoshi%27s-crafted-world}
 Yu Legacy of the duelist link evolution {https://www.pricecharting.com/pt/game/nintendo-switch/yu-gi-oh-legacy-of-the-duelist-link-evolution}
 Zombie Army 4 switch {https://www.pricecharting.com/game/nintendo-switch/zombie-army-4-dead-war}
