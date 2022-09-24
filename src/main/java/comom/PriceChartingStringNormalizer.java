@@ -20,6 +20,7 @@ public class PriceChartingStringNormalizer {
         titleMap.put("Little Town Hero:Switch", "Little Town Hero [Big Idea Edition]");
         titleMap.put("Sword Art Online FATAL BULLET Complete Edition:Switch", "Sword Art Online: Fatal Bullet");
         titleMap.put("Wargroove:Switch", "Wargroove Deluxe Edition");
+        titleMap.put("Unrailed! (SRG#49):Switch", "Unrailed");
 
         titleMap.put("Harvest Moon 3D: The Tale of Two Towns:3DS", "Harvest Moon: The Tale Of Two Towns");
 
