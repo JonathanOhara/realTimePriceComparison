@@ -2,42 +2,43 @@ package interfaces.search.shops;
 
 import comom.Util;
 import interfaces.search.JsoupSearch;
+import interfaces.search.SeleniumSearch;
 import objects.ProductType;
 import objects.Shop;
 
 import java.net.MalformedURLException;
 import java.net.URISyntaxException;
 
-public class GTAGamesSearch extends JsoupSearch {
+public class CarvalhoGamesSearch extends SeleniumSearch {
 
 	@Override
 	public String getName() {
-		return "GTA Games";
+		return "Carvalho Games";
 	}
 
 	@Override
 	public String getMainUrl() {
-		return "https://www.gtagames.com.br/";
+		return "https://www.carvalhogames.com.br/";
 	}
 
 	@Override
 	public String getSearchPattern(ProductType productType) {
-		return "https://www.gtagames.com.br/busca-busca_produtos?nome_produto=<BUSCA>";
+		return "https://www.carvalhogames.com.br/buscar?q=<BUSCA>";
 	}
 
 	@Override
 	protected String getProductListCssQuery() {
-		return ".containerListagem  > div.boxItemListagem";
+		return "#listagemProdutos > ul > div";
 	}
 
 	@Override
 	protected String getProductNameCssQuery() {
-		return ".itemListagemNomeProduto";
+		return ".info-produto > a";
 	}
 
 	@Override
 	protected String getProductPriceCssQuery() {
-		return ".itemListagemPorProduto > p";
+		return "strong.titulo";
 	}
 
 	@Override

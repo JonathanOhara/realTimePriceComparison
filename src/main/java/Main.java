@@ -192,8 +192,6 @@ public class Main {
 //		shops.add( buildShop( new CarrefourSeleniumSearch(), productType ) );
 //		shops.add( buildShop( new FastShopSeleniumSearch(), productType ) );
 
-		shops.add( buildShop( new KabumSeleniumSearch(), productType ) );
-
 		shops.add( buildShop( new MagazineLuizaSeleniumSearch(), productType ) );
 //		shops.add( buildShop( new NetShoesSeleniumSearch(), productType ) );
 
@@ -201,6 +199,8 @@ public class Main {
 			shops.add(buildShop(new CasasBahiaSeleniumSearch(), productType));
 //			shops.add(buildShop(new ExtraSeleniumSearch(), productType));
 //			shops.add(buildShop(new PontoFrioSeleniumSearch(), productType));
+
+			shops.add( buildShop( new KabumSeleniumSearch(), productType ) );
 		}
 
 //		shops.add( buildShop( new RiHappySeleniumSearch(), productType ) );
@@ -208,6 +208,7 @@ public class Main {
 		shops.add( buildShop( new AmazonBRSearch(), productType ) );
 
 		shops.add( buildShop( new AtacadoDosJogosSearch(), productType ) );
+		shops.add( buildShop( new CarvalhoGamesSearch(), productType ) );
 		shops.add( buildShop( new BigBoyGamesSearch(), productType ) );
 
 		if(productType.equals(N3DS) || productType.equals(NDS) || productType.equals(SWITCH) || productType.equals(DEFAULT)) {
