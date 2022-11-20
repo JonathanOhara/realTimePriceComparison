@@ -192,7 +192,7 @@ public class Main {
 //		shops.add( buildShop( new CarrefourSeleniumSearch(), productType ) );
 //		shops.add( buildShop( new FastShopSeleniumSearch(), productType ) );
 
-		shops.add( buildShop( new MagazineLuizaSeleniumSearch(), productType ) );
+//		shops.add( buildShop( new MagazineLuizaSeleniumSearch(), productType ) );
 //		shops.add( buildShop( new NetShoesSeleniumSearch(), productType ) );
 
 		if(productType.equals(SWITCH) || productType.equals(PSVITA) || productType.equals(N3DS) || productType.equals(DEFAULT)) {
@@ -224,7 +224,7 @@ public class Main {
 		shops.add( buildShop( new ShopeeSeleniumSearch(), productType ) );
 
 		shops.add( buildShop( new VideoGamesPlusSearch(), productType ) );
-		shops.add( buildShop( new Shop4BRSearch(), productType ) );
+//		shops.add( buildShop( new Shop4BRSearch(), productType ) );
 		shops.add( buildShop( new PlayAsiaSeleniumSearch(), productType ) );
 		shops.add( buildShop( new EbaySeleniumSearch(), productType ) );
 

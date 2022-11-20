@@ -14,6 +14,7 @@ public class PriceChartingStringNormalizer {
 
     static{
         titleMap = new HashMap<>();
+        titleMap.put("Arietta of Spirits:Switch", "Arietta of Spirits Red Edition");
         titleMap.put("Baldur's Gate and Baldur's Gate II: Enhanced Editions:Switch", "Baldur's Gate 1 & 2 Enhanced Edition");
         titleMap.put("Bayonetta 2:Switch", "Bayonetta 2 + Bayonetta");
         titleMap.put("Legend of Mana:Switch", "Legend Of Mana Remastered");
@@ -50,6 +51,7 @@ public class PriceChartingStringNormalizer {
 //        regionMap.put("Monster Harvest:Switch", "PAL");
         regionMap.put("Monster Hunter Rise:Switch", "PAL");
 //        regionMap.put("Rune Factory 4 Special:Switch", "PAL");
+        regionMap.put("Short Hike:Switch", "PAL");
         regionMap.put("Skul:The Hero Slayer:Switch", "PAL");
         regionMap.put("Stardew Valley:Switch", "PAL");
         regionMap.put("Sword Art Online FATAL BULLET Complete Edition:Switch", "PAL");
