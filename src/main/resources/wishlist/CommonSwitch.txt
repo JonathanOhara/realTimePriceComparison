@@ -9,6 +9,7 @@ AZURE STRIKER GUNVOLT 3 {https://www.pricecharting.com/game/nintendo-switch/azur
 Bayonetta 3 {https://www.pricecharting.com/pt/game/nintendo-switch/bayonetta-3}
 Bioshock The Collection switch {https://www.pricecharting.com/game/nintendo-switch/bioshock-the-collection}
 Borderlands Legendary Collection {https://www.pricecharting.com/game/nintendo-switch/borderlands-legendary-collection}
+Code: Realize Guardian Of Rebirth {https://www.pricecharting.com/pt/game/nintendo-switch/code-realize-guardian-of-rebirth}
 Crisis Core switch {https://www.pricecharting.com/pt/game/nintendo-switch/crisis-core-final-fantasy-vii-reunion}
 Cruis n BLAST {https://www.pricecharting.com/game/nintendo-switch/cruis%27n-blast}
 Cuphead {https://www.pricecharting.com/pt/game/nintendo-switch/cuphead}
@@ -17,6 +18,7 @@ Darksiders Deathinitive Edition {https://www.pricecharting.com/game/nintendo-swi
 Darksiders Genesis switch {https://www.pricecharting.com/game/nintendo-switch/darksiders-genesis}
 Darksiders 3 switch {https://www.pricecharting.com/game/nintendo-switch/darksiders-iii}
 Darksiders WARMASTERED switch {https://www.pricecharting.com/game/nintendo-switch/darksiders-warmastered-edition}
+Demon Gaze Extra {https://www.pricecharting.com/pt/game/nintendo-switch/demon-gaze-extra-day-one-edition}
 DioField Chronicle {https://www.pricecharting.com/pt/game/nintendo-switch/the-diofield-chronicle}
 Disgaea 6 switch {https://www.pricecharting.com/game/nintendo-switch/disgaea-6-defiance-of-destiny-unrelenting-edition}
 Donkey KONG TROPICAL FREEZE {https://www.pricecharting.com/pt/game/nintendo-switch/donkey-kong-country-tropical-freeze}
@@ -44,9 +46,6 @@ Nelke THE LEGENDARY ALCHEMISTS {https://www.pricecharting.com/game/nintendo-swit
 NEO: The World Ends With You {https://www.pricecharting.com/game/nintendo-switch/neo-the-world-ends-with-you}
 Neptunia X Senran Kagura Ninja Wars {https://www.pricecharting.com/game/nintendo-switch/neptunia-x-senran-kagura-ninja-wars}
 Ni No Kuni II {https://www.pricecharting.com/game/nintendo-switch/ni-no-kuni-ii-revenant-kingdom}
-NIER AUTOMATA switch {https://www.pricecharting.com/pt/game/nintendo-switch/nier-automata-the-end-of-yorha-edition}
-Octopath TRAVELER {https://www.pricecharting.com/pt/game/nintendo-switch/octopath-traveler}
-PERSONA 5 STRIKERS {https://www.pricecharting.com/game/nintendo-switch/persona-5-strikers}
 Pikmin 3 DELUXE {https://www.pricecharting.com/game/nintendo-switch/pikmin-3-deluxe}
 Pokemon Mystery Dungeon: Rescue Team DX {https://www.pricecharting.com/pt/game/nintendo-switch/pokemon-mystery-dungeon-rescue-team-dx}
 Pokken TOURNAMENT DX {https://www.pricecharting.com/pt/game/nintendo-switch/pokken-tournament-dx}
@@ -71,6 +70,7 @@ Tony Hawk Pro Skater 1 2 switch {https://www.pricecharting.com/game/nintendo-swi
 Trails From Zero {https://www.pricecharting.com/pt/game/nintendo-switch/legend-of-heroes-trails-from-zero}
 Trials OF MANA switch {https://www.pricecharting.com/pt/game/nintendo-switch/trials-of-mana}
 World Ends With You: Final  Remix {https://www.pricecharting.com/game/nintendo-switch/world-ends-with-you-final-remix}
+YOUNG SOULS - SWITCH {https://www.pricecharting.com/pt/game/pal-nintendo-switch/young-souls}
 Yoshi Crafted World {https://www.pricecharting.com/game/nintendo-switch/yoshi%27s-crafted-world}
 Yu Legacy of the duelist link evolution {https://www.pricecharting.com/pt/game/nintendo-switch/yu-gi-oh-legacy-of-the-duelist-link-evolution}
 Zombie Army 4 switch {https://www.pricecharting.com/game/nintendo-switch/zombie-army-4-dead-war}

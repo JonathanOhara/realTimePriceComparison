@@ -120,7 +120,7 @@ public class EbaySeleniumSearch extends SeleniumSearch {
 
 	@Override
 	protected String getProductNameCssQuery() {
-		return "div.s-item__info.clearfix > div.s-item__reviews > a > span > span.clipped";
+		return "div.s-item__info.clearfix > a > div > span";
 	}
 
 	@Override

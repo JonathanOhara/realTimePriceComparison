@@ -64,17 +64,17 @@ public class CasasBahiaSeleniumSearch extends JsoupSearch {
 
 	@Override
 	protected String getProductListCssQuery() {
-		return "ul.eFvtpO > li";
+		return "ul.ipfubY > li";
 	}
 
 	@Override
 	protected String getProductNameCssQuery() {
-		return "h2.iBDOQj";
+		return "h2.kArdRN";
 	}
 
 	@Override
 	protected String getProductPriceCssQuery() {
-		return ".dtxHql";
+		return ".ksyENK";
 	}
 
 	@Override
