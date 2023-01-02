@@ -19,6 +19,8 @@ public class PriceChartingStringNormalizer {
         titleMap.put("Bayonetta 2:Switch", "Bayonetta 2 + Bayonetta");
         titleMap.put("Legend of Mana:Switch", "Legend Of Mana Remastered");
         titleMap.put("Little Town Hero:Switch", "Little Town Hero [Big Idea Edition]");
+        titleMap.put("Shantae Half-Genie Hero Ultimate Edition [Day One]:Switch", "Shantae Half-Genie Hero Ultimate Edition");
+        titleMap.put("Shin Megami Tensei lll: Nocturne HD Remaster:Switch", "Shin Megami Tensei III: Nocturne HD Remaster");
         titleMap.put("Sword Art Online FATAL BULLET Complete Edition:Switch", "Sword Art Online: Fatal Bullet");
         titleMap.put("Wargroove:Switch", "Wargroove Deluxe Edition");
         titleMap.put("Unrailed! (SRG#49):Switch", "Unrailed");
@@ -33,6 +35,8 @@ public class PriceChartingStringNormalizer {
 
 
         regionMap = new HashMap<>();
+        regionMap.put("A Short Hike:Switch", "PAL");
+        regionMap.put("Arietta of Spirits:Switch", "PAL");
         regionMap.put("Astral Chain:Switch", "PAL");
         regionMap.put("Brigandine: The Legend of Runersia:Switch", "PAL");
         regionMap.put("Blasphemous: Deluxe Edition:Switch", "PAL");
@@ -55,8 +59,10 @@ public class PriceChartingStringNormalizer {
         regionMap.put("Skul:The Hero Slayer:Switch", "PAL");
         regionMap.put("Stardew Valley:Switch", "PAL");
         regionMap.put("Sword Art Online FATAL BULLET Complete Edition:Switch", "PAL");
+        regionMap.put("The Touryst:Switch", "PAL");
         regionMap.put("Titan Quest:Switch", "PAL");
         regionMap.put("Travis Strikes Again: No More Heroes:Switch", "PAL");
+        regionMap.put("Unrailed! (SRG#49):Switch", "PAL");
         regionMap.put("Wargroove:Switch", "PAL");
         regionMap.put("Ys Origin:Switch", "PAL");
         regionMap.put("Ys VIII: Lacrimosa of DANA:Switch", "PAL");
