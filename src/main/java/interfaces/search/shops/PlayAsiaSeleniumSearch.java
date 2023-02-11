@@ -51,22 +51,22 @@ public class PlayAsiaSeleniumSearch extends SeleniumSearch {
 
 	@Override
 	protected String getProductListCssQuery() {
-		return "#n_pf_holder > div.p_prev";
+		return "#n_pf_holder > .p_prev";
 	}
 
 	@Override
 	protected String getProductNameCssQuery() {
-		return "span.p_prev_n";
+		return ".p_prev_n";
 	}
 
 	@Override
 	protected String getProductPriceCssQuery() {
-		return "span.price_val";
+		return ".price_val";
 	}
 
 	@Override
 	protected String getProductPagePriceCssQuery() {
-		return "#price_pi > span.price_val";
+		return "#price_pi > .price_val";
 	}
 
 	@Override

@@ -2,7 +2,6 @@ Arms switch {https://www.pricecharting.com/game/nintendo-switch/arms}
 Assassin Creed III Remastered {https://www.pricecharting.com/pt/game/nintendo-switch/assassin%27s-creed-iii-remastered}
 Assassin Creed The Ezio Collection switch {https://www.pricecharting.com/game/nintendo-switch/assassin%27s-creed-the-ezio-collection}
 Assassin Creed The Rebel Collection {https://www.pricecharting.com/pt/game/nintendo-switch/assassin%27s-creed-the-rebel-collection}
-Atelier Ryza 2 switch {https://www.pricecharting.com/game/nintendo-switch/atelier-ryza-2-lost-legends-&-the-secret-fairy}
 Atelier Sophie 2 {https://www.pricecharting.com/game/nintendo-switch/atelier-sophie-2-the-alchemist-of-the-mysterious-dream}
 Azure Striker Gunvolt Striker Pack {https://www.pricecharting.com/game/nintendo-switch/azure-striker-gunvolt-striker-pack}
 AZURE STRIKER GUNVOLT 3 {https://www.pricecharting.com/game/nintendo-switch/azure-striker-gunvolt-3}
@@ -27,7 +26,6 @@ Dragon Ball Z Kakarot {https://www.pricecharting.com/game/nintendo-switch/dragon
 Dragon Quest Collection {https://www.pricecharting.com/game/nintendo-switch/dragon-quest-1-2-3-collection}
 Dying Light: Platinum Edition {https://www.pricecharting.com/game/nintendo-switch/dying-light-platinum-edition}
 Fallen Legion Revenants {https://www.pricecharting.com/game/nintendo-switch/fallen-legion-revenants}
-Fire Emblem Engage {https://www.pricecharting.com/game/nintendo-switch/fire-emblem-engage}
 Ghostrunner {https://www.pricecharting.com/game/nintendo-switch/ghostrunner}
 Grand Theft Auto: The Trilogy switch {https://www.pricecharting.com/pt/game/nintendo-switch/grand-theft-auto-the-trilogy-definitive-edition}
 Great ACE ATTORNEY CHRONICLES {https://www.pricecharting.com/game/nintendo-switch/the-great-ace-attorney-chronicles}
@@ -47,14 +45,12 @@ NEO: The World Ends With You {https://www.pricecharting.com/game/nintendo-switch
 Neptunia X Senran Kagura Ninja Wars {https://www.pricecharting.com/game/nintendo-switch/neptunia-x-senran-kagura-ninja-wars}
 Ni No Kuni II {https://www.pricecharting.com/game/nintendo-switch/ni-no-kuni-ii-revenant-kingdom}
 Pikmin 3 DELUXE {https://www.pricecharting.com/game/nintendo-switch/pikmin-3-deluxe}
-Pokemon Mystery Dungeon: Rescue Team DX {https://www.pricecharting.com/pt/game/nintendo-switch/pokemon-mystery-dungeon-rescue-team-dx}
 Pokken TOURNAMENT DX {https://www.pricecharting.com/pt/game/nintendo-switch/pokken-tournament-dx}
 Potion permit {https://www.pricecharting.com/pt/game/nintendo-switch/potion-permit}
 Resident Evil Triple Pack {https://www.pricecharting.com/game/nintendo-switch/resident-evil-triple-pack}
 Risk Of Rain 2 {https://www.pricecharting.com/game/nintendo-switch/risk-of-rain-2}
-Rune Factory 5 {https://www.pricecharting.com/game/nintendo-switch/rune-factory-5}
 SaGa Frontier Remastered {https://www.pricecharting.com/pt/game/nintendo-switch/saga-frontier-remastered}
-Saints ROW elected switch {https://www.pricecharting.com/game/nintendo-switch/saints-row-iv-re-elected}
+Saints ROW 4 switch {https://www.pricecharting.com/game/nintendo-switch/saints-row-iv-re-elected}
 Samurai Warriors 5 {https://www.pricecharting.com/game/nintendo-switch/samurai-warriors-5}
 Saviors Of Sapphire Wings Stranger Of Sword City Revisited {https://www.pricecharting.com/game/nintendo-switch/saviors-of-sapphire-wings-&-stranger-of-sword-city-revisited}
 Slay The Spire {https://www.pricecharting.com/pt/game/nintendo-switch/slay-the-spire}
