@@ -49,6 +49,7 @@ public class PriceChartingStringNormalizer {
         regionMap.put("Disgaea 4 Complete+:Switch", "PAL");
         regionMap.put("Dragon Quest Builders:Switch", "PAL");
         regionMap.put("Fire Emblem:Three Houses:Switch", "PAL");
+        regionMap.put("Heaven Dust Collection:Switch", "PAL");
         regionMap.put("Kirby and the Forgotten Land:Switch", "PAL");
         regionMap.put("Maglam Lord", "PAL");
         regionMap.put("Metroid Dread:Switch", "PAL");
@@ -57,6 +58,7 @@ public class PriceChartingStringNormalizer {
 //        regionMap.put("Rune Factory 4 Special:Switch", "PAL");
         regionMap.put("Short Hike:Switch", "PAL");
         regionMap.put("Skul:The Hero Slayer:Switch", "PAL");
+        regionMap.put("Souldiers:Switch", "PAL");
         regionMap.put("Stardew Valley:Switch", "PAL");
         regionMap.put("Sword Art Online FATAL BULLET Complete Edition:Switch", "PAL");
         regionMap.put("The Touryst:Switch", "PAL");
