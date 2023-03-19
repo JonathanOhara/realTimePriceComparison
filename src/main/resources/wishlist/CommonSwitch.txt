@@ -1,3 +1,4 @@
+Alliance Alive switch {https://www.pricecharting.com/pt/game/nintendo-switch/alliance-alive-hd-remastered}
 Arms switch {https://www.pricecharting.com/game/nintendo-switch/arms}
 Assassin Creed III Remastered {https://www.pricecharting.com/pt/game/nintendo-switch/assassin%27s-creed-iii-remastered}
 Assassin Creed The Ezio Collection switch {https://www.pricecharting.com/game/nintendo-switch/assassin%27s-creed-the-ezio-collection}
@@ -17,13 +18,12 @@ Darksiders Genesis switch {https://www.pricecharting.com/game/nintendo-switch/da
 Darksiders 3 switch {https://www.pricecharting.com/game/nintendo-switch/darksiders-iii}
 Darksiders WARMASTERED switch {https://www.pricecharting.com/game/nintendo-switch/darksiders-warmastered-edition}
 Demon Gaze Extra {https://www.pricecharting.com/pt/game/nintendo-switch/demon-gaze-extra-day-one-edition}
-Digimon World Next order {}
+Digimon World Next order {https://www.pricecharting.com/pt/game/nintendo-switch/digimon-world-next-order}
 Disgaea 6 switch {https://www.pricecharting.com/game/nintendo-switch/disgaea-6-defiance-of-destiny-unrelenting-edition}
 Donkey KONG TROPICAL FREEZE {https://www.pricecharting.com/pt/game/nintendo-switch/donkey-kong-country-tropical-freeze}
 Dragon BALL FIGHTER Z switch {https://www.pricecharting.com/game/nintendo-switch/dragon-ball-fighterz}
 Dragon Ball Xenoverse 2 {https://www.pricecharting.com/game/nintendo-switch/dragon-ball-xenoverse-2}
 Dragon Ball Z Kakarot {https://www.pricecharting.com/game/nintendo-switch/dragon-ball-z-kakarot-+-a-new-power-awakens-set}
-Dragon Quest Collection {https://www.pricecharting.com/game/nintendo-switch/dragon-quest-1-2-3-collection}
 Dying Light: Platinum Edition {https://www.pricecharting.com/game/nintendo-switch/dying-light-platinum-edition}
 Fallen Legion Revenants {https://www.pricecharting.com/game/nintendo-switch/fallen-legion-revenants}
 Ghostrunner {https://www.pricecharting.com/game/nintendo-switch/ghostrunner}
@@ -34,7 +34,6 @@ Hotline miami collection {https://www.pricecharting.com/game/nintendo-switch/hot
 Hyrule WARRIORS: CALAMITY {https://www.pricecharting.com/pt/game/nintendo-switch/hyrule-warriors-age-of-calamity}
 Luigi MANSION 3 switch {https://www.pricecharting.com/pt/game/nintendo-switch/luigi%27s-mansion-3}
 Mario kart 8 deluxe {https://www.pricecharting.com/game/nintendo-switch/mario-kart-8-deluxe}
-MARIO PARTY SUPERSTARS {https://www.pricecharting.com/game/nintendo-switch/mario-party-superstars}
 Marvel ULTIMATE ALLIANCE 3 {https://www.pricecharting.com/game/nintendo-switch/marvel-ultimate-alliance-3-the-black-order}
 Mega Man Zero Legacy Collection {https://www.pricecharting.com/game/nintendo-switch/mega-man-zerozx-legacy-collection}
 Metro Redux switch {https://www.pricecharting.com/game/nintendo-switch/metro-redux}
@@ -67,7 +66,6 @@ The Cruel King And The Great Hero {https://www.pricecharting.com/game/nintendo-s
 Tony Hawk Pro Skater 1 2 switch {https://www.pricecharting.com/game/nintendo-switch/tony-hawk%27s-pro-skater-1+2}
 Trials OF MANA switch {https://www.pricecharting.com/pt/game/nintendo-switch/trials-of-mana}
 World Ends With You: Final  Remix {https://www.pricecharting.com/game/nintendo-switch/world-ends-with-you-final-remix}
-YOUNG SOULS - SWITCH {https://www.pricecharting.com/pt/game/pal-nintendo-switch/young-souls}
 Yoshi Crafted World {https://www.pricecharting.com/game/nintendo-switch/yoshi%27s-crafted-world}
 Yu Legacy of the duelist link evolution {https://www.pricecharting.com/pt/game/nintendo-switch/yu-gi-oh-legacy-of-the-duelist-link-evolution}
 Zombie Army 4 switch {https://www.pricecharting.com/game/nintendo-switch/zombie-army-4-dead-war}

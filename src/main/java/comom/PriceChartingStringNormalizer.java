@@ -49,6 +49,7 @@ public class PriceChartingStringNormalizer {
         regionMap.put("Disgaea 4 Complete+:Switch", "PAL");
         regionMap.put("Dragon Quest Builders:Switch", "PAL");
         regionMap.put("Fire Emblem:Three Houses:Switch", "PAL");
+        regionMap.put("Fire Emblem Engage:Switch", "PAL");
         regionMap.put("Heaven Dust Collection:Switch", "PAL");
         regionMap.put("Kirby and the Forgotten Land:Switch", "PAL");
         regionMap.put("Maglam Lord", "PAL");
