@@ -60,6 +60,7 @@ public class PriceChartingStringNormalizer {
         regionMap.put("Short Hike:Switch", "PAL");
         regionMap.put("Skul:The Hero Slayer:Switch", "PAL");
         regionMap.put("Souldiers:Switch", "PAL");
+        regionMap.put("Source of Madness:Switch", "PAL");
         regionMap.put("Stardew Valley:Switch", "PAL");
         regionMap.put("Sword Art Online FATAL BULLET Complete Edition:Switch", "PAL");
         regionMap.put("The Touryst:Switch", "PAL");
