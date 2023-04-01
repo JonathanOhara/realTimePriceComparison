@@ -31,13 +31,13 @@ public class CasasBahiaSeleniumSearch extends JsoupSearch {
 
 	@Override
 	protected String getProductPriceManually(PageElement productContainer){
-		String url = "https://npreco.api-casasbahia.com.br/Produtos/PrecoVenda/?idsproduto=<SKU>&utm_source=Google&utm_medium=BuscaOrganica&utm_campaign=DescontoEspecial";
+		String url = "https://api.casasbahia.com.br/merchandising/oferta/v1/Preco/Produto/PrecoVenda?idsProduto=<SKU>&composicao=DescontoFormaPagamento&apiKey=d081fef8c2c44645bb082712ed32a047&utm_campaign=197989&utm_medium=afiliados&utm_source=zanox&utm_term=S938345C1H3AGR1Q4UY8H";
 
 		JsoupPageElement element = (JsoupPageElement) productContainer;
 
-		String dataCy = element.getAttribute("data-cy");
+		String href = element.getByCssSelector("a").get(0).getAttribute("href");
 
-		String sku = dataCy.substring(7);
+		String sku = href.substring(href.indexOf("Sku=") + 4);
 
 		String jsonResponse = readUrlNew(url.replace("<SKU>", sku), null);
 
@@ -64,17 +64,17 @@ public class CasasBahiaSeleniumSearch extends JsoupSearch {
 
 	@Override
 	protected String getProductListCssQuery() {
-		return "ul.ipfubY > li";
+		return "div.dPlWZd > div.esRPia";
 	}
 
 	@Override
 	protected String getProductNameCssQuery() {
-		return "h2.kArdRN";
+		return "h3.KTGxe";
 	}
 
 	@Override
 	protected String getProductPriceCssQuery() {
-		return ".ksyENK";
+		return ".hTVULn";
 	}
 
 	@Override

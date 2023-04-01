@@ -14,8 +14,6 @@ public class JsoupPageElement implements PageElement {
         this.webElement = webElement;
     }
 
-
-
     @Override
     public List<PageElement> getByCssSelector(String selector) {
         Elements elements = webElement.select(selector);
