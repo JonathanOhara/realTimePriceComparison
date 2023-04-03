@@ -6,7 +6,7 @@ public interface PageDocument {
 
     void init();
 
-    void connect(String url);
+    boolean connect(String url);
 
     String getCurrentUrl();
 

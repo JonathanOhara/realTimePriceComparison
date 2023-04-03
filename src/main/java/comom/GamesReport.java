@@ -1,7 +1,5 @@
 package comom;
 
-import comom.ErrorsUtil;
-import comom.Util;
 import objects.Game;
 import objects.PriceCharting;
 import objects.Product;
@@ -115,7 +113,7 @@ public class GamesReport {
 			if( higherPrice > 0){
 				style = "background-color: #FFCCCB;";
 
-				if(totalProductPrice <= higherPrice * 1.33f){
+				if(totalProductPrice <= higherPrice * 1.4f){
 					style = "background-color: #FFD580;";
 				}
 

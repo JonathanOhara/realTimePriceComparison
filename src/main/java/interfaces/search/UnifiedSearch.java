@@ -16,6 +16,9 @@ import java.util.List;
 
 public abstract class UnifiedSearch implements Search {
 
+    public boolean isShopEnabled(){
+        return true;
+    }
     public List<Product> search(PageDocument pageDocument, Shop shop, Game game, Filter filter) {
         List<Product> products = null;
 
@@ -26,19 +29,22 @@ public abstract class UnifiedSearch implements Search {
 
             System.out.println("\tURL Final: "+url);
 
-            pageDocument.connect(url);
-            shop.setSearchUrl(url);
+            if( pageDocument.connect(url) ) {
+                shop.setSearchUrl(url);
 
-            System.out.println("\t\tDocumento Lido");
+                System.out.println("\t\tDocumento Lido");
 
-            afterConnectUrl(shop, game.getName());
+                afterConnectUrl(shop, game.getName());
 
-            List<PageElement> els = pageDocument.getByCssSelector(getProductListCssQuery());
+                List<PageElement> els = pageDocument.getByCssSelector(getProductListCssQuery());
 
-            System.out.println("\t\tResultados: "+els.size());
-            System.out.print("\t\tStatus: ");
+                System.out.println("\t\tResultados: " + els.size());
+                System.out.print("\t\tStatus: ");
 
-            products = readEachProduct(pageDocument, shop, game, els, filter);
+                products = readEachProduct(pageDocument, shop, game, els, filter);
+            }else {
+                System.err.println("Cannot connect to: "+url);
+            }
 
         }catch(Exception e){
             e.printStackTrace();
@@ -56,7 +62,7 @@ public abstract class UnifiedSearch implements Search {
     }
 
     protected void afterConnectUrl(Shop shop, String productName) throws InterruptedException {
-        Thread.sleep(2500);
+        Thread.sleep(2000);
     }
 
     private List<Product> readEachProduct(PageDocument pageDocument, Shop shop, Game game, List<PageElement> els, Filter filter) throws IOException {
@@ -76,7 +82,7 @@ public abstract class UnifiedSearch implements Search {
                         titleElement = productContainer.getByCssSelector(getAlternativeProductNameCssQuery());
                     }
                     if(titleElement.size() == 0) {
-                        System.out.print("1!");
+                        System.out.print("Title!");
                         continue;
                     }
                 }
@@ -91,7 +97,7 @@ public abstract class UnifiedSearch implements Search {
                     }
                     readProduct(game, previewName, productContainer, products, priceElements, getIndividualUrl(shop, productContainer));
                 }else{
-                    System.out.print("4!");
+                    System.out.print("Filter!");
                 }
                 afterFindProductName(previewName);
             }
@@ -126,10 +132,10 @@ public abstract class UnifiedSearch implements Search {
                     products.add(product);
                 }
             }else{
-                System.out.print("2!");
+                System.out.print("InvPrice!");
             }
         }else{
-            System.out.print("3!");
+            System.out.print("NoPrice!");
         }
     }
 

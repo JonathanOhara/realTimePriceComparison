@@ -14,10 +14,11 @@ public class Shop {
 	private String searchPattern;
 	private String searchUrl;
 	private Search searcher;
-	
+	private boolean enabled;
+
 	private List<Product> products;
-	
-	
+
+
 	public Shop(String nome, String mainUrl, String searchPattern, Search searcher) {
 		super();
 		this.nome = nome;
@@ -25,7 +26,7 @@ public class Shop {
 		this.searchPattern = searchPattern;
 		this.searcher = searcher;
 	}
-	
+
 	public List<Product> searchProduct(Game game, Filter filter){
 		System.out.println("Loja: "+nome);
 
@@ -40,28 +41,29 @@ public class Shop {
 				@Override
 				public int compare(Product o1, Product o2) {
 					float valor1, valor2;
-					
+
 					valor1 = valor2 = 0;
 					valor1 = o1.getFloatValue();
 					valor2 = o2.getFloatValue();
-					
+
 					if( "Nintendo eShop".equals(valor1) ){
-						
+
 					}
-					
-					
+
+
 					return Float.compare(valor1, valor2);
 				}
 			});
 			*/
-			
+
 		}
 		return products;
 	}
-	
+
 	public String getNome() {
 		return nome;
 	}
+
 	public void setNome(String nome) {
 		this.nome = nome;
 	}
@@ -77,7 +79,6 @@ public class Shop {
 	public void setSearchPattern(String searchPattern) {
 		this.searchPattern = searchPattern;
 	}
-
 	public List<Product> getProducts() {
 		return products;
 	}
@@ -92,5 +93,9 @@ public class Shop {
 
 	public void setSearchUrl(String searchUrl) {
 		this.searchUrl = searchUrl;
+	}
+
+	public boolean isEnabled() {
+		return searcher.isShopEnabled();
 	}
 }

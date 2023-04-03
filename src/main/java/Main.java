@@ -1,6 +1,5 @@
 import comom.*;
 import interfaces.search.Search;
-import interfaces.search.shops.*;
 import objects.Game;
 import objects.PriceCharting;
 import objects.ProductType;
@@ -15,11 +14,9 @@ import java.io.PrintStream;
 import java.net.URISyntaxException;
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;
-import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
-
-import static objects.ProductType.*;
+import java.util.stream.Collectors;
 
 
 public class Main {
@@ -142,8 +139,6 @@ public class Main {
 
 	public static void generateHtmlReport(int index, Game game, List<Shop> shops) throws URISyntaxException, IOException{
 		long time = System.currentTimeMillis();
-
-		System.out.println("Product Name: "+game.getName());
 		
 		GamesReport htmlReport = new GamesReport(game.getName());
 
@@ -158,7 +153,11 @@ public class Main {
 		}
 
 		for(Shop shop: shops){
-			htmlReport.addReport(shop, shop.searchProduct(game, DefaultFilters.containAllWords() ) );
+			if(shop.isEnabled()) {
+				htmlReport.addReport(shop, shop.searchProduct(game, DefaultFilters.containAllWords()));
+			}else{
+				System.out.println("Shop: " + shop.getNome() + " disabled");
+			}
 		}
 
 		htmlReport.addOtherSeekers(game.getName());
@@ -174,66 +173,10 @@ public class Main {
 		System.out.println("Tempo total: "+(System.currentTimeMillis() - time));
 	}
 
-//	private static List<Shop> getAllShopsConfig(ProductType productType) {
-//		List<Shop> shops = new ArrayList<>();
-//
-//		shops.add(buildShop(new VideoGamesPlusSearch(), productType));
-//
-//		return shops;
-//	}
-
 	private static List<Shop> getAllShopsConfig(ProductType productType) {
-		List<Shop> shops = new ArrayList<>();
-
-		shops.add( buildShop( new AmericanasSearch(), productType ) );
-		shops.add( buildShop( new SubmarinoSearch(), productType ) );
-//		shops.add( buildShop( new SoubaratoSearch(), productType ) );
-//		shops.add( buildShop( new ShopTimeSeleniumSearch(), productType ) );
-//		shops.add( buildShop( new CarrefourSeleniumSearch(), productType ) );
-//		shops.add( buildShop( new FastShopSeleniumSearch(), productType ) );
-
-//		shops.add( buildShop( new MagazineLuizaSeleniumSearch(), productType ) );
-//		shops.add( buildShop( new NetShoesSeleniumSearch(), productType ) );
-
-		if(productType.equals(SWITCH) || productType.equals(PSVITA) || productType.equals(N3DS) || productType.equals(DEFAULT)) {
-//			shops.add(buildShop(new CasasBahiaSeleniumSearch(), productType)); //TODO Fix
-//			shops.add(buildShop(new ExtraSeleniumSearch(), productType));
-//			shops.add(buildShop(new PontoFrioSeleniumSearch(), productType));
-
-			shops.add( buildShop( new KabumSeleniumSearch(), productType ) );
-		}
-
-//		shops.add( buildShop( new RiHappySeleniumSearch(), productType ) );
-		shops.add( buildShop( new ShopBSearch(), productType ) );
-		shops.add( buildShop( new AmazonBRSearch(), productType ) );
-
-		shops.add( buildShop( new AtacadoDosJogosSearch(), productType ) );
-		shops.add( buildShop( new CarvalhoGamesSearch(), productType ) );
-		shops.add( buildShop( new BigBoyGamesSearch(), productType ) );
-
-		if(productType.equals(N3DS) || productType.equals(NDS) || productType.equals(SWITCH) || productType.equals(DEFAULT)) {
-
-			shops.add( buildShop( new TrilogyNintendoSearch(), productType) );
-		}
-
-		shops.add( buildShop( new GTAGamesSearch(), productType ) );
-		shops.add( buildShop( new IzzyGamesSearch(), productType ) );
-		shops.add( buildShop( new BlueWavesGamesSearch(), productType ) );
-
-		shops.add( buildShop( new MercadoLivreSeleniumSearch(), productType ) );
-		shops.add( buildShop( new ShopeeSeleniumSearch(), productType ) );
-
-		shops.add( buildShop( new VideoGamesPlusSearch(), productType ) );
-//		shops.add( buildShop( new Shop4BRSearch(), productType ) );
-		shops.add( buildShop( new PlayAsiaSeleniumSearch(), productType ) );
-		shops.add( buildShop( new EbaySeleniumSearch(), productType ) );
-
-//		shops.add( buildShop( new AmazonUSSearch(), productType ) ); TODO FIX currency conversion
-//		shops.add( buildShop( new FuturisticGamesSeleniumSearch(), productType ) );
-		//easterland
-		//cdrstation
-
-		return shops;
+		return productType.getShops().stream()
+				.map(search -> buildShop(search, productType))
+				.collect(Collectors.toList());
 	}
 
 	private static Shop buildShop(Search search, ProductType productType) {

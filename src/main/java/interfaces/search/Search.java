@@ -10,6 +10,7 @@ import java.util.List;
 
 public interface Search {
 	String getName();
+	boolean isShopEnabled();
 	String getMainUrl();
 	String getSearchPattern(ProductType productType);
 

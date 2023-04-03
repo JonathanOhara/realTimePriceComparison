@@ -11,6 +11,11 @@ import java.net.URISyntaxException;
 public class FuturisticGamesSeleniumSearch extends SeleniumSearch {
 
 	@Override
+	public boolean isShopEnabled() {
+		return false;
+	}
+
+	@Override
 	public String getName() {
 		return "Futuristic Games";
 	}

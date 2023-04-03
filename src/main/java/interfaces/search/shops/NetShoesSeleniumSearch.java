@@ -12,6 +12,11 @@ import java.net.URISyntaxException;
 public class NetShoesSeleniumSearch extends SeleniumSearch {
 
 	@Override
+	public boolean isShopEnabled() {
+		return false;
+	}
+
+	@Override
 	public String getName() {
 		return "Net Shoes";
 	}

@@ -11,6 +11,11 @@ import java.net.URISyntaxException;
 public class AmazonBRSearch extends SeleniumSearch {
 
 	@Override
+	public boolean isShopEnabled() {
+		return true; //TODO REMOVE
+	}
+
+	@Override
 	protected String priceSanatize(String price) {
 		return super.priceSanatize(price.replace("\n", ","));
 	}

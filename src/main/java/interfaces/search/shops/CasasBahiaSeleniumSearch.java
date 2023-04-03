@@ -15,6 +15,11 @@ import static comom.Util.readUrlNew;
 public class CasasBahiaSeleniumSearch extends JsoupSearch {
 
 	@Override
+	public boolean isShopEnabled() {
+		return false;
+	}
+
+	@Override
 	public String getName() {
 		return "Casas Bahia";
 	}

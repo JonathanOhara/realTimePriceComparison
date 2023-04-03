@@ -1,17 +1,10 @@
 import com.opencsv.bean.CsvToBeanBuilder;
-import comom.*;
-import interfaces.search.Search;
-import interfaces.search.shops.*;
-import objects.*;
-import org.openqa.selenium.By;
-import org.openqa.selenium.WebDriver;
+import comom.PriceChartingStringNormalizer;
+import comom.Util;
+import objects.GameyeObject;
 
 import java.io.*;
 import java.net.URISyntaxException;
-import java.text.DateFormat;
-import java.text.SimpleDateFormat;
-import java.util.ArrayList;
-import java.util.Date;
 import java.util.List;
 import java.util.stream.Collectors;
 

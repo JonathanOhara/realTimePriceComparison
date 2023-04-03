@@ -13,6 +13,11 @@ import java.net.URISyntaxException;
 public class ExtraSeleniumSearch extends SeleniumSearch {
 
 	@Override
+	public boolean isShopEnabled() {
+		return false;
+	}
+
+	@Override
 	public String getName() {
 		return "Extra";
 	}

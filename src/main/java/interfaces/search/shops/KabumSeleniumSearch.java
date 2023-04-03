@@ -11,6 +11,11 @@ import java.net.URISyntaxException;
 public class KabumSeleniumSearch extends SeleniumSearch {
 
 	@Override
+	public boolean isShopEnabled() {
+		return false;
+	}
+
+	@Override
 	public String getName() {
 		return "Kabum";
 	}

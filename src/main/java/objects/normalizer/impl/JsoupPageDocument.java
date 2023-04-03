@@ -18,12 +18,14 @@ public class JsoupPageDocument implements PageDocument {
     }
 
     @Override
-    public void connect(String url) {
+    public boolean connect(String url) {
         try {
             document = Util.readUrlDocument(url);
         } catch (IOException e) {
             e.printStackTrace();
+            return false;
         }
+        return true;
     }
 
     @Override
