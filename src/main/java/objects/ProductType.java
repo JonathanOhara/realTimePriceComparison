@@ -109,7 +109,6 @@ public enum ProductType {
 
         searches.add(new RiHappySeleniumSearch());
 
-        searches.add(new CarvalhoGamesSearch());
         searches.add(new BigBoyGamesSearch());
 
         searches.add(new MercadoLivreSeleniumSearch());

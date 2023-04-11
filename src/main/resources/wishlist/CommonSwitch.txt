@@ -7,6 +7,7 @@ Atelier Ryza 3 switch {https://www.pricecharting.com/pt/game/nintendo-switch/ate
 Atelier Sophie 2 {https://www.pricecharting.com/game/nintendo-switch/atelier-sophie-2-the-alchemist-of-the-mysterious-dream}
 Azure Striker Gunvolt Striker Pack {https://www.pricecharting.com/game/nintendo-switch/azure-striker-gunvolt-striker-pack}
 AZURE STRIKER GUNVOLT 3 {https://www.pricecharting.com/game/nintendo-switch/azure-striker-gunvolt-3}
+Bayonetta Origins {https://www.pricecharting.com/pt/game/nintendo-switch/bayonetta-origins-cereza-and-the-lost-demon}
 Bioshock The Collection switch {https://www.pricecharting.com/game/nintendo-switch/bioshock-the-collection}
 Blue Reflection switch {https://www.pricecharting.com/pt/game/nintendo-switch/blue-reflection-second-light}
 Borderlands Legendary Collection {https://www.pricecharting.com/game/nintendo-switch/borderlands-legendary-collection}
@@ -20,6 +21,7 @@ Darksiders Genesis switch {https://www.pricecharting.com/game/nintendo-switch/da
 Darksiders 3 switch {https://www.pricecharting.com/game/nintendo-switch/darksiders-iii}
 Darksiders WARMASTERED switch {https://www.pricecharting.com/game/nintendo-switch/darksiders-warmastered-edition}
 Demon Gaze Extra {https://www.pricecharting.com/pt/game/nintendo-switch/demon-gaze-extra-day-one-edition}
+Demon Gaze 2 {https://www.pricecharting.com/pt/game/playstation-vita/demon-gaze-ii}
 Digimon World Next order {https://www.pricecharting.com/pt/game/nintendo-switch/digimon-world-next-order}
 Disgaea 6 switch {https://www.pricecharting.com/game/nintendo-switch/disgaea-6-defiance-of-destiny-unrelenting-edition}
 Donkey KONG TROPICAL FREEZE {https://www.pricecharting.com/pt/game/nintendo-switch/donkey-kong-country-tropical-freeze}
@@ -27,15 +29,16 @@ Dragon BALL FIGHTER Z switch {https://www.pricecharting.com/game/nintendo-switch
 Dragon Ball Xenoverse 2 {https://www.pricecharting.com/game/nintendo-switch/dragon-ball-xenoverse-2}
 Dragon Ball Z Kakarot {https://www.pricecharting.com/game/nintendo-switch/dragon-ball-z-kakarot-+-a-new-power-awakens-set}
 Fallen Legion Revenants {https://www.pricecharting.com/game/nintendo-switch/fallen-legion-revenants}
+Fatal Frame: Mask Of The Lunar Eclipse switch {https://www.pricecharting.com/pt/game/nintendo-switch/fatal-frame-mask-of-the-lunar-eclipse}
 Ghostrunner {https://www.pricecharting.com/game/nintendo-switch/ghostrunner}
 Grand Theft Auto: The Trilogy switch {https://www.pricecharting.com/pt/game/nintendo-switch/grand-theft-auto-the-trilogy-definitive-edition}
 Great ACE ATTORNEY CHRONICLES {https://www.pricecharting.com/game/nintendo-switch/the-great-ace-attorney-chronicles}
+GrimGrimoire OnceMore {https://www.pricecharting.com/pt/game/nintendo-switch/grimgrimoire-oncemore-deluxe-edition}
 Harvestella {https://www.pricecharting.com/pt/game/nintendo-switch/harvestella}
 Hotline miami collection {https://www.pricecharting.com/game/nintendo-switch/hotline-miami-collection}
 Hyrule WARRIORS: CALAMITY {https://www.pricecharting.com/pt/game/nintendo-switch/hyrule-warriors-age-of-calamity}
 Kirby Return To Dream Land Deluxe {https://www.pricecharting.com/pt/game/nintendo-switch/kirby%e2%80%99s-return-to-dream-land-deluxe}
 Labyrinth Of Galleria switch {https://www.pricecharting.com/pt/game/nintendo-switch/labyrinth-of-galleria-the-moon-society}
-Luigi MANSION 3 switch {https://www.pricecharting.com/pt/game/nintendo-switch/luigi%27s-mansion-3}
 Mario kart 8 deluxe {https://www.pricecharting.com/game/nintendo-switch/mario-kart-8-deluxe}
 Marvel ULTIMATE ALLIANCE 3 {https://www.pricecharting.com/game/nintendo-switch/marvel-ultimate-alliance-3-the-black-order}
 Mega Man Zero Legacy Collection {https://www.pricecharting.com/game/nintendo-switch/mega-man-zerozx-legacy-collection}
