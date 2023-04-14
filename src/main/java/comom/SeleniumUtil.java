@@ -18,6 +18,7 @@ public class SeleniumUtil {
 
     private static WebDriver driver = null;
     private static long count = 0;
+    private static boolean usingChromeProfile = false;
 
     private static void init() {
         System.setProperty("webdriver.gecko.driver","C:/Users/Jonathan/Documents/geckodriver.exe");
@@ -44,6 +45,8 @@ public class SeleniumUtil {
 //        String userAgent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0";
 //        firefoxOptions.addPreference("general.useragent.override", userAgent);
 //        firefoxOptions.addArguments(String.format("user-agent=%s", userAgent));
+
+        firefoxOptions.setBinary("C:/Program Files/Mozilla Firefox/firefox.exe");
 
         FirefoxProfile profile = new FirefoxProfile(new File("C:/Users/Jonathan/AppData/Roaming/Mozilla/Firefox/Profiles/1s7tupo0.default-release"));
         firefoxOptions.setProfile(profile);
@@ -86,6 +89,6 @@ public class SeleniumUtil {
     }
 
     public static boolean isUsingChromeProfile(){
-        return true;
+        return usingChromeProfile;
     }
 }

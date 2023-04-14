@@ -6,6 +6,7 @@ import objects.ProductType;
 import objects.Shop;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
 
 import java.io.File;
 import java.io.FileOutputStream;
@@ -23,7 +24,7 @@ public class Main {
 	private static String gameListAddress = "";
 	private static String logAddress = "";
 	private static TotalsReport totalsReport;
-	
+
 	public static void main(String[] args) throws IOException, URISyntaxException, InterruptedException {
 		gameListAddress = Util.getProjectPath() + "/src/main/resources/search.txt";
 		File gameList = readFile();
@@ -59,7 +60,7 @@ public class Main {
 		}
 */
 
-		/*
+        /*
 		String gameName = "GameName";
 		configurarSaida(gameName);
 		generateHtmlReport(gameName, shops);
@@ -103,17 +104,18 @@ public class Main {
 
 		WebDriver driver = SeleniumUtil.getDriver();
 
-		Thread.sleep(750);
+		Thread.sleep(500);
 
 		driver.get(url);
 
-		if( !SeleniumUtil.isUsingChromeProfile() ) {
-			driver.findElement(By.cssSelector("#dropdown_selected_currency")).click();
+		WebElement currency = driver.findElement(By.cssSelector("#dropdown_selected_currency"));
+		if(!"BRL".equalsIgnoreCase(currency.getText())){
+			currency.click();
 			Thread.sleep(500);
 			driver.findElement(By.cssSelector("a[data-currency='BRL']")).click();
 		}
 
-		Thread.sleep(750);
+		Thread.sleep(500);
 
 		String completePrice = driver.findElement(By.cssSelector("#complete_price > span.price.js-price")).getText();
 		String newPrice = driver.findElement(By.cssSelector("#new_price > span.price.js-price")).getText();
@@ -130,7 +132,7 @@ public class Main {
 	private static PrintStream configurarSaida(String productName) throws IOException {
 		logAddress = Util.getReportsPath() + "/" + Util.sanitizeFilename( productName ) + ".log";
 		PrintStream fileStream = new MyPrintStream(new FileOutputStream(logAddress, true ), System.out);
-		
+
 		System.setOut(fileStream);
 		System.setErr(fileStream);
 
@@ -139,7 +141,7 @@ public class Main {
 
 	public static void generateHtmlReport(int index, Game game, List<Shop> shops) throws URISyntaxException, IOException{
 		long time = System.currentTimeMillis();
-		
+
 		GamesReport htmlReport = new GamesReport(game.getName());
 
 		String data = new SimpleDateFormat("dd/MM/yyyy").format(new Date());
@@ -161,15 +163,15 @@ public class Main {
 		}
 
 		htmlReport.addOtherSeekers(game.getName());
-		
+
 		htmlReport.addMetaData(game.getName(), (System.currentTimeMillis() - time), data, hora);
-		
+
 		htmlReport.addLogTab( game.getName() );
-		
+
 		htmlReport.closeAndWriteFile( index, Util.sanitizeFilename(game.getName()) );
-		
+
 		totalsReport.generateContent(shops, game.getName());
-		
+
 		System.out.println("Tempo total: "+(System.currentTimeMillis() - time));
 	}
 
