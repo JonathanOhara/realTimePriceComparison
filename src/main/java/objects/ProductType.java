@@ -217,7 +217,6 @@ public enum ProductType {
         searches.add(new PontoFrioSeleniumSearch());
 
         searches.add(new RiHappySeleniumSearch());
-        searches.add(new ShopBSearch());
 
         searches.add(new MercadoLivreSeleniumSearch());
         searches.add(new ShopeeSeleniumSearch());

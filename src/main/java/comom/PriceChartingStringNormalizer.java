@@ -45,6 +45,7 @@ public class PriceChartingStringNormalizer {
         regionMap = new HashMap<>();
         regionMap.put("A Short Hike:Switch", "PAL");
         regionMap.put("Arietta of Spirits:Switch", "PAL");
+        regionMap.put("Blue Reflection: Second Light:Switch", "PAL");
         regionMap.put("Brigandine: The Legend of Runersia:Switch", "PAL");
         regionMap.put("Cadence of Hyrule: Crypt of the NecroDancer featuring The Legend of Zelda:Switch", "PAL");
         regionMap.put("CrossCode:Switch", "PAL");

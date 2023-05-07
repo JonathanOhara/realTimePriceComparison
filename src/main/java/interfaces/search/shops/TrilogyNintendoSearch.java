@@ -22,7 +22,7 @@ public class TrilogyNintendoSearch extends JsoupSearch {
 
 	@Override
 	public String getSearchPattern(ProductType productType) {
-		return "https://nintendo.trilogygames.com.br/index.php?search=<BUSCA>&route=product%2Fsearch";
+		return "https://nintendo.trilogygames.com.br/index.php?route=product/search&search=<BUSCA>&limit=100";
 	}
 
 	@Override
