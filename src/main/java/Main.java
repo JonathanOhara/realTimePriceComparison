@@ -19,6 +19,8 @@ import java.util.Date;
 import java.util.List;
 import java.util.stream.Collectors;
 
+import static org.apache.commons.lang3.StringUtils.isEmpty;
+
 
 public class Main {
 	private static String gameListAddress = "";
@@ -89,7 +91,7 @@ public class Main {
 			String json = gameName.substring(gameName.indexOf("{") + 1, gameName.lastIndexOf("}"));
 			gameName = gameName.substring(0, gameName.indexOf("{")).trim();
 
-			if(parseJson) {
+			if(parseJson && !isEmpty(json)) {
 				game.setPriceCharting(extractPriceCharting(json));
 			}
 		}
