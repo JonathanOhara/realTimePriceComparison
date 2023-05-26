@@ -106,7 +106,7 @@ public class Main {
 
 		WebDriver driver = SeleniumUtil.getDriver();
 
-		Thread.sleep(500);
+		Thread.sleep(750);
 
 		driver.get(url);
 

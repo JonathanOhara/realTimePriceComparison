@@ -18,7 +18,7 @@ public class SeleniumUtil {
 
     private static WebDriver driver = null;
     private static long count = 0;
-    private static boolean usingChromeProfile = false;
+    private static boolean usingChromeProfile = true;
 
     private static void init() {
         System.setProperty("webdriver.gecko.driver","C:/Users/Jonathan/Documents/geckodriver.exe");
@@ -30,8 +30,8 @@ public class SeleniumUtil {
         if(driver == null){
             init();
 
-            getFirefoxDriver();
-//            getChromeDriver();
+//            getFirefoxDriver();
+            getChromeDriver();
 
             driver.manage().timeouts().pageLoadTimeout(60, TimeUnit.SECONDS);
         }
