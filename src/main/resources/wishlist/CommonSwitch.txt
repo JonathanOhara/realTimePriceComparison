@@ -11,7 +11,6 @@ AZURE STRIKER GUNVOLT 3 {https://www.pricecharting.com/game/nintendo-switch/azur
 Bioshock The Collection switch {https://www.pricecharting.com/game/nintendo-switch/bioshock-the-collection}
 Borderlands Legendary Collection {https://www.pricecharting.com/game/nintendo-switch/borderlands-legendary-collection}
 Code: Realize Guardian Of Rebirth {https://www.pricecharting.com/pt/game/nintendo-switch/code-realize-guardian-of-rebirth}
-Crisis Core switch {https://www.pricecharting.com/pt/game/nintendo-switch/crisis-core-final-fantasy-vii-reunion}
 Cruis n BLAST {https://www.pricecharting.com/game/nintendo-switch/cruis%27n-blast}
 Cuphead {https://www.pricecharting.com/pt/game/nintendo-switch/cuphead}
 Crystar {https://www.pricecharting.com/game/nintendo-switch/crystar}
@@ -31,16 +30,17 @@ Fatal Frame: Mask Of The Lunar Eclipse switch {https://www.pricecharting.com/pt/
 GetsuFumaDen {https://www.pricecharting.com/pt/game/nintendo-switch/getsufumaden-undying-moon}
 Ghostrunner {https://www.pricecharting.com/game/nintendo-switch/ghostrunner}
 Great ACE ATTORNEY CHRONICLES {https://www.pricecharting.com/game/nintendo-switch/the-great-ace-attorney-chronicles}
-GrimGrimoire OnceMore {https://www.pricecharting.com/pt/game/nintendo-switch/grimgrimoire-oncemore-deluxe-edition}
+GrimGrimoire Once More {https://www.pricecharting.com/pt/game/nintendo-switch/grimgrimoire-oncemore-deluxe-edition}
 Hotline miami collection {https://www.pricecharting.com/game/nintendo-switch/hotline-miami-collection}
 Kirby Return To Dream Land Deluxe {https://www.pricecharting.com/pt/game/nintendo-switch/kirby%e2%80%99s-return-to-dream-land-deluxe}
 Labyrinth Of Galleria switch {https://www.pricecharting.com/pt/game/nintendo-switch/labyrinth-of-galleria-the-moon-society}
 Little Witch Nobeta {https://www.pricecharting.com/pt/game/nintendo-switch/little-witch-nobeta}
 Mario kart 8 deluxe {https://www.pricecharting.com/game/nintendo-switch/mario-kart-8-deluxe}
+Mario Rabbids Sparks of Hope {https://www.pricecharting.com/pt/game/nintendo-switch/mario-+-rabbids-sparks-of-hope}
 Mega Man Zero Legacy Collection {https://www.pricecharting.com/game/nintendo-switch/mega-man-zerozx-legacy-collection}
 Metro Redux switch {https://www.pricecharting.com/game/nintendo-switch/metro-redux}
 Minecraft DUNGEONS ultimate switch {https://www.pricecharting.com/game/nintendo-switch/minecraft-dungeons-ultimate-edition}
-Minecraft Legends switch {https://www.pricecharting.com/game/nintendo-switch/minecraft-legends-deluxe-edition?q=minecraft+legends+switch}
+Minecraft Legends {https://www.pricecharting.com/game/nintendo-switch/minecraft-legends-deluxe-edition?q=minecraft+legends+switch}
 Nelke THE LEGENDARY ALCHEMISTS {https://www.pricecharting.com/game/nintendo-switch/nelke-&-the-legendary-alchemists-ateliers-of-the-new-world}
 Neptunia X Senran Kagura Ninja Wars {https://www.pricecharting.com/game/nintendo-switch/neptunia-x-senran-kagura-ninja-wars}
 No Man s Sky {https://www.pricecharting.com/pt/game/nintendo-switch/no-man%27s-sky}
@@ -62,6 +62,8 @@ Streets OF RAGE 4 {https://www.pricecharting.com/game/nintendo-switch/streets-of
 Super Robot Wars T {https://www.pricecharting.com/pt/game/jp-nintendo-switch/super-robot-wars-t}
 Super Smash Bros Ultimate {https://www.pricecharting.com/game/nintendo-switch/super-smash-bros-ultimate}
 Survivalists {https://www.pricecharting.com/game/nintendo-switch/the-survivalists}
+Sword Art Online: Alicization Lycoris {https://www.pricecharting.com/pt/game/pal-nintendo-switch/sword-art-online-alicization-lycoris}
+Sword Art Online: Hollow Realization {https://www.pricecharting.com/pt/game/pal-nintendo-switch/sword-art-online-hollow-realization-deluxe-edition}
 Teenage Mutant Ninja Turtles SHREDDER switch {https://www.pricecharting.com/pt/game/nintendo-switch/teenage-mutant-ninja-turtles-shredder%27s-revenge}
 Theatrhythm final bar line {https://www.pricecharting.com/pt/game/nintendo-switch/theatrhythm-final-bar-line}
 Tony Hawk Pro Skater 1 2 switch {https://www.pricecharting.com/game/nintendo-switch/tony-hawk%27s-pro-skater-1+2}

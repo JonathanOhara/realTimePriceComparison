@@ -53,6 +53,7 @@ public class PriceChartingStringNormalizer {
         regionMap.put("Daemon X Machina:Switch", "PAL");
         regionMap.put("Deadly Premonition 2: A Blessing in Disguise:Switch", "PAL");
         regionMap.put("Dragon Quest Builders:Switch", "PAL");
+        regionMap.put("Harvestella:Switch", "PAL");
         regionMap.put("Heaven Dust Collection:Switch", "PAL");
         regionMap.put("Langrisser I & II:Switch", "PAL");
         regionMap.put("Maglam Lord", "PAL");
