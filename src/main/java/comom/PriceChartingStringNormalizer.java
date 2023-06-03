@@ -48,6 +48,7 @@ public class PriceChartingStringNormalizer {
         regionMap.put("Blue Reflection: Second Light:Switch", "PAL");
         regionMap.put("Brigandine: The Legend of Runersia:Switch", "PAL");
         regionMap.put("Cadence of Hyrule: Crypt of the NecroDancer featuring The Legend of Zelda:Switch", "PAL");
+        regionMap.put("Crisis Core: Final Fantasy VII Reunion", "PAL");
         regionMap.put("CrossCode:Switch", "PAL");
         regionMap.put("Crysis Remastered:Switch", "PAL");
         regionMap.put("Daemon X Machina:Switch", "PAL");

@@ -1,5 +1,3 @@
-Advance Wars 1+2 {https://www.pricecharting.com/game/nintendo-switch/advance-wars-1+2-re-boot-camp}
-Alliance Alive switch {https://www.pricecharting.com/pt/game/nintendo-switch/alliance-alive-hd-remastered}
 Arms switch {https://www.pricecharting.com/game/nintendo-switch/arms}
 Assassin Creed III Remastered {https://www.pricecharting.com/pt/game/nintendo-switch/assassin%27s-creed-iii-remastered}
 Assassin Creed The Ezio Collection switch {https://www.pricecharting.com/game/nintendo-switch/assassin%27s-creed-the-ezio-collection}
@@ -13,11 +11,9 @@ Borderlands Legendary Collection {https://www.pricecharting.com/game/nintendo-sw
 Code: Realize Guardian Of Rebirth {https://www.pricecharting.com/pt/game/nintendo-switch/code-realize-guardian-of-rebirth}
 Cruis n BLAST {https://www.pricecharting.com/game/nintendo-switch/cruis%27n-blast}
 Cuphead {https://www.pricecharting.com/pt/game/nintendo-switch/cuphead}
-Crystar {https://www.pricecharting.com/game/nintendo-switch/crystar}
 Darksiders Genesis switch {https://www.pricecharting.com/game/nintendo-switch/darksiders-genesis}
 Darksiders 3 switch {https://www.pricecharting.com/game/nintendo-switch/darksiders-iii}
 Darksiders WARMASTERED switch {https://www.pricecharting.com/game/nintendo-switch/darksiders-warmastered-edition}
-Demon Gaze Extra {https://www.pricecharting.com/pt/game/nintendo-switch/demon-gaze-extra-day-one-edition}
 Digimon World Next order {https://www.pricecharting.com/pt/game/nintendo-switch/digimon-world-next-order}
 Disgaea 6 switch {https://www.pricecharting.com/game/nintendo-switch/disgaea-6-defiance-of-destiny-unrelenting-edition}
 Donkey KONG TROPICAL FREEZE {https://www.pricecharting.com/pt/game/nintendo-switch/donkey-kong-country-tropical-freeze}
@@ -27,18 +23,14 @@ Dragon Ball Xenoverse 2 switch {https://www.pricecharting.com/game/nintendo-swit
 Dragon Quest Treasures {https://www.pricecharting.com/pt/game/nintendo-switch/dragon-quest-treasures}
 Fallen Legion Revenants {https://www.pricecharting.com/game/nintendo-switch/fallen-legion-revenants}
 Fatal Frame: Mask Of The Lunar Eclipse switch {https://www.pricecharting.com/pt/game/nintendo-switch/fatal-frame-mask-of-the-lunar-eclipse}
-GetsuFumaDen {https://www.pricecharting.com/pt/game/nintendo-switch/getsufumaden-undying-moon}
 Ghostrunner {https://www.pricecharting.com/game/nintendo-switch/ghostrunner}
 Great ACE ATTORNEY CHRONICLES {https://www.pricecharting.com/game/nintendo-switch/the-great-ace-attorney-chronicles}
 GrimGrimoire Once More {https://www.pricecharting.com/pt/game/nintendo-switch/grimgrimoire-oncemore-deluxe-edition}
 Hotline miami collection {https://www.pricecharting.com/game/nintendo-switch/hotline-miami-collection}
 Kirby Return To Dream Land Deluxe {https://www.pricecharting.com/pt/game/nintendo-switch/kirby%e2%80%99s-return-to-dream-land-deluxe}
-Labyrinth Of Galleria switch {https://www.pricecharting.com/pt/game/nintendo-switch/labyrinth-of-galleria-the-moon-society}
-Little Witch Nobeta {https://www.pricecharting.com/pt/game/nintendo-switch/little-witch-nobeta}
 Mario kart 8 deluxe {https://www.pricecharting.com/game/nintendo-switch/mario-kart-8-deluxe}
 Mario Rabbids Sparks of Hope {https://www.pricecharting.com/pt/game/nintendo-switch/mario-+-rabbids-sparks-of-hope}
 Mega Man Zero Legacy Collection {https://www.pricecharting.com/game/nintendo-switch/mega-man-zerozx-legacy-collection}
-Metro Redux switch {https://www.pricecharting.com/game/nintendo-switch/metro-redux}
 Minecraft DUNGEONS ultimate switch {https://www.pricecharting.com/game/nintendo-switch/minecraft-dungeons-ultimate-edition}
 Minecraft Legends {https://www.pricecharting.com/game/nintendo-switch/minecraft-legends-deluxe-edition?q=minecraft+legends+switch}
 Nelke THE LEGENDARY ALCHEMISTS {https://www.pricecharting.com/game/nintendo-switch/nelke-&-the-legendary-alchemists-ateliers-of-the-new-world}
@@ -67,7 +59,6 @@ Sword Art Online: Hollow Realization {https://www.pricecharting.com/pt/game/pal-
 Teenage Mutant Ninja Turtles SHREDDER switch {https://www.pricecharting.com/pt/game/nintendo-switch/teenage-mutant-ninja-turtles-shredder%27s-revenge}
 Theatrhythm final bar line {https://www.pricecharting.com/pt/game/nintendo-switch/theatrhythm-final-bar-line}
 Tony Hawk Pro Skater 1 2 switch {https://www.pricecharting.com/game/nintendo-switch/tony-hawk%27s-pro-skater-1+2}
-Trails to azure switch {https://www.pricecharting.com/pt/game/nintendo-switch/the-legend-of-heroes-trails-to-azure-deluxe-edition}
 Trials OF MANA switch {https://www.pricecharting.com/pt/game/nintendo-switch/trials-of-mana}
 World Ends With You: Final  Remix {https://www.pricecharting.com/game/nintendo-switch/world-ends-with-you-final-remix}
 Yoshi Crafted World {https://www.pricecharting.com/game/nintendo-switch/yoshi%27s-crafted-world}
