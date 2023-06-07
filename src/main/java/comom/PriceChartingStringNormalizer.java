@@ -1,14 +1,19 @@
 package comom;
 
-import java.util.HashMap;
-import java.util.Map;
-import java.util.Optional;
+import com.google.common.collect.Sets;
+import org.apache.commons.collections.CollectionUtils;
+
+import java.util.*;
 
 public class PriceChartingStringNormalizer {
 
     private static Map<String, String> titleMap;
     private static Map<String, String> regionMap;
     private static Map<String, String> platformMap;
+
+    private static Set<String> titleMapChecker = new HashSet<>();
+    private static Set<String> regionMapChecker = new HashSet<>();
+
 
     private PriceChartingStringNormalizer(){}
 
@@ -25,7 +30,6 @@ public class PriceChartingStringNormalizer {
         titleMap.put("Bayonetta 2:Switch", "Bayonetta 2 + Bayonetta");
         titleMap.put("Legend of Mana:Switch", "Legend Of Mana Remastered");
         titleMap.put("Little Town Hero:Switch", "Little Town Hero [Big Idea Edition]");
-        titleMap.put("Shantae Half-Genie Hero Ultimate Edition [Day One]:Switch", "Shantae Half-Genie Hero Ultimate Edition");
         titleMap.put("Shin Megami Tensei lll: Nocturne HD Remaster:Switch", "Shin Megami Tensei III: Nocturne HD Remaster");
         titleMap.put("Sword Art Online FATAL BULLET Complete Edition:Switch", "Sword Art Online: Fatal Bullet");
         titleMap.put("Wargroove:Switch", "Wargroove Deluxe Edition");
@@ -41,6 +45,10 @@ public class PriceChartingStringNormalizer {
         titleMap.put("Super Robot Wars MX Portable:PSP", "Super Robot Taisen MX Portable (PSP the Best)");
     }
 
+    //J-Stars Victory Vs+ Playstation Vita CIB
+    //J-Stars Victory VS+ PAL PLaystation vita
+
+
     private static void createRegionMap() {
         regionMap = new HashMap<>();
         regionMap.put("A Short Hike:Switch", "PAL");
@@ -48,20 +56,19 @@ public class PriceChartingStringNormalizer {
         regionMap.put("Blue Reflection: Second Light:Switch", "PAL");
         regionMap.put("Brigandine: The Legend of Runersia:Switch", "PAL");
         regionMap.put("Cadence of Hyrule: Crypt of the NecroDancer featuring The Legend of Zelda:Switch", "PAL");
-        regionMap.put("Crisis Core: Final Fantasy VII Reunion", "PAL");
+        regionMap.put("Crisis Core: Final Fantasy VII Reunion:Switch", "PAL");
         regionMap.put("CrossCode:Switch", "PAL");
         regionMap.put("Crysis Remastered:Switch", "PAL");
+        regionMap.put("CRYSTAR:Switch", "PAL");
         regionMap.put("Daemon X Machina:Switch", "PAL");
         regionMap.put("Deadly Premonition 2: A Blessing in Disguise:Switch", "PAL");
         regionMap.put("Dragon Quest Builders:Switch", "PAL");
+        regionMap.put("Dungeon Defenders: Awakened:Switch", "PAL");
         regionMap.put("Harvestella:Switch", "PAL");
         regionMap.put("Heaven Dust Collection:Switch", "PAL");
         regionMap.put("Langrisser I & II:Switch", "PAL");
-        regionMap.put("Maglam Lord", "PAL");
-//        regionMap.put("Monster Harvest:Switch", "PAL");
-//        regionMap.put("Rune Factory 4 Special:Switch", "PAL");
-        regionMap.put("Short Hike:Switch", "PAL");
-        regionMap.put("Skul:The Hero Slayer:Switch", "PAL");
+        regionMap.put("Maglam Lord:Switch", "PAL");
+        regionMap.put("Skul: The Hero Slayer:Switch", "PAL");
         regionMap.put("Souldiers:Switch", "PAL");
         regionMap.put("Source of Madness:Switch", "PAL");
         regionMap.put("Stardew Valley:Switch", "PAL");
@@ -69,14 +76,16 @@ public class PriceChartingStringNormalizer {
         regionMap.put("The Touryst:Switch", "PAL");
         regionMap.put("Titan Quest:Switch", "PAL");
         regionMap.put("Travis Strikes Again: No More Heroes:Switch", "PAL");
+        regionMap.put("Ultra Kaiju Monster Rancher:Switch", "Asian English");
         regionMap.put("Unrailed! (SRG#49):Switch", "PAL");
         regionMap.put("Wargroove:Switch", "PAL");
         regionMap.put("Ys Origin:Switch", "PAL");
         regionMap.put("Ys VIII: Lacrimosa of DANA:Switch", "PAL");
-        regionMap.put("Ys IX: Monstrum Nox - Pact Edition:Switch", "PAL");
+        regionMap.put("Ys IX Monstrum Nox - Pact Edition:Switch", "PAL");
         regionMap.put("Valkyria Chronicles 4:Switch", "PAL");
 
         regionMap.put("Digimon World: Next Order:PS Vita", "JP");
+        regionMap.put("J-Stars Victory Vs+:PS Vita", "PAL");
         regionMap.put("The Legend of Heroes: Trails of Cold Steel:PS Vita", "PAL");
         regionMap.put("Natural Doctrine:PS Vita", "PAL");
 
@@ -108,12 +117,32 @@ public class PriceChartingStringNormalizer {
         priceChartingProduct.append(getPriceChartingPlatform(platform)).append(" ");
         priceChartingProduct.append(state);
 
-
         return priceChartingProduct.toString();
     }
 
+    public static void debugPrint() {
+
+        Set<String> diff = new HashSet<>(CollectionUtils.removeAll(titleMap.keySet(), titleMapChecker));
+
+        if(diff.size() > 0){
+            System.err.println("TitleMap diff");
+            System.err.println(diff);
+        }
+
+        diff = new HashSet<>(CollectionUtils.removeAll(regionMap.keySet(), regionMapChecker));
+
+        if(diff.size() > 0){
+            System.err.println("regionMap diff");
+            System.err.println(diff);
+        }
+    }
+
     private static String getPriceChartingTitle(String title, String platform) {
-        return titleMap.getOrDefault(title + ":" + platform, title);
+        String key = title + ":" + platform;
+        if(titleMap.containsKey(key)){
+            titleMapChecker.add(key);
+        }
+        return titleMap.getOrDefault(key, title);
     }
 
     private static String getPriceChartingPlatform(String platform) {
@@ -121,7 +150,11 @@ public class PriceChartingStringNormalizer {
     }
 
     private static Optional<String> getRegionByTitle(String title, String platform) {
-        return Optional.ofNullable(regionMap.get(title + ":" + platform));
+        String key = title + ":" + platform;
+        if(regionMap.containsKey(key)){
+            regionMapChecker.add(key);
+        }
+        return Optional.ofNullable(regionMap.get(key));
     }
 
 }
