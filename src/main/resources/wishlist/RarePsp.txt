@@ -24,6 +24,7 @@ Patapon 3 psp{https://www.pricecharting.com/game/psp/patapon-3}
 Persona 2 psp {https://www.pricecharting.com/game/psp/shin-megami-tensei-persona-2-innocent-sin}
 Persona 3 psp {https://www.pricecharting.com/game/psp/shin-megami-tensei-persona-3-portable}
 Persona psp {https://www.pricecharting.com/game/psp/shin-megami-tensei-persona}
+Ragnarok: Tactics {https://www.pricecharting.com/game/psp/ragnarok-tactics?q=ragnarok+tactics}
 Silent hill: origin {https://www.pricecharting.com/game/psp/silent-hill-origins}
 Silent hill: shattered memories psp {https://www.pricecharting.com/game/psp/silent-hill-shattered-memories}
 Summon night 5 {https://www.pricecharting.com/game/psp/summon-night-5-limited-edition}
@@ -32,7 +33,10 @@ The 3rd Birthday {https://www.pricecharting.com/game/psp/the-3rd-birthday}
 Trails In The Sky {https://www.pricecharting.com/game/psp/legend-of-heroes-trails-in-the-sky}
 Warriors of the lost empire psp {https://www.pricecharting.com/game/psp/warriors-of-the-lost-empire}
 What Did I Do To Deserve This My Lord 2 {https://www.pricecharting.com/game/psp/what-did-i-do-to-deserve-this-my-lord-2#}
+Wild Arms XF {https://www.pricecharting.com/game/psp/wild-arms-xf}
 White Knight Chronicles: Origins {https://www.pricecharting.com/pt/game/pal-psp/white-knight-chronicles-origins}
 X men legends rise of apocalypse psp {https://www.pricecharting.com/game/pc-games/x-men-legends-ii-rise-of-apocalypse}
+Ys I II Chronicles {https://www.pricecharting.com/game/psp/ys-i-&-ii-chronicles}
 Ys seven psp {https://www.pricecharting.com/game/psp/ys-seven}
+Ys The Ark Of Napishtim {https://www.pricecharting.com/game/psp/ys-the-ark-of-napishtim}
 Ys the oath in felghana {https://www.pricecharting.com/game/psp/ys-the-oath-in-felghana}
