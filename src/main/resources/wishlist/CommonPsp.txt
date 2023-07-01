@@ -1,4 +1,3 @@
-Breath Of Fire 3 psp {https://www.pricecharting.com/pt/game/psp/breath-of-fire-3}
 Castlevania: the dracula x chronicles psp {https://www.pricecharting.com/game/psp/castlevania-dracula-x-chronicles}
 Dante Inferno psp {https://www.pricecharting.com/pt/game/pal-psp/dante%27s-inferno}
 Daxter psp {https://www.pricecharting.com/game/psp/daxter}
@@ -11,6 +10,8 @@ LocoRoco {https://www.pricecharting.com/game/psp/locoroco}
 Medal of honor heroes psp {https://www.pricecharting.com/game/psp/medal-of-honor-heroes}
 Medievil resurrection psp {https://www.pricecharting.com/game/psp/medievil-resurrection}
 Maverick hunter {https://www.pricecharting.com/game/psp/mega-man-maverick-hunter-x}
+Metal Gear Acid {https://www.pricecharting.com/game/psp/metal-gear-acid}
+Metal Gear Acid 2 {https://www.pricecharting.com/game/psp/metal-gear-acid-2}
 Metal gear solid portable ops {https://www.pricecharting.com/game/psp/metal-gear-solid-portable-ops-plus}1
 Patapon psp {https://www.pricecharting.com/game/psp/patapon}
 Patapon 2 psp {https://www.pricecharting.com/game/psp/patapon-2}

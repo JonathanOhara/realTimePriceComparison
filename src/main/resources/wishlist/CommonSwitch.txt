@@ -1,10 +1,9 @@
-AI: The Somnium Files {AI: The Somnium Files: Nirvana Initiative}
+AI: The Somnium Files switch {https://www.pricecharting.com/game/nintendo-switch/ai-the-somnium-files-nirvana-initiative}
 Arms switch {https://www.pricecharting.com/game/nintendo-switch/arms}
 Assassin Creed III Remastered {https://www.pricecharting.com/pt/game/nintendo-switch/assassin%27s-creed-iii-remastered}
 Assassin Creed The Ezio Collection switch {https://www.pricecharting.com/game/nintendo-switch/assassin%27s-creed-the-ezio-collection}
 Assassin Creed The Rebel Collection {https://www.pricecharting.com/pt/game/nintendo-switch/assassin%27s-creed-the-rebel-collection}
 Atelier Ryza 3 switch {https://www.pricecharting.com/pt/game/nintendo-switch/atelier-ryza-3-alchemist-of-the-end-&-the-secret-key}
-Atelier Sophie 2 {https://www.pricecharting.com/game/nintendo-switch/atelier-sophie-2-the-alchemist-of-the-mysterious-dream}
 Azure Striker Gunvolt Striker Pack {https://www.pricecharting.com/game/nintendo-switch/azure-striker-gunvolt-striker-pack}
 AZURE STRIKER GUNVOLT 3 {https://www.pricecharting.com/game/nintendo-switch/azure-striker-gunvolt-3}
 Bioshock The Collection switch {https://www.pricecharting.com/game/nintendo-switch/bioshock-the-collection}
@@ -22,9 +21,8 @@ Dragon BALL FIGHTER Z switch {https://www.pricecharting.com/game/nintendo-switch
 Dragon Ball Kakarot switch {https://www.pricecharting.com/game/nintendo-switch/dragon-ball-z-kakarot-+-a-new-power-awakens-set}
 Dragon Ball Xenoverse 2 switch {https://www.pricecharting.com/game/nintendo-switch/dragon-ball-xenoverse-2}
 Fallen Legion Revenants {https://www.pricecharting.com/game/nintendo-switch/fallen-legion-revenants}
-Fatal Frame: Mask Of The Lunar Eclipse switch {https://www.pricecharting.com/pt/game/nintendo-switch/fatal-frame-mask-of-the-lunar-eclipse}
 F.I.S.T.: Forged In Shadow Torch {https://www.pricecharting.com/pt/game/nintendo-switch/fist-forged-in-shadow-torch}
-GAL GUARDIANS
+GAL GUARDIANS {https://www.pricecharting.com/pt/game/nintendo-switch/gal-guardians-demon-purge}
 Ghostrunner {https://www.pricecharting.com/game/nintendo-switch/ghostrunner}
 Great ACE ATTORNEY CHRONICLES {https://www.pricecharting.com/game/nintendo-switch/the-great-ace-attorney-chronicles}
 Hotline miami collection {https://www.pricecharting.com/game/nintendo-switch/hotline-miami-collection}

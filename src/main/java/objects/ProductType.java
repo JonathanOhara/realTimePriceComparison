@@ -147,6 +147,7 @@ public enum ProductType {
         searches.add(new ShopBSearch());
 
         searches.add(new CarvalhoGamesSearch());
+        searches.add(new GamerHutSearch());
         searches.add(new BigBoyGamesSearch());
 
         searches.add(new GTAGamesSearch());
