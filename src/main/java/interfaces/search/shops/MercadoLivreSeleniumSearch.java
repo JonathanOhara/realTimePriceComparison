@@ -48,8 +48,13 @@ public class MercadoLivreSeleniumSearch extends SeleniumSearch {
 
 	@Override
 	protected String priceSanatize(String price) {
-
 		price = price.replaceAll("[\\r\\n]+", "");
+
+		int indexOfRS = price.indexOf("R$");
+
+		if(indexOfRS > -1) {
+			price = price.substring(indexOfRS);
+		}
 
 		return super.priceSanatize(price);
 	}
@@ -66,7 +71,7 @@ public class MercadoLivreSeleniumSearch extends SeleniumSearch {
 
 	@Override
 	protected String getProductPriceCssQuery() {
-		return "span.price-tag.ui-search-price__part > span.price-tag-amount";
+		return "span.andes-money-amount.ui-search-price__part.shops__price-part.andes-money-amount--cents-superscript";
 	}
 
 	@Override
