@@ -88,6 +88,7 @@ public class PriceChartingStringNormalizer {
         regionMap.put("J-Stars Victory Vs+:PS Vita", "PAL");
         regionMap.put("The Legend of Heroes: Trails of Cold Steel:PS Vita", "PAL");
         regionMap.put("Natural Doctrine:PS Vita", "PAL");
+        regionMap.put("Tales of Hearts R:PS Vita", "PAL");
 
         regionMap.put("Digimon Adventure:PSP", "JP");
         regionMap.put("Digimon World Re:Digitize:PSP", "JP");
