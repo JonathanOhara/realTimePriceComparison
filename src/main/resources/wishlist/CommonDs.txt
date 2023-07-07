@@ -32,6 +32,7 @@ Spectrobes Beyond The Portals {https://www.pricecharting.com/game/nintendo-ds/sp
 Star Fox Command ds {https://www.pricecharting.com/game/nintendo-ds/star-fox-command}
 Tomb Raider Underworld ds {https://www.pricecharting.com/game/nintendo-ds/tomb-raider-underworld}
 Transformers Animated ds {https://www.pricecharting.com/game/nintendo-ds/transformers-animated}
+Transformers Autobots ds {https://www.pricecharting.com/pt/game/nintendo-ds/transformers-revenge-of-the-fallen-autobots}
 Transformers Decepticons ds {https://www.pricecharting.com/game/nintendo-ds/transformers-decepticons}
 Yoshi Island DS {https://www.pricecharting.com/game/nintendo-ds/yoshi%27s-island-ds}
 Yoshi Touch And Go {https://www.pricecharting.com/game/nintendo-ds/yoshi-touch-and-go}
