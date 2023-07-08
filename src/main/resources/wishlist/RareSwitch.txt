@@ -1,6 +1,5 @@
 Alliance Alive switch {https://www.pricecharting.com/pt/game/nintendo-switch/alliance-alive-hd-remastered}
 Atelier Marie Remake switch {}
-Atelier Mysterious Trilogy Deluxe {https://www.pricecharting.com/game/nintendo-switch/atelier-mysterious-trilogy-deluxe-pack}
 Battle Chasers Nightwar {https://www.pricecharting.com/game/nintendo-switch/battle-chasers-nightwar}
 Binding OF ISAAC: REPENTANCE {https://www.pricecharting.com/pt/game/nintendo-switch/the-binding-of-isaac-repentance}
 Bloodstained: Curse of the Moon Chronicles {}
@@ -15,7 +14,6 @@ Etrian Odyssey Origins Collection {}
 Forager switch {https://www.pricecharting.com/game/nintendo-switch/forager}
 GetsuFumaDen {https://www.pricecharting.com/pt/game/nintendo-switch/getsufumaden-undying-moon}
 Guacamelee: One Two Punch Collection {https://www.pricecharting.com/game/nintendo-switch/guacamelee-one-two-punch-collection}
-Hack Last Recode {https://www.pricecharting.com/game/nintendo-switch/hack-gu-last-recode}
 House in Fata Morgana {https://www.pricecharting.com/game/nintendo-switch/the-house-in-fata-morgana}
 Hyper Light Drifter {https://www.pricecharting.com/game/nintendo-switch/hyper-light-drifter-special-edition}
 Iconoclasts {https://www.pricecharting.com/game/nintendo-switch/iconoclasts}
@@ -32,7 +30,6 @@ Mugen Souls {https://www.pricecharting.com/pt/game/nintendo-switch/mugen-souls}
 Northgard {https://www.pricecharting.com/game/nintendo-switch/northgard}
 Rogue Legacy {https://www.pricecharting.com/pt/game/nintendo-switch/rogue-legacy}
 Scott Pilgrim Vs The World The Game Complete Edition {https://www.pricecharting.com/game/nintendo-switch/scott-pilgrim-vs-the-world-the-game-complete-edition}
-SD Shin Kamen Rider Rumble {}
 Slay The Spire {https://www.pricecharting.com/pt/game/nintendo-switch/slay-the-spire}
 Space For The Unbound {https://www.pricecharting.com/pt/game/asian-english-switch/a-space-for-the-unbound}
 Spiritfarer {https://www.pricecharting.com/game/nintendo-switch/spiritfarer}
