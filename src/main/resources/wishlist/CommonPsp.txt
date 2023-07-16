@@ -2,7 +2,6 @@ Castlevania: the dracula x chronicles psp {https://www.pricecharting.com/game/ps
 Dante Inferno psp {https://www.pricecharting.com/pt/game/pal-psp/dante%27s-inferno}
 Daxter psp {https://www.pricecharting.com/game/psp/daxter}
 Chinatown wars psp {https://www.pricecharting.com/game/psp/grand-theft-auto-chinatown-wars}
-Dragoneer Aria {https://www.pricecharting.com/pt/game/psp/dragoneer%27s-aria}
 LocoRoco {https://www.pricecharting.com/game/psp/locoroco}
 Medal of honor heroes psp {https://www.pricecharting.com/game/psp/medal-of-honor-heroes}
 Medievil resurrection psp {https://www.pricecharting.com/game/psp/medievil-resurrection}
@@ -15,6 +14,6 @@ Patapon 2 psp {https://www.pricecharting.com/game/psp/patapon-2}
 Phantasy star portable 2 {https://www.pricecharting.com/game/psp/phantasy-star-portable-2}
 Phantom Brave: The Hermuda Triangle {https://www.pricecharting.com/game/psp/phantom-brave-the-hermuda-triangle}
 Prince of persia rival swords {https://www.pricecharting.com/game/psp/prince-of-persia-rival-swords}
-Untold Legends {https://www.pricecharting.com/game/psp/untold-legends-brotherhood-of-the-blade}
+Untold Legends psp {https://www.pricecharting.com/game/psp/untold-legends-brotherhood-of-the-blade}
 Valhalla Knights {https://www.pricecharting.com/game/psp/valhalla-knights}
 Valhalla Knights 2 {https://www.pricecharting.com/game/psp/valhalla-knights-2}

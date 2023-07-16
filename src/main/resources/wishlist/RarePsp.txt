@@ -27,7 +27,7 @@ Ragnarok: Tactics {https://www.pricecharting.com/game/psp/ragnarok-tactics?q=rag
 Silent hill: origin {https://www.pricecharting.com/game/psp/silent-hill-origins}
 Silent hill: shattered memories psp {https://www.pricecharting.com/game/psp/silent-hill-shattered-memories}
 Summon night 5 {https://www.pricecharting.com/game/psp/summon-night-5-limited-edition}
-Tales Of Eternia {https://www.pricecharting.com/game/pal-psp/tales-of-eternia}
+Tales Of Eternia psp {https://www.pricecharting.com/game/pal-psp/tales-of-eternia}
 The 3rd Birthday {https://www.pricecharting.com/game/psp/the-3rd-birthday}
 Trails In The Sky {https://www.pricecharting.com/game/psp/legend-of-heroes-trails-in-the-sky}
 Warriors of the lost empire psp {https://www.pricecharting.com/game/psp/warriors-of-the-lost-empire}
