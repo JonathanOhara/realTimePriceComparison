@@ -1,16 +1,23 @@
 Advance WARS: DAYS OF RUIN ds {https://www.pricecharting.com/game/nintendo-ds/advance-wars-days-of-ruin}
 Age Of Empires ds {https://www.pricecharting.com/game/nintendo-ds/age-of-empires-mythologies}
+Blood Stone 007 {https://www.pricecharting.com/pt/game/nintendo-ds/007-blood-stone}
 Bomberman Land ds {https://www.pricecharting.com/game/nintendo-ds/bomberman-land-touch}
 Children Of Mana {https://www.pricecharting.com/game/nintendo-ds/children-of-mana}
 Chrono trigger ds {https://www.pricecharting.com/game/nintendo-ds/chrono-trigger}
 Contra 4 ds {https://www.pricecharting.com/game/nintendo-ds/contra-4}
+Dawn Of Heroes {https://www.pricecharting.com/game/nintendo-ds/dawn-of-heroes?q=dawn+of+heroes}
 Drawn To Life ds {https://www.pricecharting.com/game/nintendo-ds/drawn-to-life}
 Final Fantasy III ds {https://www.pricecharting.com/game/nintendo-ds/final-fantasy-iii}
 Final fantasy crystal chronicles: echoes of time {https://www.pricecharting.com/game/nintendo-ds/final-fantasy-crystal-chronicles-echoes-of-time}
 Final fantasy tactics a2 {https://www.pricecharting.com/game/nintendo-ds/final-fantasy-crystal-chronicles-echoes-of-time}
 Chinatown wars ds {https://www.pricecharting.com/game/nintendo-ds/grand-theft-auto-chinatown-wars}
+Guitar Hero On Tour {https://www.pricecharting.com/pt/game/pal-nintendo-ds/guitar-hero-on-tour}
+Guitar Hero On Tour Decades {https://www.pricecharting.com/pt/game/nintendo-ds/guitar-hero-on-tour-decades}
+Guitar Hero On Tour Modern Hits {https://www.pricecharting.com/pt/game/nintendo-ds/guitar-hero-on-tour-modern-hits}
 Harvest moon ds {https://www.pricecharting.com/game/nintendo-ds/harvest-moon-ds}
 Harvest moon: frantic farming {https://www.pricecharting.com/game/nintendo-ds/harvest-moon-frantic-farming}
+Jump Super Stars {https://www.pricecharting.com/game/nintendo-ds/jump-super-stars}
+LEGO Rock Band ds {https://www.pricecharting.com/game/nintendo-ds/lego-rock-band}
 Lock Quest ds {https://www.pricecharting.com/game/nintendo-ds/lock%27s-quest}
 Lunar Dragon Song ds {https://www.pricecharting.com/game/nintendo-ds/lunar-dragon-song}
 Magical Starsign {https://www.pricecharting.com/game/nintendo-ds/magical-starsign}
@@ -18,6 +25,7 @@ Mario Hoops {https://www.pricecharting.com/game/nintendo-ds/mario-hoops-3-on-3}
 Mario Vs Donkey Kong {https://www.pricecharting.com/game/nintendo-ds/mario-vs-donkey-kong-mini-land-mayhem}
 Mario Vs Donkey Kong 2 {https://www.pricecharting.com/game/nintendo-ds/mario-vs-donkey-kong-2-march-of-minis}
 Mario luigi: partners in time {https://www.pricecharting.com/game/nintendo-ds/mario-and-luigi-partners-in-time}
+Marvel Ultimate Alliance 2 {https://www.pricecharting.com/game/nintendo-ds/marvel-ultimate-alliance-2}
 Monster lab ds {https://www.pricecharting.com/game/nintendo-ds/monster-lab}
 New super mario bros {https://www.pricecharting.com/game/nintendo-ds/new-super-mario-bros}
 Ninja gaiden: dragon sword ds {https://www.pricecharting.com/game/nintendo-ds/ninja-gaiden-dragon-sword}
@@ -29,7 +37,7 @@ Professor Layton Unwound {https://www.pricecharting.com/game/nintendo-ds/profess
 Resident Evil Deadly Silence {https://www.pricecharting.com/pt/game/nintendo-ds/resident-evil-deadly-silence}
 Shin Megami Tensei: Devil Survivor 2 {https://www.pricecharting.com/game/nintendo-ds/shin-megami-tensei-devil-survivor-2}
 Spectrobes Beyond The Portals {https://www.pricecharting.com/game/nintendo-ds/spectrobes-beyond-the-portals}
-Star Fox Command ds {https://www.pricecharting.com/game/nintendo-ds/star-fox-command}
+Star Fox Command {https://www.pricecharting.com/game/nintendo-ds/star-fox-command}
 Tomb Raider Underworld ds {https://www.pricecharting.com/game/nintendo-ds/tomb-raider-underworld}
 Transformers Animated {https://www.pricecharting.com/game/nintendo-ds/transformers-animated}
 Transformers: Revenge Of The Fallen Autobots {https://www.pricecharting.com/pt/game/nintendo-ds/transformers-revenge-of-the-fallen-autobots}
