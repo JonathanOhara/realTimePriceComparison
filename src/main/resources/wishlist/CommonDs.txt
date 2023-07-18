@@ -8,7 +8,6 @@ Castlevania: portrait of ruin {https://www.pricecharting.com/game/nintendo-ds/ca
 Children Of Mana {https://www.pricecharting.com/game/nintendo-ds/children-of-mana}
 Chrono trigger ds {https://www.pricecharting.com/game/nintendo-ds/chrono-trigger}
 Contra 4 ds {https://www.pricecharting.com/game/nintendo-ds/contra-4}
-Dawn Of Heroes {https://www.pricecharting.com/game/nintendo-ds/dawn-of-heroes?q=dawn+of+heroes}
 Dragon quest ix {https://www.pricecharting.com/game/nintendo-ds/dragon-quest-ix-sentinels-of-the-starry-skies}
 Dragon quest monsters joker {https://www.pricecharting.com/game/nintendo-ds/dragon-quest-monsters-joker}
 Drawn To Life ds {https://www.pricecharting.com/game/nintendo-ds/drawn-to-life}
@@ -16,8 +15,6 @@ Final Fantasy III ds {https://www.pricecharting.com/game/nintendo-ds/final-fanta
 Final fantasy crystal chronicles: echoes of time {https://www.pricecharting.com/game/nintendo-ds/final-fantasy-crystal-chronicles-echoes-of-time}
 Final fantasy tactics a2 {https://www.pricecharting.com/game/nintendo-ds/final-fantasy-crystal-chronicles-echoes-of-time}
 Chinatown wars ds {https://www.pricecharting.com/game/nintendo-ds/grand-theft-auto-chinatown-wars}
-Guitar Hero On Tour {https://www.pricecharting.com/pt/game/pal-nintendo-ds/guitar-hero-on-tour}
-Guitar Hero On Tour Decades {https://www.pricecharting.com/pt/game/nintendo-ds/guitar-hero-on-tour-decades}
 Guitar Hero On Tour Modern Hits {https://www.pricecharting.com/pt/game/nintendo-ds/guitar-hero-on-tour-modern-hits}
 Harvest moon ds {https://www.pricecharting.com/game/nintendo-ds/harvest-moon-ds}
 Harvest moon: frantic farming {https://www.pricecharting.com/game/nintendo-ds/harvest-moon-frantic-farming}
