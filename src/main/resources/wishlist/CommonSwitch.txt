@@ -8,6 +8,8 @@ Azure Striker Gunvolt Striker Pack {https://www.pricecharting.com/game/nintendo-
 AZURE STRIKER GUNVOLT 3 {https://www.pricecharting.com/game/nintendo-switch/azure-striker-gunvolt-3}
 Bioshock The Collection switch {https://www.pricecharting.com/game/nintendo-switch/bioshock-the-collection}
 Borderlands Legendary Collection {https://www.pricecharting.com/game/nintendo-switch/borderlands-legendary-collection}
+CAVE STORY switch {https://www.pricecharting.com/game/nintendo-switch/cave-story+}
+Celeste switch {https://www.pricecharting.com/game/nintendo-switch/celeste}
 Cruis n BLAST {https://www.pricecharting.com/game/nintendo-switch/cruis%27n-blast}
 Cuphead {https://www.pricecharting.com/game/nintendo-switch/cuphead}
 Darksiders Genesis switch {https://www.pricecharting.com/game/nintendo-switch/darksiders-genesis}
@@ -16,6 +18,7 @@ Darksiders WARMASTERED switch {https://www.pricecharting.com/game/nintendo-switc
 Digimon World Next order {https://www.pricecharting.com/game/nintendo-switch/digimon-world-next-order}
 Disgaea 6 switch {https://www.pricecharting.com/game/nintendo-switch/disgaea-6-defiance-of-destiny-unrelenting-edition}
 Donkey KONG TROPICAL FREEZE {https://www.pricecharting.com/game/nintendo-switch/donkey-kong-country-tropical-freeze}
+DOUBLE DRAGON GAIDEN RISE OF THE DRANGONS {}
 Dragon BALL FIGHTER Z switch {https://www.pricecharting.com/game/nintendo-switch/dragon-ball-fighterz}
 Dragon Ball Kakarot switch {https://www.pricecharting.com/game/nintendo-switch/dragon-ball-z-kakarot-+-a-new-power-awakens-set}
 Dragon Ball Xenoverse 2 switch {https://www.pricecharting.com/game/nintendo-switch/dragon-ball-xenoverse-2}
@@ -38,7 +41,7 @@ Nelke THE LEGENDARY ALCHEMISTS {https://www.pricecharting.com/game/nintendo-swit
 Neptunia X Senran Kagura Ninja Wars {https://www.pricecharting.com/game/nintendo-switch/neptunia-x-senran-kagura-ninja-wars}
 No Man Sky {https://www.pricecharting.com/game/nintendo-switch/no-man%27s-sky}
 Octopath Traveler II {https://www.pricecharting.com/game/nintendo-switch/octopath-traveler-ii}
-Okami HD {https://www.pricecharting.com/game/jp-nintendo-switch/okami-hd}
+Okami {https://www.pricecharting.com/game/jp-nintendo-switch/okami-hd}
 Pikmin 3 DELUXE {https://www.pricecharting.com/game/nintendo-switch/pikmin-3-deluxe}
 Pokken TOURNAMENT DX {https://www.pricecharting.com/game/nintendo-switch/pokken-tournament-dx}
 Potion permit {https://www.pricecharting.com/game/nintendo-switch/potion-permit}
@@ -47,7 +50,6 @@ Resident Evil Triple Pack {https://www.pricecharting.com/game/nintendo-switch/re
 SaGa Frontier Remastered {https://www.pricecharting.com/game/nintendo-switch/saga-frontier-remastered}
 Saints ROW 4 switch {https://www.pricecharting.com/game/nintendo-switch/saints-row-iv-re-elected}
 Samurai Warriors 5 {https://www.pricecharting.com/game/nintendo-switch/samurai-warriors-5}
-Saviors Of Sapphire Wings Stranger Of Sword City Revisited {https://www.pricecharting.com/game/nintendo-switch/saviors-of-sapphire-wings-&-stranger-of-sword-city-revisited}
 Sifu {https://www.pricecharting.com/game/nintendo-switch/sifu-vengeance-edition}
 Sonic Mania Plus switch {https://www.pricecharting.com/game/nintendo-switch/sonic-mania-plus}
 Story Of Seasons: A Wonderful Life {https://www.pricecharting.com/game/nintendo-switch/story-of-seasons-a-wonderful-life}

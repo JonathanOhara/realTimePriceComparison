@@ -97,6 +97,8 @@ public class PriceChartingStringNormalizer {
         regionMap.put("Super Robot Wars MX Portable:PSP", "JP");
         regionMap.put("Warhammer 40,000: Squad Command:PSP", "PAL");
 
+        regionMap.put("Guitar Hero: On Tour:NDS", "PAL");
+        regionMap.put("Guitar Hero: On Tour Decades:NDS", "PAL");
         regionMap.put("The Legend of Zelda: Spirit Tracks:NDS", "PAL");
     }
 
