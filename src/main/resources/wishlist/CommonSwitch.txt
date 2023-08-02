@@ -22,10 +22,8 @@ DOUBLE DRAGON GAIDEN RISE OF THE DRANGONS {}
 Dragon BALL FIGHTER Z switch {https://www.pricecharting.com/game/nintendo-switch/dragon-ball-fighterz}
 Dragon Ball Kakarot switch {https://www.pricecharting.com/game/nintendo-switch/dragon-ball-z-kakarot-+-a-new-power-awakens-set}
 Dragon Ball Xenoverse 2 switch {https://www.pricecharting.com/game/nintendo-switch/dragon-ball-xenoverse-2}
-Eiyuden Chronicle: Rising {https://www.pricecharting.com/game/nintendo-switch/eiyuden-chronicle-rising}
 Fallen Legion Revenants {https://www.pricecharting.com/game/nintendo-switch/fallen-legion-revenants}
 Fight N Rage {https://www.pricecharting.com/game/nintendo-switch/fight%27n-rage}
-F.I.S.T.: Forged In Shadow Torch {https://www.pricecharting.com/game/nintendo-switch/fist-forged-in-shadow-torch}
 GAL GUARDIANS {https://www.pricecharting.com/game/nintendo-switch/gal-guardians-demon-purge}
 Ghostrunner {https://www.pricecharting.com/game/nintendo-switch/ghostrunner}
 Great ACE ATTORNEY CHRONICLES {https://www.pricecharting.com/game/nintendo-switch/the-great-ace-attorney-chronicles}
@@ -33,6 +31,7 @@ Hotline miami collection {https://www.pricecharting.com/game/nintendo-switch/hot
 Jack Jeanne {https://www.pricecharting.com/game/nintendo-switch/jack-jeanne}
 Kirby Return To Dream Land Deluxe {https://www.pricecharting.com/game/nintendo-switch/kirby%e2%80%99s-return-to-dream-land-deluxe}
 Legend Of Heroes: Trails Into Reverie {https://www.pricecharting.com/game/nintendo-switch/legend-of-heroes-trails-into-reverie}
+Loop8: Summer Of Gods {https://www.pricecharting.com/game/nintendo-switch/loop8-summer-of-gods}
 Master Detective Archives: RAIN CODE {https://www.pricecharting.com/game/nintendo-switch/master-detective-archives-rain-code}
 Mega Man Zero Legacy Collection {https://www.pricecharting.com/game/nintendo-switch/mega-man-zerozx-legacy-collection}
 Minecraft DUNGEONS ultimate switch {https://www.pricecharting.com/game/nintendo-switch/minecraft-dungeons-ultimate-edition}

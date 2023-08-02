@@ -2,7 +2,7 @@ Aedis Eclipse {https://www.pricecharting.com/game/psp/aedis-eclipse-generation-o
 Astonishia Story {https://www.pricecharting.com/pt/game/psp/astonishia-story}
 Brave story new traveler {https://www.pricecharting.com/game/psp/brave-story-new-traveler?q=brave+story+new+traveler}
 Breath Of Fire 3 psp {https://www.pricecharting.com/game/pal-psp/breath-of-fire-iii}
-Crimson gem saga {https://www.pricecharting.com/game/psp/crimson-gem-saga}
+Dante Inferno psp {https://www.pricecharting.com/pt/game/pal-psp/dante%27s-inferno}
 Dungeon maker: hunting ground {https://www.pricecharting.com/game/psp/dungeon-maker-hunting-ground}
 Fat princess fistful of cake {https://www.pricecharting.com/game/psp/fat-princess-fistful-of-cake}
 Fate Extra {https://www.pricecharting.com/game/psp/fateextra}
@@ -18,6 +18,7 @@ Knights in the nightmare {https://www.pricecharting.com/game/psp/knights-in-the-
 Lord of the rings tactics psp {https://www.pricecharting.com/game/psp/lord-of-the-rings-tactics}
 Lunar silver star harmony {https://www.pricecharting.com/game/psp/lunar-silver-star-harmony}
 Mana Khemia Student Alliance {https://www.pricecharting.com/game/psp/mana-khemia-student-alliance}
+Medievil resurrection psp {https://www.pricecharting.com/game/psp/medievil-resurrection}
 Mega man powered up {https://www.pricecharting.com/game/psp/mega-man-powered-up}
 Patapon 3 psp{https://www.pricecharting.com/game/psp/patapon-3}
 Persona 2 psp {https://www.pricecharting.com/game/psp/shin-megami-tensei-persona-2-innocent-sin}
