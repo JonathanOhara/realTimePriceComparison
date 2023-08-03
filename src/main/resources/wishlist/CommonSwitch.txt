@@ -1,4 +1,3 @@
-AI: The Somnium Files switch {https://www.pricecharting.com/game/nintendo-switch/ai-the-somnium-files-nirvana-initiative}
 Arms switch {https://www.pricecharting.com/game/nintendo-switch/arms}
 Assassin Creed III Remastered {https://www.pricecharting.com/game/nintendo-switch/assassin%27s-creed-iii-remastered}
 Assassin Creed The Ezio Collection switch {https://www.pricecharting.com/game/nintendo-switch/assassin%27s-creed-the-ezio-collection}
@@ -7,18 +6,15 @@ Atelier Ryza 3 switch {https://www.pricecharting.com/game/nintendo-switch/atelie
 Azure Striker Gunvolt Striker Pack {https://www.pricecharting.com/game/nintendo-switch/azure-striker-gunvolt-striker-pack}
 AZURE STRIKER GUNVOLT 3 {https://www.pricecharting.com/game/nintendo-switch/azure-striker-gunvolt-3}
 Bioshock The Collection switch {https://www.pricecharting.com/game/nintendo-switch/bioshock-the-collection}
-Borderlands Legendary Collection {https://www.pricecharting.com/game/nintendo-switch/borderlands-legendary-collection}
 CAVE STORY switch {https://www.pricecharting.com/game/nintendo-switch/cave-story+}
-Celeste switch {https://www.pricecharting.com/game/nintendo-switch/celeste}
 Cruis n BLAST {https://www.pricecharting.com/game/nintendo-switch/cruis%27n-blast}
-Cuphead {https://www.pricecharting.com/game/nintendo-switch/cuphead}
 Darksiders Genesis switch {https://www.pricecharting.com/game/nintendo-switch/darksiders-genesis}
 Darksiders 3 switch {https://www.pricecharting.com/game/nintendo-switch/darksiders-iii}
 Darksiders WARMASTERED switch {https://www.pricecharting.com/game/nintendo-switch/darksiders-warmastered-edition}
 Digimon World Next order {https://www.pricecharting.com/game/nintendo-switch/digimon-world-next-order}
 Disgaea 6 switch {https://www.pricecharting.com/game/nintendo-switch/disgaea-6-defiance-of-destiny-unrelenting-edition}
 Donkey KONG TROPICAL FREEZE {https://www.pricecharting.com/game/nintendo-switch/donkey-kong-country-tropical-freeze}
-DOUBLE DRAGON GAIDEN RISE OF THE DRANGONS {}
+DOUBLE DRAGON GAIDEN {https://www.pricecharting.com/pt/game/nintendo-switch/double-dragon-gaiden-rise-of-the-dragons}
 Dragon BALL FIGHTER Z switch {https://www.pricecharting.com/game/nintendo-switch/dragon-ball-fighterz}
 Dragon Ball Kakarot switch {https://www.pricecharting.com/game/nintendo-switch/dragon-ball-z-kakarot-+-a-new-power-awakens-set}
 Dragon Ball Xenoverse 2 switch {https://www.pricecharting.com/game/nintendo-switch/dragon-ball-xenoverse-2}
@@ -28,7 +24,6 @@ GAL GUARDIANS {https://www.pricecharting.com/game/nintendo-switch/gal-guardians-
 Ghostrunner {https://www.pricecharting.com/game/nintendo-switch/ghostrunner}
 Great ACE ATTORNEY CHRONICLES {https://www.pricecharting.com/game/nintendo-switch/the-great-ace-attorney-chronicles}
 Hotline miami collection {https://www.pricecharting.com/game/nintendo-switch/hotline-miami-collection}
-Jack Jeanne {https://www.pricecharting.com/game/nintendo-switch/jack-jeanne}
 Kirby Return To Dream Land Deluxe {https://www.pricecharting.com/game/nintendo-switch/kirby%e2%80%99s-return-to-dream-land-deluxe}
 Legend Of Heroes: Trails Into Reverie {https://www.pricecharting.com/game/nintendo-switch/legend-of-heroes-trails-into-reverie}
 Loop8: Summer Of Gods {https://www.pricecharting.com/game/nintendo-switch/loop8-summer-of-gods}
@@ -40,7 +35,6 @@ Nelke THE LEGENDARY ALCHEMISTS {https://www.pricecharting.com/game/nintendo-swit
 Neptunia X Senran Kagura Ninja Wars {https://www.pricecharting.com/game/nintendo-switch/neptunia-x-senran-kagura-ninja-wars}
 No Man Sky {https://www.pricecharting.com/game/nintendo-switch/no-man%27s-sky}
 Octopath Traveler II {https://www.pricecharting.com/game/nintendo-switch/octopath-traveler-ii}
-Okami {https://www.pricecharting.com/game/jp-nintendo-switch/okami-hd}
 Pikmin 3 DELUXE {https://www.pricecharting.com/game/nintendo-switch/pikmin-3-deluxe}
 Pokken TOURNAMENT DX {https://www.pricecharting.com/game/nintendo-switch/pokken-tournament-dx}
 Potion permit {https://www.pricecharting.com/game/nintendo-switch/potion-permit}
