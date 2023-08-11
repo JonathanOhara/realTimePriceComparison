@@ -6,15 +6,14 @@ Atelier Ryza 3 switch {https://www.pricecharting.com/game/nintendo-switch/atelie
 Azure Striker Gunvolt Striker Pack {https://www.pricecharting.com/game/nintendo-switch/azure-striker-gunvolt-striker-pack}
 AZURE STRIKER GUNVOLT 3 {https://www.pricecharting.com/game/nintendo-switch/azure-striker-gunvolt-3}
 Bioshock The Collection switch {https://www.pricecharting.com/game/nintendo-switch/bioshock-the-collection}
+Blue fire {https://www.pricecharting.com/pt/game/nintendo-switch/blue-fire}
 CAVE STORY switch {https://www.pricecharting.com/game/nintendo-switch/cave-story+}
 Cruis n BLAST {https://www.pricecharting.com/game/nintendo-switch/cruis%27n-blast}
 Darksiders Genesis switch {https://www.pricecharting.com/game/nintendo-switch/darksiders-genesis}
 Darksiders 3 switch {https://www.pricecharting.com/game/nintendo-switch/darksiders-iii}
-Darksiders WARMASTERED switch {https://www.pricecharting.com/game/nintendo-switch/darksiders-warmastered-edition}
 Digimon World Next order {https://www.pricecharting.com/game/nintendo-switch/digimon-world-next-order}
 Disgaea 6 switch {https://www.pricecharting.com/game/nintendo-switch/disgaea-6-defiance-of-destiny-unrelenting-edition}
 Donkey KONG TROPICAL FREEZE {https://www.pricecharting.com/game/nintendo-switch/donkey-kong-country-tropical-freeze}
-DOUBLE DRAGON GAIDEN {https://www.pricecharting.com/pt/game/nintendo-switch/double-dragon-gaiden-rise-of-the-dragons}
 Dragon BALL FIGHTER Z switch {https://www.pricecharting.com/game/nintendo-switch/dragon-ball-fighterz}
 Dragon Ball Kakarot switch {https://www.pricecharting.com/game/nintendo-switch/dragon-ball-z-kakarot-+-a-new-power-awakens-set}
 Dragon Ball Xenoverse 2 switch {https://www.pricecharting.com/game/nintendo-switch/dragon-ball-xenoverse-2}
@@ -30,10 +29,10 @@ Loop8: Summer Of Gods {https://www.pricecharting.com/game/nintendo-switch/loop8-
 Master Detective Archives: RAIN CODE {https://www.pricecharting.com/game/nintendo-switch/master-detective-archives-rain-code}
 Mega Man Zero Legacy Collection {https://www.pricecharting.com/game/nintendo-switch/mega-man-zerozx-legacy-collection}
 Minecraft DUNGEONS ultimate switch {https://www.pricecharting.com/game/nintendo-switch/minecraft-dungeons-ultimate-edition}
-Minecraft Legends {https://www.pricecharting.com/game/nintendo-switch/minecraft-legends-deluxe-edition?q=minecraft+legends+switch}
 Nelke THE LEGENDARY ALCHEMISTS {https://www.pricecharting.com/game/nintendo-switch/nelke-&-the-legendary-alchemists-ateliers-of-the-new-world}
 Neptunia X Senran Kagura Ninja Wars {https://www.pricecharting.com/game/nintendo-switch/neptunia-x-senran-kagura-ninja-wars}
 No Man Sky {https://www.pricecharting.com/game/nintendo-switch/no-man%27s-sky}
+Northgard {https://www.pricecharting.com/game/nintendo-switch/northgard}
 Octopath Traveler II {https://www.pricecharting.com/game/nintendo-switch/octopath-traveler-ii}
 Pikmin 3 DELUXE {https://www.pricecharting.com/game/nintendo-switch/pikmin-3-deluxe}
 Pokken TOURNAMENT DX {https://www.pricecharting.com/game/nintendo-switch/pokken-tournament-dx}
@@ -44,11 +43,9 @@ SaGa Frontier Remastered {https://www.pricecharting.com/game/nintendo-switch/sag
 Saints ROW 4 switch {https://www.pricecharting.com/game/nintendo-switch/saints-row-iv-re-elected}
 Samurai Warriors 5 {https://www.pricecharting.com/game/nintendo-switch/samurai-warriors-5}
 Sifu {https://www.pricecharting.com/game/nintendo-switch/sifu-vengeance-edition}
-Sonic Mania Plus switch {https://www.pricecharting.com/game/nintendo-switch/sonic-mania-plus}
 Story Of Seasons: A Wonderful Life {https://www.pricecharting.com/game/nintendo-switch/story-of-seasons-a-wonderful-life}
 Story OF SEASONS: FRIENDS OF MINERAL TOWN {https://www.pricecharting.com/game/nintendo-switch/story-of-seasons-friends-of-mineral-town}
 Story OF SEASONS: PIONEERS OF OLIVE TOWN {https://www.pricecharting.com/game/nintendo-switch/story-of-seasons-pioneers-of-olive-town}
-Streets OF RAGE 4 {https://www.pricecharting.com/game/nintendo-switch/streets-of-rage-4}
 Super Robot Wars T {https://www.pricecharting.com/game/jp-nintendo-switch/super-robot-wars-t}
 Super Smash Bros Ultimate {https://www.pricecharting.com/game/nintendo-switch/super-smash-bros-ultimate}
 Survivalists {https://www.pricecharting.com/game/nintendo-switch/the-survivalists}
