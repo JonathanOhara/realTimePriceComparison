@@ -36,13 +36,16 @@ public class PriceChartingStringNormalizer {
         titleMap.put("Unrailed! (SRG#49):Switch", "Unrailed");
 
         titleMap.put("Harvest Moon 3D: The Tale of Two Towns:3DS", "Harvest Moon: The Tale Of Two Towns");
-        titleMap.put("Metal Gear Solid Snake Eater 3D:3DS", "Metal Gear Solid 3D");
+        titleMap.put("Metal Gear Solid Snake Eater 3D:3DS", "Metal Gear Solid 3D: Snake Eater");
 
         titleMap.put("Ninjatown:NDS", "Ninja Town");
 
+        titleMap.put("Monster Hunter Freedom 2 + Monster Hunter Freedom Unite UMD Dual Pack:PSP", "Monster Hunter [Dual Pack]");
         titleMap.put("PixelJunk Monsters Deluxe:PSP", "Pixel Junk Monsters Deluxe");
         titleMap.put("Sid Meier's Pirates!:PSP", "Sid Meiers Pirates Live The Life");
         titleMap.put("Super Robot Wars MX Portable:PSP", "Super Robot Taisen MX Portable (PSP the Best)");
+
+        titleMap.put("Hyperdimension Neptunia Re;Birth1:PS Vita", "Hyperdimension Neptunia Re;Birth 1");
     }
 
     //J-Stars Victory Vs+ Playstation Vita CIB
@@ -53,6 +56,7 @@ public class PriceChartingStringNormalizer {
         regionMap = new HashMap<>();
         regionMap.put("A Short Hike:Switch", "PAL");
         regionMap.put("Arietta of Spirits:Switch", "PAL");
+        regionMap.put("Atelier Sophie 2: The Alchemist of the Mysterious Dream:Switch", "PAL");
         regionMap.put("Blue Reflection: Second Light:Switch", "PAL");
         regionMap.put("Brigandine: The Legend of Runersia:Switch", "PAL");
         regionMap.put("Cadence of Hyrule: Crypt of the NecroDancer featuring The Legend of Zelda:Switch", "PAL");
@@ -61,6 +65,7 @@ public class PriceChartingStringNormalizer {
         regionMap.put("Crysis Remastered:Switch", "PAL");
         regionMap.put("CRYSTAR:Switch", "PAL");
         regionMap.put("Daemon X Machina:Switch", "PAL");
+        regionMap.put("Darksiders: Warmastered Edition:Switch", "PAL");
         regionMap.put("Deadly Premonition 2: A Blessing in Disguise:Switch", "PAL");
         regionMap.put("Dragon Quest Builders:Switch", "PAL");
         regionMap.put("Dungeon Defenders: Awakened:Switch", "PAL");
@@ -68,10 +73,12 @@ public class PriceChartingStringNormalizer {
         regionMap.put("Heaven Dust Collection:Switch", "PAL");
         regionMap.put("Langrisser I & II:Switch", "PAL");
         regionMap.put("Maglam Lord:Switch", "PAL");
+        regionMap.put("Okami HD:Switch", "JP");
         regionMap.put("Skul: The Hero Slayer:Switch", "PAL");
         regionMap.put("Souldiers:Switch", "PAL");
         regionMap.put("Source of Madness:Switch", "PAL");
         regionMap.put("Stardew Valley:Switch", "PAL");
+        regionMap.put("Sword Art Online: Alicization Lycoris:Switch", "PAL");
         regionMap.put("Sword Art Online FATAL BULLET Complete Edition:Switch", "PAL");
         regionMap.put("The Touryst:Switch", "PAL");
         regionMap.put("Titan Quest:Switch", "PAL");
