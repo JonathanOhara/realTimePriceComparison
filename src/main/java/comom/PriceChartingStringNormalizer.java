@@ -1,6 +1,5 @@
 package comom;
 
-import com.google.common.collect.Sets;
 import org.apache.commons.collections.CollectionUtils;
 
 import java.util.*;
@@ -10,6 +9,7 @@ public class PriceChartingStringNormalizer {
     private static Map<String, String> titleMap;
     private static Map<String, String> regionMap;
     private static Map<String, String> platformMap;
+    private static Map<String, String> countryMap;
 
     private static Set<String> titleMapChecker = new HashSet<>();
     private static Set<String> regionMapChecker = new HashSet<>();
@@ -21,93 +21,78 @@ public class PriceChartingStringNormalizer {
         createTitleReplaceMap();
         createRegionMap();
         createPlatformNameMap();
+        createCountryMap();
+    }
+
+    private static void createCountryMap() {
+        countryMap = new HashMap<>();
+        countryMap.put("United States of America", "");
+        countryMap.put("United Kingdom", "PAL");
+        countryMap.put("Japan", "JP");
+        countryMap.put("China", "");
+        countryMap.put("World", "");
     }
 
     private static void createTitleReplaceMap() {
         titleMap = new HashMap<>();
-        titleMap.put("Arietta of Spirits:Switch", "Arietta of Spirits Red Edition");
-        titleMap.put("Baldur's Gate and Baldur's Gate II: Enhanced Editions:Switch", "Baldur's Gate 1 & 2 Enhanced Edition");
-        titleMap.put("Bayonetta 2:Switch", "Bayonetta 2 + Bayonetta");
-        titleMap.put("Legend of Mana:Switch", "Legend Of Mana Remastered");
-        titleMap.put("Little Town Hero:Switch", "Little Town Hero [Big Idea Edition]");
-        titleMap.put("Shin Megami Tensei lll: Nocturne HD Remaster:Switch", "Shin Megami Tensei III: Nocturne HD Remaster");
-        titleMap.put("Sword Art Online FATAL BULLET Complete Edition:Switch", "Sword Art Online: Fatal Bullet");
-        titleMap.put("Wargroove:Switch", "Wargroove Deluxe Edition");
-        titleMap.put("Unrailed! (SRG#49):Switch", "Unrailed");
+        titleMap.put("Baldur's Gate and Baldur's Gate II: Enhanced Editions:Nintendo Switch", "Baldur's Gate 1 & 2 Enhanced Edition");
+        titleMap.put("Bayonetta 2:Nintendo Switch", "Bayonetta 2 + Bayonetta");
+        titleMap.put("Legend of Mana:Nintendo Switch", "Legend Of Mana Remastered");
+        titleMap.put("Little Town Hero:Nintendo Switch", "Little Town Hero [Big Idea Edition]");
+        titleMap.put("Pokémon Scarlet & Pokémon Violet Dual Pack Steelbook Edition:Nintendo Switch", "Pokemon Scarlet & Violet Double Pack [SteelBook Edition]");
+        titleMap.put("Shin Megami Tensei lll: Nocturne HD Remaster:Nintendo Switch", "Shin Megami Tensei III: Nocturne HD Remaster");
+        titleMap.put("Sword Art Online FATAL BULLET Complete Edition:Nintendo Switch", "Sword Art Online: Fatal Bullet");
+        titleMap.put("Wargroove:Nintendo Switch", "Wargroove Deluxe Edition");
+        titleMap.put("Unrailed! (SRG#49):Nintendo Switch", "Unrailed");
 
-        titleMap.put("Harvest Moon 3D: The Tale of Two Towns:3DS", "Harvest Moon: The Tale Of Two Towns");
-        titleMap.put("Metal Gear Solid Snake Eater 3D:3DS", "Metal Gear Solid 3D: Snake Eater");
+        titleMap.put("Harvest Moon 3D: The Tale of Two Towns:Nintendo 3DS", "Harvest Moon: The Tale Of Two Towns");
+        titleMap.put("Metal Gear Solid: Snake Eater 3D:Nintendo 3DS", "Metal Gear Solid 3D: Snake Eater");
 
-        titleMap.put("Ninjatown:NDS", "Ninja Town");
+        titleMap.put("Ninjatown:Nintendo DS", "Ninja Town");
 
-        titleMap.put("Monster Hunter Freedom 2 + Monster Hunter Freedom Unite UMD Dual Pack:PSP", "Monster Hunter [Dual Pack]");
-        titleMap.put("PixelJunk Monsters Deluxe:PSP", "Pixel Junk Monsters Deluxe");
-        titleMap.put("Sid Meier's Pirates!:PSP", "Sid Meiers Pirates Live The Life");
-        titleMap.put("Super Robot Wars MX Portable:PSP", "Super Robot Taisen MX Portable (PSP the Best)");
+        titleMap.put("Monster Hunter Freedom 2 + Monster Hunter Freedom Unite UMD Dual Pack:Sony PSP", "Monster Hunter [Dual Pack]");
+        titleMap.put("PixelJunk Monsters Deluxe:Sony PSP", "Pixel Junk Monsters Deluxe");
+        titleMap.put("Sid Meier's Pirates!:Sony PSP", "Sid Meiers Pirates Live The Life");
+        titleMap.put("Super Robot Wars MX Portable:Sony PSP", "Super Robot Taisen MX Portable (PSP the Best)");
 
-        titleMap.put("Hyperdimension Neptunia Re;Birth1:PS Vita", "Hyperdimension Neptunia Re;Birth 1");
+        titleMap.put("Hyperdimension Neptunia Re;Birth1:Sony PS Vita", "Hyperdimension Neptunia Re;Birth 1");
+        titleMap.put("Hyperdimension Neptunia Re;Birth3: V Generation:Sony PS Vita", "Hyperdimension Neptunia Re;Birth 3: V Generation");
     }
-
-    //J-Stars Victory Vs+ Playstation Vita CIB
-    //J-Stars Victory VS+ PAL PLaystation vita
-
-
+    
     private static void createRegionMap() {
         regionMap = new HashMap<>();
-        regionMap.put("A Short Hike:Switch", "PAL");
-        regionMap.put("Arietta of Spirits:Switch", "PAL");
-        regionMap.put("Atelier Sophie 2: The Alchemist of the Mysterious Dream:Switch", "PAL");
-        regionMap.put("Blue Reflection: Second Light:Switch", "PAL");
-        regionMap.put("Brigandine: The Legend of Runersia:Switch", "PAL");
-        regionMap.put("Cadence of Hyrule: Crypt of the NecroDancer featuring The Legend of Zelda:Switch", "PAL");
-        regionMap.put("Crisis Core: Final Fantasy VII Reunion:Switch", "PAL");
-        regionMap.put("CrossCode:Switch", "PAL");
-        regionMap.put("Crysis Remastered:Switch", "PAL");
-        regionMap.put("CRYSTAR:Switch", "PAL");
-        regionMap.put("Daemon X Machina:Switch", "PAL");
-        regionMap.put("Darksiders: Warmastered Edition:Switch", "PAL");
-        regionMap.put("Deadly Premonition 2: A Blessing in Disguise:Switch", "PAL");
-        regionMap.put("Dragon Quest Builders:Switch", "PAL");
-        regionMap.put("Dungeon Defenders: Awakened:Switch", "PAL");
-        regionMap.put("Harvestella:Switch", "PAL");
-        regionMap.put("Heaven Dust Collection:Switch", "PAL");
-        regionMap.put("Langrisser I & II:Switch", "PAL");
-        regionMap.put("Maglam Lord:Switch", "PAL");
-        regionMap.put("Okami HD:Switch", "JP");
-        regionMap.put("Skul: The Hero Slayer:Switch", "PAL");
-        regionMap.put("Souldiers:Switch", "PAL");
-        regionMap.put("Source of Madness:Switch", "PAL");
-        regionMap.put("Stardew Valley:Switch", "PAL");
-        regionMap.put("Sword Art Online: Alicization Lycoris:Switch", "PAL");
-        regionMap.put("Sword Art Online FATAL BULLET Complete Edition:Switch", "PAL");
-        regionMap.put("The Touryst:Switch", "PAL");
-        regionMap.put("Titan Quest:Switch", "PAL");
-        regionMap.put("Travis Strikes Again: No More Heroes:Switch", "PAL");
-        regionMap.put("Ultra Kaiju Monster Rancher:Switch", "Asian English");
-        regionMap.put("Unrailed! (SRG#49):Switch", "PAL");
-        regionMap.put("Wargroove:Switch", "PAL");
-        regionMap.put("Ys Origin:Switch", "PAL");
-        regionMap.put("Ys VIII: Lacrimosa of DANA:Switch", "PAL");
-        regionMap.put("Ys IX Monstrum Nox - Pact Edition:Switch", "PAL");
-        regionMap.put("Valkyria Chronicles 4:Switch", "PAL");
 
-        regionMap.put("Digimon World: Next Order:PS Vita", "JP");
-        regionMap.put("J-Stars Victory Vs+:PS Vita", "PAL");
-        regionMap.put("The Legend of Heroes: Trails of Cold Steel:PS Vita", "PAL");
-        regionMap.put("Natural Doctrine:PS Vita", "PAL");
-        regionMap.put("Tales of Hearts R:PS Vita", "PAL");
+        regionMap.put("Crysis Remastered:Nintendo Switch", "PAL");
+        regionMap.put("CRYSTAR:Nintendo Switch", "PAL");
+        regionMap.put("Daemon X Machina:Nintendo Switch", "PAL");
+        regionMap.put("Darksiders: Warmastered Edition:Nintendo Switch", "PAL");
+        regionMap.put("Langrisser I & II:Nintendo Switch", "PAL");
+        regionMap.put("Maglam Lord:Nintendo Switch", "PAL");
+        regionMap.put("No More Heroes 1+2:Nintendo Switch", "Asian English");
+        regionMap.put("Skul: The Hero Slayer:Nintendo Switch", "PAL");
+        regionMap.put("Titan Quest:Nintendo Switch", "PAL");
+        regionMap.put("Ultra Kaiju Monster Rancher:Nintendo Switch", "Asian English");
+        regionMap.put("Valkyria Chronicles 4:Nintendo Switch", "PAL");
+        regionMap.put("Wargroove:Nintendo Switch", "PAL");
+        regionMap.put("Ys Origin:Nintendo Switch", "PAL");
 
-        regionMap.put("Digimon Adventure:PSP", "JP");
-        regionMap.put("Digimon World Re:Digitize:PSP", "JP");
-        regionMap.put("Gundam Battle Royale:PSP", "JP");
-        regionMap.put("Grand Theft Auto: Vice City Stories:PSP", "PAL ");
-        regionMap.put("Super Robot Wars MX Portable:PSP", "JP");
-        regionMap.put("Warhammer 40,000: Squad Command:PSP", "PAL");
+//        regionMap.put("Digimon World: Next Order:Sony PS Vita", "JP");
+//        regionMap.put("J-Stars Victory Vs+:Sony PS Vita", "PAL");
+//        regionMap.put("The Legend of Heroes: Trails of Cold Steel:Sony PS Vita", "PAL");
+//        regionMap.put("Natural Doctrine:Sony PS Vita", "PAL");
+//        regionMap.put("Tales of Hearts R:Sony PS Vita", "PAL");
 
-        regionMap.put("Dragon Quest IX: Sentinels of the Starry Skies:NDS", "PAL");
-        regionMap.put("Guitar Hero: On Tour:NDS", "PAL");
-        regionMap.put("Guitar Hero: On Tour Decades:NDS", "PAL");
-        regionMap.put("The Legend of Zelda: Spirit Tracks:NDS", "PAL");
+//        regionMap.put("Digimon Adventure:Sony PSP", "JP");
+//        regionMap.put("Digimon World Re:Digitize:Sony PSP", "JP");
+//        regionMap.put("Gundam Battle Royale:Sony PSP", "JP");
+//        regionMap.put("Grand Theft Auto: Vice City Stories:Sony PSP", "PAL ");
+        regionMap.put("Super Robot Wars MX Portable:Sony PSP", "JP");
+//        regionMap.put("Warhammer 40,000: Squad Command:Sony PSP", "PAL");
+
+//        regionMap.put("Dragon Quest IX: Sentinels of the Starry Skies:Nintendo DS", "PAL");
+//        regionMap.put("Guitar Hero: On Tour:Nintendo DS", "PAL");
+//        regionMap.put("Guitar Hero: On Tour Decades:Nintendo DS", "PAL");
+//        regionMap.put("The Legend of Zelda: Spirit Tracks:Nintendo DS", "PAL");
     }
 
     private static void createPlatformNameMap() {
@@ -117,9 +102,9 @@ public class PriceChartingStringNormalizer {
         platformMap.put("Switch", "Nintendo Switch");
     }
 
-    public static String generateProductOutput(final String title, final String platform, final String state){
+    public static String generateProductOutput(final String title, final String country, final String platform, final String state){
 
-        Optional<String> optionalRegion = getRegionByTitle(title, platform);
+        Optional<String> optionalRegion = getRegionByCountryOrTitle(title, country, platform);
 
         StringBuilder priceChartingProduct = new StringBuilder();
 
@@ -160,12 +145,14 @@ public class PriceChartingStringNormalizer {
         return platformMap.getOrDefault(platform, platform);
     }
 
-    private static Optional<String> getRegionByTitle(String title, String platform) {
+    private static Optional<String> getRegionByCountryOrTitle(String title, String country, String platform) {
         String key = title + ":" + platform;
+
         if(regionMap.containsKey(key)){
             regionMapChecker.add(key);
         }
-        return Optional.ofNullable(regionMap.get(key));
+
+        return Optional.ofNullable(regionMap.getOrDefault(key, countryMap.get(country)));
     }
 
 }

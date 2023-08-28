@@ -10,7 +10,7 @@ import java.util.stream.Collectors;
 
 
 public class GameyeToPriceCharting {
-	private static final String FILE_NAME = "08_16_2023_ge_collection.csv";
+	private static final String FILE_NAME = "08_28_2023_ge_collection.csv";
 	
 	public static void main(String[] args) throws IOException, URISyntaxException {
 		String gameyeCsvFile = Util.getProjectPath() + "/src/main/resources/gameye/" + FILE_NAME;
@@ -18,15 +18,14 @@ public class GameyeToPriceCharting {
 		List<GameyeObject> beans = new CsvToBeanBuilder(new FileReader(gameyeCsvFile))
 				.withType(GameyeObject.class).build().parse();
 
-		System.out.println(beans);
-
 		List<String> output = beans.stream().
 			map(gameye -> {
 				String title = gameye.getTitle();
 				String platform = gameye.getPlatform();
 				String state = gameye.getOwnership();
+				String country = gameye.getCountry();
 
-				return PriceChartingStringNormalizer.generateProductOutput(title, platform, state);
+				return PriceChartingStringNormalizer.generateProductOutput(title, country, platform, state);
 			}).collect(Collectors.toList());
 
 		PriceChartingStringNormalizer.debugPrint();

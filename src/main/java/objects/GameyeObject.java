@@ -8,14 +8,14 @@ public class GameyeObject {
     private String platform;
     @CsvBindByName(column = "Type")
     private String type;
-    @CsvBindByName(column = "Owned")
-    private String owned;
     @CsvBindByName(column = "ForSale")
     private String forSale;
     @CsvBindByName(column = "Wishlist")
     private String wishlist;
     @CsvBindByName(column = "Title")
     private String title;
+    @CsvBindByName(column = "Country")
+    private String country;
     @CsvBindByName(column = "Publisher")
     private String publisher;
     @CsvBindByName(column = "Developer")
@@ -61,14 +61,6 @@ public class GameyeObject {
 
     public void setType(String type) {
         this.type = type;
-    }
-
-    public String getOwned() {
-        return owned;
-    }
-
-    public void setOwned(String owned) {
-        this.owned = owned;
     }
 
     public String getForSale() {
@@ -215,30 +207,21 @@ public class GameyeObject {
         this.notes = notes;
     }
 
+    public String getCountry() {
+        return country;
+    }
+
+    public void setCountry(String country) {
+        this.country = country;
+    }
+
     @Override
     public String toString() {
         return "GameyeObject{" +
                 "platform='" + platform + '\'' +
-                ", type='" + type + '\'' +
-                ", owned='" + owned + '\'' +
-                ", forSale='" + forSale + '\'' +
-                ", wishlist='" + wishlist + '\'' +
+                ", state='" + ownership + '\'' +
                 ", title='" + title + '\'' +
-                ", publisher='" + publisher + '\'' +
-                ", developer='" + developer + '\'' +
-                ", dateAdded='" + dateAdded + '\'' +
-                ", ownership='" + ownership + '\'' +
-                ", priceLoose='" + priceLoose + '\'' +
-                ", priceCIB='" + priceCIB + '\'' +
-                ", priceNew='" + priceNew + '\'' +
-                ", yourPrice='" + yourPrice + '\'' +
-                ", pricePaid='" + pricePaid + '\'' +
-                ", itemCondition='" + itemCondition + '\'' +
-                ", boxCondition='" + boxCondition + '\'' +
-                ", manualCondition='" + manualCondition + '\'' +
-                ", beat='" + beat + '\'' +
-                ", playedCompletion='" + playedCompletion + '\'' +
-                ", notes='" + notes + '\'' +
+                ", country='" + country + '\'' +
                 '}';
     }
 }
