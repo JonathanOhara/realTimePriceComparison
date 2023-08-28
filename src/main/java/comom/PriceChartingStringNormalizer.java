@@ -76,23 +76,12 @@ public class PriceChartingStringNormalizer {
         regionMap.put("Wargroove:Nintendo Switch", "PAL");
         regionMap.put("Ys Origin:Nintendo Switch", "PAL");
 
-//        regionMap.put("Digimon World: Next Order:Sony PS Vita", "JP");
-//        regionMap.put("J-Stars Victory Vs+:Sony PS Vita", "PAL");
-//        regionMap.put("The Legend of Heroes: Trails of Cold Steel:Sony PS Vita", "PAL");
-//        regionMap.put("Natural Doctrine:Sony PS Vita", "PAL");
-//        regionMap.put("Tales of Hearts R:Sony PS Vita", "PAL");
+//        regionMap.put(":Sony PS Vita", "JP");
 
-//        regionMap.put("Digimon Adventure:Sony PSP", "JP");
-//        regionMap.put("Digimon World Re:Digitize:Sony PSP", "JP");
-//        regionMap.put("Gundam Battle Royale:Sony PSP", "JP");
-//        regionMap.put("Grand Theft Auto: Vice City Stories:Sony PSP", "PAL ");
-        regionMap.put("Super Robot Wars MX Portable:Sony PSP", "JP");
-//        regionMap.put("Warhammer 40,000: Squad Command:Sony PSP", "PAL");
+//        regionMap.put(":Sony PSP", "JP");
 
-//        regionMap.put("Dragon Quest IX: Sentinels of the Starry Skies:Nintendo DS", "PAL");
-//        regionMap.put("Guitar Hero: On Tour:Nintendo DS", "PAL");
-//        regionMap.put("Guitar Hero: On Tour Decades:Nintendo DS", "PAL");
-//        regionMap.put("The Legend of Zelda: Spirit Tracks:Nintendo DS", "PAL");
+//        regionMap.put(":Nintendo DS", "PAL");
+
     }
 
     private static void createPlatformNameMap() {
@@ -120,14 +109,14 @@ public class PriceChartingStringNormalizer {
 
         Set<String> diff = new HashSet<>(CollectionUtils.removeAll(titleMap.keySet(), titleMapChecker));
 
-        if(diff.size() > 0){
+        if(!diff.isEmpty()){
             System.err.println("TitleMap diff");
             System.err.println(diff);
         }
 
         diff = new HashSet<>(CollectionUtils.removeAll(regionMap.keySet(), regionMapChecker));
 
-        if(diff.size() > 0){
+        if(!diff.isEmpty()){
             System.err.println("regionMap diff");
             System.err.println(diff);
         }
