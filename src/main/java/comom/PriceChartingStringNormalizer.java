@@ -26,6 +26,7 @@ public class PriceChartingStringNormalizer {
 
     private static void createCountryMap() {
         countryMap = new HashMap<>();
+
         countryMap.put("United States of America", "");
         countryMap.put("United Kingdom", "PAL");
         countryMap.put("Japan", "JP");
@@ -35,6 +36,7 @@ public class PriceChartingStringNormalizer {
 
     private static void createTitleReplaceMap() {
         titleMap = new HashMap<>();
+
         titleMap.put("Baldur's Gate and Baldur's Gate II: Enhanced Editions:Nintendo Switch", "Baldur's Gate 1 & 2 Enhanced Edition");
         titleMap.put("Bayonetta 2:Nintendo Switch", "Bayonetta 2 + Bayonetta");
         titleMap.put("Legend of Mana:Nintendo Switch", "Legend Of Mana Remastered");
@@ -66,9 +68,13 @@ public class PriceChartingStringNormalizer {
         regionMap.put("CRYSTAR:Nintendo Switch", "PAL");
         regionMap.put("Daemon X Machina:Nintendo Switch", "PAL");
         regionMap.put("Darksiders: Warmastered Edition:Nintendo Switch", "PAL");
+        regionMap.put("Labyrinth Of Refrain: Coven Of Dusk:Nintendo Switch", "");
         regionMap.put("Langrisser I & II:Nintendo Switch", "PAL");
         regionMap.put("Maglam Lord:Nintendo Switch", "PAL");
+        regionMap.put("Monster Harvest:Nintendo Switch", "PAL");
         regionMap.put("No More Heroes 1+2:Nintendo Switch", "Asian English");
+        regionMap.put("Record of Lodoss War: Deedlit in Wonder Labyrinth:Nintendo Switch", "");
+        regionMap.put("Rune Factory 4 Special:Nintendo Switch", "PAL");
         regionMap.put("Skul: The Hero Slayer:Nintendo Switch", "PAL");
         regionMap.put("Titan Quest:Nintendo Switch", "PAL");
         regionMap.put("Ultra Kaiju Monster Rancher:Nintendo Switch", "Asian English");
@@ -86,6 +92,7 @@ public class PriceChartingStringNormalizer {
 
     private static void createPlatformNameMap() {
         platformMap = new HashMap<>();
+
         platformMap.put("NDS", "Nintendo DS");
         platformMap.put("PS Vita", "Playstation Vita");
         platformMap.put("Switch", "Nintendo Switch");
