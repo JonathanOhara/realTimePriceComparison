@@ -1,4 +1,5 @@
-Arms switch {https://www.pricecharting.com/game/nintendo-switch/arms}
+Afterimage switch {https://www.pricecharting.com/pt/game/nintendo-switch/afterimage-deluxe-edition}
+Arms {https://www.pricecharting.com/game/nintendo-switch/arms}
 Assassin Creed III Remastered {https://www.pricecharting.com/game/nintendo-switch/assassin%27s-creed-iii-remastered}
 Assassin Creed The Ezio Collection switch {https://www.pricecharting.com/game/nintendo-switch/assassin%27s-creed-the-ezio-collection}
 Assassin Creed The Rebel Collection {https://www.pricecharting.com/game/nintendo-switch/assassin%27s-creed-the-rebel-collection}
@@ -46,7 +47,6 @@ Sifu {https://www.pricecharting.com/game/nintendo-switch/sifu-vengeance-edition}
 Story Of Seasons: A Wonderful Life {https://www.pricecharting.com/game/nintendo-switch/story-of-seasons-a-wonderful-life}
 Story OF SEASONS: FRIENDS OF MINERAL TOWN {https://www.pricecharting.com/game/nintendo-switch/story-of-seasons-friends-of-mineral-town}
 Story OF SEASONS: PIONEERS OF OLIVE TOWN {https://www.pricecharting.com/game/nintendo-switch/story-of-seasons-pioneers-of-olive-town}
-Super Robot Wars T {https://www.pricecharting.com/game/jp-nintendo-switch/super-robot-wars-t}
 Survivalists {https://www.pricecharting.com/game/nintendo-switch/the-survivalists}
 Teenage Mutant Ninja Turtles SHREDDER switch {https://www.pricecharting.com/game/nintendo-switch/teenage-mutant-ninja-turtles-shredder%27s-revenge}
 Temtem {https://www.pricecharting.com/game/nintendo-switch/temtem}
