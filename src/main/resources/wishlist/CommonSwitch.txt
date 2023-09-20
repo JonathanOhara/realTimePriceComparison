@@ -6,12 +6,12 @@ Azure Striker Gunvolt Striker Pack {https://www.pricecharting.com/game/nintendo-
 AZURE STRIKER GUNVOLT 3 {https://www.pricecharting.com/game/nintendo-switch/azure-striker-gunvolt-3}
 Bioshock The Collection switch {https://www.pricecharting.com/game/nintendo-switch/bioshock-the-collection}
 Blue fire {https://www.pricecharting.com/pt/game/nintendo-switch/blue-fire}
-CAVE STORY switch {https://www.pricecharting.com/game/nintendo-switch/cave-story+}
+Cave story switch {https://www.pricecharting.com/game/nintendo-switch/cave-story+}
 Crysis 2 Remastered {https://www.pricecharting.com/pt/game/nintendo-switch/crysis-2-remastered}
 Darksiders Genesis switch {https://www.pricecharting.com/game/nintendo-switch/darksiders-genesis}
 Digimon World Next order {https://www.pricecharting.com/game/nintendo-switch/digimon-world-next-order}
 Disgaea 6 switch {https://www.pricecharting.com/game/nintendo-switch/disgaea-6-defiance-of-destiny-unrelenting-edition}
-Donkey KONG TROPICAL FREEZE {https://www.pricecharting.com/game/nintendo-switch/donkey-kong-country-tropical-freeze}
+Donkey Kong tropical freeze {https://www.pricecharting.com/game/nintendo-switch/donkey-kong-country-tropical-freeze}
 Dragon BALL FIGHTER Z switch {https://www.pricecharting.com/game/nintendo-switch/dragon-ball-fighterz}
 Dragon Ball Kakarot switch {https://www.pricecharting.com/game/nintendo-switch/dragon-ball-z-kakarot-+-a-new-power-awakens-set}
 Dragon Ball Xenoverse 2 switch {https://www.pricecharting.com/game/nintendo-switch/dragon-ball-xenoverse-2}
@@ -20,14 +20,13 @@ Fight N Rage {https://www.pricecharting.com/game/nintendo-switch/fight%27n-rage}
 GAL GUARDIANS {https://www.pricecharting.com/game/nintendo-switch/gal-guardians-demon-purge}
 Ghostrunner {https://www.pricecharting.com/game/nintendo-switch/ghostrunner}
 Grand Theft Auto: The Trilogy switch {https://www.pricecharting.com/pt/game/nintendo-switch/grand-theft-auto-the-trilogy-definitive-edition}
-Great ACE ATTORNEY CHRONICLES {https://www.pricecharting.com/game/nintendo-switch/the-great-ace-attorney-chronicles}
+Great ace attorney chronicles {https://www.pricecharting.com/game/nintendo-switch/the-great-ace-attorney-chronicles}
 Hotline miami collection {https://www.pricecharting.com/game/nintendo-switch/hotline-miami-collection}
 Kirby Return To Dream Land Deluxe {https://www.pricecharting.com/game/nintendo-switch/kirby%e2%80%99s-return-to-dream-land-deluxe}
 Legend Of Heroes: Trails Into Reverie {https://www.pricecharting.com/game/nintendo-switch/legend-of-heroes-trails-into-reverie}
 Legend of Nayuta: Boundless Trails {https://www.pricecharting.com/pt/game/nintendo-switch/the-legend-of-nayuta-boundless-trails}
 Loop8: Summer Of Gods {https://www.pricecharting.com/game/nintendo-switch/loop8-summer-of-gods}
 Master Detective Archives: RAIN CODE {https://www.pricecharting.com/game/nintendo-switch/master-detective-archives-rain-code}
-Mega Man Zero Legacy Collection {https://www.pricecharting.com/game/nintendo-switch/mega-man-zerozx-legacy-collection}
 Minecraft DUNGEONS ultimate switch {https://www.pricecharting.com/game/nintendo-switch/minecraft-dungeons-ultimate-edition}
 Nelke THE LEGENDARY ALCHEMISTS {https://www.pricecharting.com/game/nintendo-switch/nelke-&-the-legendary-alchemists-ateliers-of-the-new-world}
 Neptunia X Senran Kagura Ninja Wars {https://www.pricecharting.com/game/nintendo-switch/neptunia-x-senran-kagura-ninja-wars}
@@ -44,8 +43,8 @@ SaGa Frontier Remastered {https://www.pricecharting.com/game/nintendo-switch/sag
 Saints ROW IV switch {https://www.pricecharting.com/game/nintendo-switch/saints-row-iv-re-elected}
 Samurai Warriors 5 {https://www.pricecharting.com/game/nintendo-switch/samurai-warriors-5}
 Story Of Seasons: A Wonderful Life {https://www.pricecharting.com/game/nintendo-switch/story-of-seasons-a-wonderful-life}
-Story OF SEASONS: FRIENDS OF MINERAL TOWN {https://www.pricecharting.com/game/nintendo-switch/story-of-seasons-friends-of-mineral-town}
-Story OF SEASONS: PIONEERS OF OLIVE TOWN {https://www.pricecharting.com/game/nintendo-switch/story-of-seasons-pioneers-of-olive-town}
+Story OF seasons: friends of mineral town {https://www.pricecharting.com/game/nintendo-switch/story-of-seasons-friends-of-mineral-town}
+Story OF seasons: pioneers of olive town {https://www.pricecharting.com/game/nintendo-switch/story-of-seasons-pioneers-of-olive-town}
 Survivalists {https://www.pricecharting.com/game/nintendo-switch/the-survivalists}
 Temtem {https://www.pricecharting.com/game/nintendo-switch/temtem}
 Theatrhythm final bar line {https://www.pricecharting.com/game/nintendo-switch/theatrhythm-final-bar-line}
@@ -55,4 +54,3 @@ We Love Katamari Reroll {https://www.pricecharting.com/game/nintendo-switch/we-l
 World Ends With You: Final Remix {https://www.pricecharting.com/game/nintendo-switch/world-ends-with-you-final-remix}
 Yoshi Crafted World {https://www.pricecharting.com/game/nintendo-switch/yoshi%27s-crafted-world}
 Yu Legacy of the duelist link evolution {https://www.pricecharting.com/game/nintendo-switch/yu-gi-oh-legacy-of-the-duelist-link-evolution}
-Zombie Army 4 switch {https://www.pricecharting.com/game/nintendo-switch/zombie-army-4-dead-war}

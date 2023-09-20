@@ -64,6 +64,7 @@ public class PriceChartingStringNormalizer {
     private static void createRegionMap() {
         regionMap = new HashMap<>();
 
+//        regionMap.put(".hack//G.U. Recode:Nintendo Switch", "JP"); not in price charting
         regionMap.put("Crysis Remastered:Nintendo Switch", "PAL");
         regionMap.put("CRYSTAR:Nintendo Switch", "PAL");
         regionMap.put("Daemon X Machina:Nintendo Switch", "PAL");
