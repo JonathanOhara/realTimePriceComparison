@@ -37,6 +37,7 @@ public class PriceChartingStringNormalizer {
     private static void createTitleReplaceMap() {
         titleMap = new HashMap<>();
 
+        titleMap.put(".hack//G.U. Recode:Nintendo Switch", ".Hack GU Last Recode");
         titleMap.put("Baldur's Gate and Baldur's Gate II: Enhanced Editions:Nintendo Switch", "Baldur's Gate 1 & 2 Enhanced Edition");
         titleMap.put("Bayonetta 2:Nintendo Switch", "Bayonetta 2 + Bayonetta");
         titleMap.put("Legend of Mana:Nintendo Switch", "Legend Of Mana Remastered");
