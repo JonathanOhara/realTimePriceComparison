@@ -46,10 +46,14 @@ public class Main {
 
 			System.out.println("Game: " + game.getName());
 			generateHtmlReport(i, game, shops);
-			SeleniumUtil.closeDriver();
+
+			if(i > 0 && i % 5 == 0) {
+				SeleniumUtil.closeDriver();
+			}
 			printStream.flush();
 			printStream.close();
 		}
+		SeleniumUtil.closeDriver();
 
 		totalsReport.closeAndWriteFile();
 
@@ -106,7 +110,7 @@ public class Main {
 
 		WebDriver driver = SeleniumUtil.getDriver();
 
-		Thread.sleep(750);
+		Thread.sleep(600);
 
 		driver.get(url);
 
@@ -117,7 +121,7 @@ public class Main {
 			driver.findElement(By.cssSelector("a[data-currency='BRL']")).click();
 		}
 
-		Thread.sleep(500);
+		Thread.sleep(600);
 
 		String completePrice = driver.findElement(By.cssSelector("#complete_price > span.price.js-price")).getText();
 		String newPrice = driver.findElement(By.cssSelector("#new_price > span.price.js-price")).getText();

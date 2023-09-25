@@ -25,8 +25,8 @@ public class SeleniumPageDocument implements PageDocument {
 
     public boolean connect(String url, int retry) {
         Random random = new Random();
-        int minWait = 100;
-        int maxWait = 400;
+        int minWait = 150;
+        int maxWait = 500;
 
         try {
             Thread.sleep(random.nextInt(maxWait - minWait) + minWait) ;
@@ -39,8 +39,8 @@ public class SeleniumPageDocument implements PageDocument {
             if(retry++ < 3){
                 System.err.println("Ex: " + ex.getCause() );
                 System.err.println("Connect error number: " + retry + ". Retrying..." );
-                SeleniumUtil.closeDriver();
-                init();
+//                SeleniumUtil.closeDriver();
+//                init();
                 connect(url, retry);
             }else{
                 return false;

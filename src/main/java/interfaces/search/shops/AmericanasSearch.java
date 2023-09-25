@@ -37,7 +37,7 @@ public class AmericanasSearch extends JsoupSearch {
 
 	@Override
 	protected String getProductNameCssQuery() {
-		return ".product-name__Name-sc-1shovj0-0";
+		return ".product-name__Name-sc-1jrnqy1-0";
 	}
 
 	@Override

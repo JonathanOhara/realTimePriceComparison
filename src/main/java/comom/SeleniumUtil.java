@@ -83,6 +83,7 @@ public class SeleniumUtil {
                 driver = null;
             }catch (Exception ex){
                 ex.printStackTrace();
+                System.out.println("SeleniumUtil.closeDriver exiting...");
                 System.exit(0);
             }
         }
