@@ -45,7 +45,7 @@ public class ShopeeSeleniumSearch extends SeleniumSearch {
 
 	@Override
 	protected String getProductListCssQuery() {
-		return ".shopee-search-item-result__items > div";
+		return ".shopee-search-item-result__items > li";
 	}
 
 	@Override

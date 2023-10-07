@@ -71,7 +71,8 @@ public class MercadoLivreSeleniumSearch extends SeleniumSearch {
 
 	@Override
 	protected String getProductPriceCssQuery() {
-		return "span.andes-money-amount.ui-search-price__part.shops__price-part.andes-money-amount--cents-superscript";
+		return "span.andes-money-amount.ui-search-price__part.ui-search-price__part--medium.andes-money-amount--cents-superscript";
+
 	}
 
 	@Override
