@@ -12,7 +12,7 @@ public class MagazineLuizaSeleniumSearch extends SeleniumSearch {
 
 	@Override
 	public boolean isShopEnabled() {
-		return false;
+		return true;
 	}
 
 	@Override

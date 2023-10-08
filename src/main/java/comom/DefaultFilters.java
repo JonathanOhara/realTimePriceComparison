@@ -10,7 +10,15 @@ import java.util.Locale;
 public class DefaultFilters {
 	
 	private static boolean useDenyWords = true;
-	private static String[] denyWords = {"Adesivo", "Alug", "Amiibo", "Bateria", "Blusa", "Bolsa", "Boneca", "Boneco", "Broche", "Calça", "Camisa", "Camiseta", "Caneca", "Capa", "Capinha", "Carregador", "Chaveiro", "Controle", "Cosplay", "Costume", "Deck", "Decoration", "Detonado", "Digital", "Diorama", "E-shop", "Eshop", "Estatueta", "Friccao", "Funko", "Gamepad", "Gift", "Guide", "Hoodie", "Impressao", "Livro", "Locacao", "Luminaria", "Miniatura", "Moletom", "Mousepad", "Mug", "Novel", "Oculos", "PC", "PS2", "PS3", "PS4", "PS5", "Pelicula", "Pelucia", "Placa", "Plush", "Poster", "Quadro", "Revista", "Skin", "Statue", "Steam", "Suporte", "T-Shirt", "Tapete", "Tenis", "Toalha", "Volante", "Walkthrough", "Wii", "WiiU", "X360", "XBOX", "Xone", "Travesseiro"};
+	private static String[] denyWords = {
+			"Adesivo", "Alug", "Amiibo", "Bateria", "Blusa", "Bolsa", "Boneca", "Boneco", "Broche", "Calça", "Camisa", "Camiseta",
+			"Caneca", "Capa", "Capinha", "Carregador", "Chaveiro", "Controle", "Cosplay", "Costume", "Deck", "Decoration",
+			"Detonado", "Digital", "Diorama", "E-shop", "Eshop", "Estatueta", "Friccao", "Funko", "Gamepad", "Gift", "Guide",
+			"Hoodie", "Impressao", "Livro", "Locacao", "Luminaria", "Miniatura", "Moletom", "Mousepad", "Mug", "Novel", "Oculos",
+			"PC", "PS1", "PS2", "PS3", "PS4", "PS5", "Play1", "Play2", "Play3", "Play4", "Play5",
+			"Pelicula", "Pelucia", "Placa", "Plush", "Poster", "Quadro", "Revista", "Skin", "Statue", "Steam", "Suporte", "T-Shirt",
+			"Tapete", "Tenis", "Toalha", "Volante", "Walkthrough", "Wii", "WiiU", "X360", "XBOX", "Xone", "Travesseiro"
+	};
 	private static String[] ignoreWords = {"&", "3ds", "a", "and", "ds", "in", "of", "on", "psp", "switch", "the", "vita"};
 
 	public static Filter noFilter(){

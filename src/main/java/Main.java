@@ -110,18 +110,23 @@ public class Main {
 
 		WebDriver driver = SeleniumUtil.getDriver();
 
-		Thread.sleep(600);
+		Thread.sleep(500);
+
+		System.out.println("Connecting to " + url);
 
 		driver.get(url);
 
 		WebElement currency = driver.findElement(By.cssSelector("#dropdown_selected_currency"));
 		if(!"BRL".equalsIgnoreCase(currency.getText())){
+			System.out.println("\tChanging currency to BRL");
 			currency.click();
 			Thread.sleep(500);
 			driver.findElement(By.cssSelector("a[data-currency='BRL']")).click();
 		}
 
-		Thread.sleep(600);
+		Thread.sleep(750);
+
+		System.out.println("\tReading prices...");
 
 		String completePrice = driver.findElement(By.cssSelector("#complete_price > span.price.js-price")).getText();
 		String newPrice = driver.findElement(By.cssSelector("#new_price > span.price.js-price")).getText();
@@ -129,8 +134,8 @@ public class Main {
 		priceCharting.setCompletePrice(completePrice.replace("R ", "").trim());
 		priceCharting.setNewPrice(newPrice.replace("R ", "").trim());
 
-		System.out.println("CIB Price: "+completePrice);
-		System.out.println("NEW Price: "+newPrice);
+		System.out.println("\tCIB Price: "+completePrice);
+		System.out.println("\tNEW Price: "+newPrice);
 
 		return priceCharting;
 	}
