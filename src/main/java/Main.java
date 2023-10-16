@@ -39,19 +39,29 @@ public class Main {
 		totalsReport.generateHeaders();
 
 		for (int i = 0, lerSize = ler.size(); i < lerSize; i++) {
-			String gameInput = ler.get(i);
+			PrintStream printStream = null;
+			try {
+				String gameInput = ler.get(i);
 
-			Game game = extractGame(gameInput, true);
-			PrintStream printStream = configurarSaida(game.getName());
+				Game game = extractGame(gameInput, true);
+				printStream = configurarSaida(game.getName());
 
-			System.out.println("Game: " + game.getName());
-			generateHtmlReport(i, game, shops);
+				System.out.println("Game: " + game.getName());
+				generateHtmlReport(i, game, shops);
 
-			if(i > 0 && i % 5 == 0) {
-				SeleniumUtil.closeDriver();
+				if (i > 0 && i % 10 == 0) {
+					System.out.println("Restarting driver... ");
+					SeleniumUtil.closeDriver();
+				}
+			}catch (Exception e){
+				e.printStackTrace();
+			}finally {
+				if(printStream != null){
+					printStream.flush();
+					printStream.close();
+				}
 			}
-			printStream.flush();
-			printStream.close();
+
 		}
 		SeleniumUtil.closeDriver();
 
