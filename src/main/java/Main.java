@@ -8,10 +8,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 
-import java.io.File;
-import java.io.FileOutputStream;
-import java.io.IOException;
-import java.io.PrintStream;
+import java.io.*;
 import java.net.URISyntaxException;
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;
@@ -55,11 +52,15 @@ public class Main {
 				}
 			}catch (Exception e){
 				e.printStackTrace();
+				System.out.println("Restarting driver... ");
+				SeleniumUtil.closeDriver();
 			}finally {
 				if(printStream != null){
 					printStream.flush();
 					printStream.close();
 				}
+				System.setOut(new PrintStream(new FileOutputStream(FileDescriptor.out)));
+				System.setErr(new PrintStream(new FileOutputStream(FileDescriptor.err)));
 			}
 
 		}
@@ -116,11 +117,10 @@ public class Main {
 	}
 
 	private static PriceCharting extractPriceCharting(String url) throws InterruptedException {
+		System.out.println("Main.extractPriceCharting");
 		PriceCharting priceCharting = new PriceCharting(url);
 
 		WebDriver driver = SeleniumUtil.getDriver();
-
-		Thread.sleep(500);
 
 		System.out.println("Connecting to " + url);
 

@@ -31,6 +31,7 @@ Patapon 3 psp{https://www.pricecharting.com/game/psp/patapon-3}
 Patapon psp {https://www.pricecharting.com/game/psp/patapon}
 Persona 2 psp {https://www.pricecharting.com/game/psp/shin-megami-tensei-persona-2-innocent-sin}
 Persona psp {https://www.pricecharting.com/game/psp/shin-megami-tensei-persona}
+Phantasy Star Portable 2 {https://www.pricecharting.com/pt/game/psp/phantasy-star-portable-2}
 Phantom Brave: The Hermuda Triangle {https://www.pricecharting.com/game/psp/phantom-brave-the-hermuda-triangle}
 Prince of persia rival swords {https://www.pricecharting.com/game/psp/prince-of-persia-rival-swords}
 Ragnarok: Tactics {https://www.pricecharting.com/game/psp/ragnarok-tactics?q=ragnarok+tactics}
