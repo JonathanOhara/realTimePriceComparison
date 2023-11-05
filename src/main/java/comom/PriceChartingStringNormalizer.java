@@ -1,6 +1,7 @@
 package comom;
 
 import org.apache.commons.collections.CollectionUtils;
+import org.apache.commons.lang3.StringUtils;
 
 import java.util.*;
 
@@ -27,11 +28,11 @@ public class PriceChartingStringNormalizer {
     private static void createCountryMap() {
         countryMap = new HashMap<>();
 
-        countryMap.put("United States of America", "");
+        countryMap.put("United States of America", null);
         countryMap.put("United Kingdom", "PAL");
         countryMap.put("Japan", "JP");
-        countryMap.put("China", "");
-        countryMap.put("World", "");
+        countryMap.put("China", null);
+        countryMap.put("World", null);
     }
 
     private static void createTitleReplaceMap() {
@@ -39,12 +40,12 @@ public class PriceChartingStringNormalizer {
 
         titleMap.put(".hack//G.U. Recode:Nintendo Switch", ".Hack GU Last Recode");
         titleMap.put("Baldur's Gate and Baldur's Gate II: Enhanced Editions:Nintendo Switch", "Baldur's Gate 1 & 2 Enhanced Edition");
-        titleMap.put("Bayonetta 2:Nintendo Switch", "Bayonetta 2 + Bayonetta");
         titleMap.put("Legend of Mana:Nintendo Switch", "Legend Of Mana Remastered");
         titleMap.put("Little Town Hero:Nintendo Switch", "Little Town Hero [Big Idea Edition]");
         titleMap.put("Pokémon Scarlet & Pokémon Violet Dual Pack Steelbook Edition:Nintendo Switch", "Pokemon Scarlet & Violet Double Pack [SteelBook Edition]");
         titleMap.put("Shin Megami Tensei lll: Nocturne HD Remaster:Nintendo Switch", "Shin Megami Tensei III: Nocturne HD Remaster");
         titleMap.put("Sword Art Online FATAL BULLET Complete Edition:Nintendo Switch", "Sword Art Online: Fatal Bullet");
+        titleMap.put("Valthirian Arc Hero School Story 2:Nintendo Switch", "Valthirian Arc 2: Hero School Story 2");
         titleMap.put("Wargroove:Nintendo Switch", "Wargroove Deluxe Edition");
         titleMap.put("Unrailed! (SRG#49):Nintendo Switch", "Unrailed");
 
@@ -60,6 +61,7 @@ public class PriceChartingStringNormalizer {
 
         titleMap.put("Hyperdimension Neptunia Re;Birth1:Sony PS Vita", "Hyperdimension Neptunia Re;Birth 1");
         titleMap.put("Hyperdimension Neptunia Re;Birth3: V Generation:Sony PS Vita", "Hyperdimension Neptunia Re;Birth 3: V Generation");
+        titleMap.put("ScourgeBringer [Limited Edition]:Sony PS Vita", "Scourge Bringer [Limited Edition]");
     }
     
     private static void createRegionMap() {
@@ -70,7 +72,7 @@ public class PriceChartingStringNormalizer {
         regionMap.put("CRYSTAR:Nintendo Switch", "PAL");
         regionMap.put("Daemon X Machina:Nintendo Switch", "PAL");
         regionMap.put("Darksiders: Warmastered Edition:Nintendo Switch", "PAL");
-        regionMap.put("Labyrinth Of Refrain: Coven Of Dusk:Nintendo Switch", "");
+        regionMap.put("Etrian Odyssey Origins Collection:Nintendo Switch", "Asian English");
         regionMap.put("Langrisser I & II:Nintendo Switch", "PAL");
         regionMap.put("Maglam Lord:Nintendo Switch", "PAL");
         regionMap.put("Monster Harvest:Nintendo Switch", "PAL");
