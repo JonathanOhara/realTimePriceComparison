@@ -6,7 +6,6 @@ Azure Striker Gunvolt Striker Pack {https://www.pricecharting.com/game/nintendo-
 AZURE STRIKER GUNVOLT 3 {https://www.pricecharting.com/game/nintendo-switch/azure-striker-gunvolt-3}
 Bioshock The Collection switch {https://www.pricecharting.com/game/nintendo-switch/bioshock-the-collection}
 Crymachina {https://www.pricecharting.com/pt/game/nintendo-switch/crymachina-deluxe-edition}
-Crysis 2 Remastered {https://www.pricecharting.com/pt/game/nintendo-switch/crysis-2-remastered}
 Digimon World Next order {https://www.pricecharting.com/game/nintendo-switch/digimon-world-next-order}
 Disgaea 6 switch {https://www.pricecharting.com/game/nintendo-switch/disgaea-6-defiance-of-destiny-unrelenting-edition}
 Disgaea 7 switch {https://www.pricecharting.com/pt/game/nintendo-switch/disgaea-7-vows-of-the-virtueless-deluxe-edition}
@@ -14,7 +13,6 @@ Donkey Kong tropical freeze {https://www.pricecharting.com/game/nintendo-switch/
 Dragon BALL FIGHTER Z switch {https://www.pricecharting.com/game/nintendo-switch/dragon-ball-fighterz}
 Dragon Ball Kakarot switch {https://www.pricecharting.com/game/nintendo-switch/dragon-ball-z-kakarot-+-a-new-power-awakens-set}
 Dragon Ball Xenoverse 2 switch {https://www.pricecharting.com/game/nintendo-switch/dragon-ball-xenoverse-2}
-Eternal Radiance {https://www.pricecharting.com/pt/game/nintendo-switch/eternal-radiance}
 Fallen Legion Revenants {https://www.pricecharting.com/game/nintendo-switch/fallen-legion-revenants}
 Fate Samurai Remnant {https://www.pricecharting.com/pt/game/nintendo-switch/fatesamurai-remnant}
 Grand Theft Auto: The Trilogy switch {https://www.pricecharting.com/pt/game/nintendo-switch/grand-theft-auto-the-trilogy-definitive-edition}
@@ -28,7 +26,6 @@ Metro Redux switch {https://www.pricecharting.com/game/nintendo-switch/metro-red
 Minecraft DUNGEONS ultimate switch {https://www.pricecharting.com/game/nintendo-switch/minecraft-dungeons-ultimate-edition}
 No Man Sky {https://www.pricecharting.com/game/nintendo-switch/no-man%27s-sky}
 Northgard {https://www.pricecharting.com/game/nintendo-switch/northgard}
-Octopath Traveler II {https://www.pricecharting.com/game/nintendo-switch/octopath-traveler-ii}
 Pokken TOURNAMENT DX {https://www.pricecharting.com/game/nintendo-switch/pokken-tournament-dx}
 Potion permit {https://www.pricecharting.com/game/nintendo-switch/potion-permit}
 Resident Evil Triple Pack {https://www.pricecharting.com/game/nintendo-switch/resident-evil-triple-pack}
@@ -36,11 +33,11 @@ SaGa Frontier Remastered {https://www.pricecharting.com/game/nintendo-switch/sag
 Saints ROW IV switch {https://www.pricecharting.com/game/nintendo-switch/saints-row-iv-re-elected}
 Samurai Warriors 5 {https://www.pricecharting.com/game/nintendo-switch/samurai-warriors-5}
 Silent Hope {https://www.pricecharting.com/pt/game/nintendo-switch/silent-hope-day-one-edition}
+Star Ocean: The Second Story R {https://www.pricecharting.com/pt/game/nintendo-switch/star-ocean-the-second-story-r}
 Story Of Seasons: A Wonderful Life {https://www.pricecharting.com/game/nintendo-switch/story-of-seasons-a-wonderful-life}
 Story OF seasons: friends of mineral town {https://www.pricecharting.com/game/nintendo-switch/story-of-seasons-friends-of-mineral-town}
 Story OF seasons: pioneers of olive town {https://www.pricecharting.com/game/nintendo-switch/story-of-seasons-pioneers-of-olive-town}
 Survivalists {https://www.pricecharting.com/game/nintendo-switch/the-survivalists}
-Temtem {https://www.pricecharting.com/game/nintendo-switch/temtem}
 Theatrhythm final bar line {https://www.pricecharting.com/game/nintendo-switch/theatrhythm-final-bar-line}
 Tony Hawk Pro Skater 1 2 switch {https://www.pricecharting.com/game/nintendo-switch/tony-hawk%27s-pro-skater-1+2}
 We Love Katamari Reroll {https://www.pricecharting.com/game/nintendo-switch/we-love-katamari-reroll-+-royal-reverie}

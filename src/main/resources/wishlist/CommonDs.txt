@@ -10,7 +10,6 @@ Chrono trigger ds {https://www.pricecharting.com/game/nintendo-ds/chrono-trigger
 Contra 4 ds {https://www.pricecharting.com/game/nintendo-ds/contra-4}
 Dragon quest monsters joker {https://www.pricecharting.com/game/nintendo-ds/dragon-quest-monsters-joker}
 Drawn To Life ds {https://www.pricecharting.com/game/nintendo-ds/drawn-to-life}
-Final Fantasy III ds {https://www.pricecharting.com/game/nintendo-ds/final-fantasy-iii}
 Final fantasy crystal chronicles: echoes of time {https://www.pricecharting.com/game/nintendo-ds/final-fantasy-crystal-chronicles-echoes-of-time}
 Final fantasy tactics a2 {https://www.pricecharting.com/game/nintendo-ds/final-fantasy-crystal-chronicles-echoes-of-time}
 Chinatown wars ds {https://www.pricecharting.com/game/nintendo-ds/grand-theft-auto-chinatown-wars}
@@ -19,7 +18,6 @@ Harvest moon ds {https://www.pricecharting.com/game/nintendo-ds/harvest-moon-ds}
 Harvest moon: frantic farming {https://www.pricecharting.com/game/nintendo-ds/harvest-moon-frantic-farming}
 Jump Super Stars {https://www.pricecharting.com/game/nintendo-ds/jump-super-stars}
 LEGO Rock Band ds {https://www.pricecharting.com/game/nintendo-ds/lego-rock-band}
-Lock Quest ds {https://www.pricecharting.com/game/nintendo-ds/lock%27s-quest}
 Lunar Dragon Song ds {https://www.pricecharting.com/game/nintendo-ds/lunar-dragon-song}
 Magical Starsign {https://www.pricecharting.com/game/nintendo-ds/magical-starsign}
 Mario Hoops {https://www.pricecharting.com/game/nintendo-ds/mario-hoops-3-on-3}

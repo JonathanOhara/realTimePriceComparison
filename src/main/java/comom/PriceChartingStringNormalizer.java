@@ -77,14 +77,10 @@ public class PriceChartingStringNormalizer {
         regionMap.put("Maglam Lord:Nintendo Switch", "PAL");
         regionMap.put("Monster Harvest:Nintendo Switch", "PAL");
         regionMap.put("No More Heroes 1+2:Nintendo Switch", "Asian English");
-        regionMap.put("Record of Lodoss War: Deedlit in Wonder Labyrinth:Nintendo Switch", "");
-        regionMap.put("Rune Factory 4 Special:Nintendo Switch", "PAL");
-        regionMap.put("Skul: The Hero Slayer:Nintendo Switch", "PAL");
         regionMap.put("Titan Quest:Nintendo Switch", "PAL");
         regionMap.put("Ultra Kaiju Monster Rancher:Nintendo Switch", "Asian English");
         regionMap.put("Valkyria Chronicles 4:Nintendo Switch", "PAL");
         regionMap.put("Wargroove:Nintendo Switch", "PAL");
-        regionMap.put("Ys Origin:Nintendo Switch", "PAL");
 
 //        regionMap.put(":Sony PS Vita", "JP");
 

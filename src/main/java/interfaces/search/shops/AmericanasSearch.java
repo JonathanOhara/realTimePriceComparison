@@ -2,13 +2,14 @@ package interfaces.search.shops;
 
 import comom.Util;
 import interfaces.search.JsoupSearch;
+import interfaces.search.SeleniumSearch;
 import objects.ProductType;
 import objects.Shop;
 
 import java.net.MalformedURLException;
 import java.net.URISyntaxException;
 
-public class AmericanasSearch extends JsoupSearch {
+public class AmericanasSearch extends SeleniumSearch {
 
 	@Override
 	public String getName() {
@@ -42,7 +43,7 @@ public class AmericanasSearch extends JsoupSearch {
 
 	@Override
 	protected String getProductPriceCssQuery() {
-		return ".price-info__ListPriceWithMargin-sc-1xm1xzb-2";
+		return ".price-info__ListPriceWithMargin-sc-z0kkvc-2";
 	}
 
 	@Override
