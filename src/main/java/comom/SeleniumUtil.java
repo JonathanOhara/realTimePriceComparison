@@ -33,10 +33,10 @@ public class SeleniumUtil {
 //            getFirefoxDriver();
             getChromeDriver();
 
-            driver.manage().timeouts().pageLoadTimeout(180, TimeUnit.SECONDS);
+            driver.manage().timeouts().pageLoadTimeout(240, TimeUnit.SECONDS);
 
             try {
-                Thread.sleep(600);
+                Thread.sleep(750);
             } catch (InterruptedException e) {
                 throw new RuntimeException(e);
             }
