@@ -124,6 +124,8 @@ public class Main {
 
 		System.out.println("Connecting to " + url);
 
+		Thread.sleep(100);
+
 		driver.get(url);
 
 		WebElement currency = driver.findElement(By.cssSelector("#dropdown_selected_currency"));
