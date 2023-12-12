@@ -65,6 +65,11 @@ public class MercadoLivreSeleniumSearch extends SeleniumSearch {
 	}
 
 	@Override
+	protected String getProductListCssQueryAlternative() {
+		return "section.ui-search-results > ol > div > li";
+	}
+
+	@Override
 	protected String getProductNameCssQuery() {
 		return "h2.ui-search-item__title";
 	}
@@ -72,7 +77,6 @@ public class MercadoLivreSeleniumSearch extends SeleniumSearch {
 	@Override
 	protected String getProductPriceCssQuery() {
 		return "span.andes-money-amount.ui-search-price__part.ui-search-price__part--medium.andes-money-amount--cents-superscript";
-
 	}
 
 	@Override

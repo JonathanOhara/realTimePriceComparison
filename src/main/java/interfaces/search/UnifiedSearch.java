@@ -38,6 +38,11 @@ public abstract class UnifiedSearch implements Search {
 
                 List<PageElement> els = pageDocument.getByCssSelector(getProductListCssQuery());
 
+                if(els.isEmpty() && getProductListCssQueryAlternative() != null){
+                    System.out.println("\t\tUsando Selector Alternativo");
+                    els = pageDocument.getByCssSelector(getProductListCssQueryAlternative());
+                }
+
                 System.out.println("\t\tResultados: " + els.size());
                 System.out.print("\t\tStatus: ");
 
@@ -191,6 +196,10 @@ public abstract class UnifiedSearch implements Search {
     }
 
     protected abstract String getProductListCssQuery();
+
+    protected String getProductListCssQueryAlternative() {
+        return null;
+    }
 
     protected abstract String getProductNameCssQuery();
 

@@ -59,6 +59,11 @@ public class GamerHutSearch extends JsoupSearch {
 	}
 
 	@Override
+	protected String getProductListCssQueryAlternative() {
+		return "section.ui-search-results > ol > div > li";
+	}
+
+	@Override
 	protected String replaceUrl(Shop shop, String productName) throws MalformedURLException, URISyntaxException {
 		return Util.prepareUrlMode3(shop.getSearchPattern(), productName);
 	}
