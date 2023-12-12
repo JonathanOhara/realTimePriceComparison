@@ -45,7 +45,7 @@ public class GamerHutSearch extends JsoupSearch {
 
 	@Override
 	protected String getProductListCssQuery() {
-		return "ol.ui-search-layout > li";
+		return "#root-app > div > div.ui-search-main.ui-search-main--without-header.ui-search-main--only-products.shops__search-main > section > ol > div";
 	}
 
 	@Override
