@@ -77,6 +77,7 @@ public class PriceChartingStringNormalizer {
         regionMap.put("Maglam Lord:Nintendo Switch", "PAL");
         regionMap.put("Monster Harvest:Nintendo Switch", "PAL");
         regionMap.put("No More Heroes 1+2:Nintendo Switch", "Asian English");
+        regionMap.put("Octopath Traveler II:Nintendo Switch", "PAL");
         regionMap.put("Titan Quest:Nintendo Switch", "PAL");
         regionMap.put("Ultra Kaiju Monster Rancher:Nintendo Switch", "Asian English");
         regionMap.put("Valkyria Chronicles 4:Nintendo Switch", "PAL");

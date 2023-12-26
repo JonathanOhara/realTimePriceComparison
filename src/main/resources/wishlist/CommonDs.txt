@@ -1,5 +1,5 @@
 Age Of Empires ds {https://www.pricecharting.com/game/nintendo-ds/age-of-empires-mythologies}
-Blood Stone 007 {https://www.pricecharting.com/pt/game/nintendo-ds/007-blood-stone}
+Blood Stone 007 {https://www.pricecharting.com/game/nintendo-ds/007-blood-stone}
 Bomberman Land ds {https://www.pricecharting.com/game/nintendo-ds/bomberman-land-touch}
 Castlevania: dawn of sorrow {https://www.pricecharting.com/game/nintendo-ds/castlevania-dawn-of-sorrow}
 Castlevania: order of ecclesia {https://www.pricecharting.com/game/nintendo-ds/castlevania-order-of-ecclesia}
@@ -12,7 +12,7 @@ Drawn To Life ds {https://www.pricecharting.com/game/nintendo-ds/drawn-to-life}
 Final fantasy crystal chronicles: echoes of time {https://www.pricecharting.com/game/nintendo-ds/final-fantasy-crystal-chronicles-echoes-of-time}
 Final fantasy tactics a2 {https://www.pricecharting.com/game/nintendo-ds/final-fantasy-crystal-chronicles-echoes-of-time}
 Chinatown wars ds {https://www.pricecharting.com/game/nintendo-ds/grand-theft-auto-chinatown-wars}
-Guitar Hero On Tour Modern Hits {https://www.pricecharting.com/pt/game/nintendo-ds/guitar-hero-on-tour-modern-hits}
+Guitar Hero On Tour Modern Hits {https://www.pricecharting.com/game/nintendo-ds/guitar-hero-on-tour-modern-hits}
 Harvest moon ds {https://www.pricecharting.com/game/nintendo-ds/harvest-moon-ds}
 Harvest moon: frantic farming {https://www.pricecharting.com/game/nintendo-ds/harvest-moon-frantic-farming}
 Jump Super Stars {https://www.pricecharting.com/game/nintendo-ds/jump-super-stars}
@@ -31,12 +31,12 @@ Pokemon Conquest {https://www.pricecharting.com/game/nintendo-ds/pokemon-conques
 Pokemon ranger ds {https://www.pricecharting.com/game/nintendo-ds/pokemon-ranger}
 Pokemon soulsilver {https://www.pricecharting.com/game/nintendo-ds/pokemon-soulsilver-version}
 Professor Layton Unwound {https://www.pricecharting.com/game/nintendo-ds/professor-layton-and-the-unwound-future}
-Resident Evil Deadly Silence {https://www.pricecharting.com/pt/game/nintendo-ds/resident-evil-deadly-silence}
+Resident Evil Deadly Silence {https://www.pricecharting.com/game/nintendo-ds/resident-evil-deadly-silence}
 Spectrobes Beyond The Portals {https://www.pricecharting.com/game/nintendo-ds/spectrobes-beyond-the-portals}
 Star Fox Command {https://www.pricecharting.com/game/nintendo-ds/star-fox-command}
 Tomb Raider Underworld ds {https://www.pricecharting.com/game/nintendo-ds/tomb-raider-underworld}
 Transformers Animated {https://www.pricecharting.com/game/nintendo-ds/transformers-animated}
-Transformers: Revenge Of The Fallen Autobots {https://www.pricecharting.com/pt/game/nintendo-ds/transformers-revenge-of-the-fallen-autobots}
+Transformers: Revenge Of The Fallen Autobots {https://www.pricecharting.com/game/nintendo-ds/transformers-revenge-of-the-fallen-autobots}
 Transformers Decepticons {https://www.pricecharting.com/game/nintendo-ds/transformers-decepticons}
 Yoshi Island DS {https://www.pricecharting.com/game/nintendo-ds/yoshi%27s-island-ds}
 Yoshi Touch And Go {https://www.pricecharting.com/game/nintendo-ds/yoshi-touch-and-go}
