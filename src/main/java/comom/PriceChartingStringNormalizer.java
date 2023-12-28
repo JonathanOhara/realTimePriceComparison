@@ -71,16 +71,16 @@ public class PriceChartingStringNormalizer {
         regionMap = new HashMap<>();
 
 //        regionMap.put(".hack//G.U. Recode:Nintendo Switch", "JP"); not in price charting
+
         regionMap.put("Darksiders: Warmastered Edition:Nintendo Switch", "PAL");
-        regionMap.put("Etrian Odyssey Origins Collection:Nintendo Switch", "Asian English");
-        regionMap.put("Final Fantasy I-VI Pixel Remaster Collection:Nintendo Switch", "Asian English");
         regionMap.put("Maglam Lord:Nintendo Switch", "PAL");
         regionMap.put("Monster Harvest:Nintendo Switch", "PAL");
-        regionMap.put("No More Heroes 1+2:Nintendo Switch", "Asian English");
         regionMap.put("Octopath Traveler II:Nintendo Switch", "PAL");
-        regionMap.put("Titan Quest:Nintendo Switch", "PAL");
+
+        regionMap.put("Etrian Odyssey Origins Collection:Nintendo Switch", "Asian English");
+        regionMap.put("Final Fantasy I-VI Pixel Remaster Collection:Nintendo Switch", "Asian English");
+        regionMap.put("No More Heroes 1+2:Nintendo Switch", "Asian English");
         regionMap.put("Ultra Kaiju Monster Rancher:Nintendo Switch", "Asian English");
-        regionMap.put("Valkyria Chronicles 4:Nintendo Switch", "PAL");
 
 //        regionMap.put(":Sony PS Vita", "JP");
 

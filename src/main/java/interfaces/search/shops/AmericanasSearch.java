@@ -38,12 +38,12 @@ public class AmericanasSearch extends SeleniumSearch {
 
 	@Override
 	protected String getProductNameCssQuery() {
-		return ".product-name__Name-sc-1jrnqy1-0";
+		return ".product-name__Name-sc-1shovj0-0";
 	}
 
 	@Override
 	protected String getProductPriceCssQuery() {
-		return ".price-info__ListPriceWithMargin-sc-z0kkvc-2";
+		return ".ctBJlj";
 	}
 
 	@Override
