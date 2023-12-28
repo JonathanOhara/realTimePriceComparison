@@ -15,7 +15,7 @@ public class ShopeeSeleniumSearch extends SeleniumSearch {
 
 	@Override
 	protected void afterConnectUrl(Shop shop, String productName) throws InterruptedException {
-		Thread.sleep(2500);
+		Thread.sleep(4000);
 		super.afterConnectUrl(shop, productName);
 	}
 

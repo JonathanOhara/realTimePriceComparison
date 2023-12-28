@@ -37,12 +37,20 @@ public enum ProductType {
     protected static List<Search> getDebugShops(){
         List<Search> searches = new ArrayList<>();
 
-        searches.add(new AmazonBRSearch());
+//        searches.add(new ());
+
+        if(!searches.isEmpty()){
+            System.out.println("::::: DEBUG MODE :::::");
+        }
 
         return searches;
     }
 
      protected static List<Search> getAllShops(){
+         if(!getDebugShops().isEmpty()){
+             return getDebugShops();
+         }
+
          List<Search> searches = new ArrayList<>();
 
          searches.add(new AmazonBRSearch());
@@ -90,6 +98,10 @@ public enum ProductType {
     }
 
     protected static List<Search> getDSShops(){
+        if(!getDebugShops().isEmpty()){
+            return getDebugShops();
+        }
+
         List<Search> searches = new ArrayList<>();
 
         searches.add(new AmazonBRSearch());
@@ -126,6 +138,10 @@ public enum ProductType {
     }
 
     protected static List<Search> get3DSShops(){
+        if(!getDebugShops().isEmpty()){
+            return getDebugShops();
+        }
+
         List<Search> searches = new ArrayList<>();
 
         searches.add(new AmazonBRSearch());
@@ -167,6 +183,10 @@ public enum ProductType {
     }
 
     protected static List<Search> getPSPShops(){
+        if(!getDebugShops().isEmpty()){
+            return getDebugShops();
+        }
+
         List<Search> searches = new ArrayList<>();
 
         searches.add(new AmazonBRSearch());
@@ -201,6 +221,10 @@ public enum ProductType {
     }
 
     protected static List<Search> getVitaShops(){
+        if(!getDebugShops().isEmpty()){
+            return getDebugShops();
+        }
+
         List<Search> searches = new ArrayList<>();
 
         searches.add(new AmazonBRSearch());
