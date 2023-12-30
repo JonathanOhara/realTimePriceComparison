@@ -37,7 +37,7 @@ public enum ProductType {
     protected static List<Search> getDebugShops(){
         List<Search> searches = new ArrayList<>();
 
-//        searches.add(new ());
+//        searches.add(new ShopeeSeleniumSearch());
 
         if(!searches.isEmpty()){
             System.out.println("::::: DEBUG MODE :::::");

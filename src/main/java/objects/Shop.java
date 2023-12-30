@@ -14,7 +14,6 @@ public class Shop {
 	private String searchPattern;
 	private String searchUrl;
 	private Search searcher;
-	private boolean enabled;
 
 	private List<Product> products;
 

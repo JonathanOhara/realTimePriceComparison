@@ -41,6 +41,7 @@ public class PriceChartingStringNormalizer {
         titleMap.put(".hack//G.U. Recode:Nintendo Switch", ".Hack GU Last Recode");
         titleMap.put("Baldur's Gate and Baldur's Gate II: Enhanced Editions:Nintendo Switch", "Baldur's Gate 1 & 2 Enhanced Edition");
         titleMap.put("Final Fantasy I-VI Pixel Remaster Collection:Nintendo Switch", "Final Fantasy I-VI Collection Pixel Remaster");
+        titleMap.put("Katanakami:Nintendo Switch", "Katana Kami");
         titleMap.put("Legend of Mana:Nintendo Switch", "Legend Of Mana Remastered");
         titleMap.put("Little Town Hero:Nintendo Switch", "Little Town Hero [Big Idea Edition]");
         titleMap.put("Pokémon: Let's Go, Eevee! [Poké Ball Plus Bundle]:Nintendo Switch", "Pokemon Let's Go Eevee [Poke Ball Plus Bundle]");
@@ -48,7 +49,7 @@ public class PriceChartingStringNormalizer {
         titleMap.put("Pokémon Scarlet & Pokémon Violet Dual Pack Steelbook Edition:Nintendo Switch", "Pokemon Scarlet & Violet Double Pack [SteelBook Edition]");
         titleMap.put("Shin Megami Tensei lll: Nocturne HD Remaster:Nintendo Switch", "Shin Megami Tensei III: Nocturne HD Remaster");
         titleMap.put("Sword Art Online FATAL BULLET Complete Edition:Nintendo Switch", "Sword Art Online: Fatal Bullet");
-        titleMap.put("Valthirian Arc: Hero School Story 2:Nintendo Switch", "Valthirian Arc 2: Hero School Story 2");
+        titleMap.put("Valthirian Arc: Hero School Story 2:Nintendo Switch", "Valthirian Arc: Hero School Story 2");
         titleMap.put("Wargroove:Nintendo Switch", "Wargroove Deluxe Edition");
         titleMap.put("Unrailed! (SRG#49):Nintendo Switch", "Unrailed");
 
