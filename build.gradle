@@ -13,8 +13,8 @@ repositories {
 }
 
 dependencies {
-    implementation 'org.jsoup:jsoup:1.17.1'
-    implementation 'org.seleniumhq.selenium:selenium-java:4.15.0'
+    implementation 'org.jsoup:jsoup:1.17.2'
+    implementation 'org.seleniumhq.selenium:selenium-java:4.16.1'
     implementation group: 'com.opencsv', name: 'opencsv', version: '5.9'
 
     testImplementation 'org.junit.jupiter:junit-jupiter-api:5.7.0'
