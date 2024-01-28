@@ -75,7 +75,6 @@ public class PriceChartingStringNormalizer {
 
         regionMap.put("Darksiders: Warmastered Edition:Nintendo Switch", "PAL");
         regionMap.put("Maglam Lord:Nintendo Switch", "PAL");
-        regionMap.put("Monster Harvest:Nintendo Switch", "PAL");
         regionMap.put("Octopath Traveler II:Nintendo Switch", "PAL");
 
         regionMap.put("Etrian Odyssey Origins Collection:Nintendo Switch", "Asian English");
