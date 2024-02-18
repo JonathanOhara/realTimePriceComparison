@@ -10,7 +10,7 @@ import java.util.stream.Collectors;
 
 
 public class GameyeToPriceCharting {
-	private static final String FILE_NAME = "12_23_2023_ge_collection.csv";
+	private static final String FILE_NAME = "02_04_2024_ge_collection.csv";
 	
 	public static void main(String[] args) throws IOException {
 		String gameyeCsvFile = Util.getProjectPath() + "/src/main/resources/gameye/" + FILE_NAME;
