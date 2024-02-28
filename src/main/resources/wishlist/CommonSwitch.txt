@@ -3,7 +3,6 @@ Assassin Creed III Remastered {https://www.pricecharting.com/game/nintendo-switc
 Assassin Creed The Ezio Collection switch {https://www.pricecharting.com/game/nintendo-switch/assassin%27s-creed-the-ezio-collection}
 Assassin Creed The Rebel Collection {https://www.pricecharting.com/game/nintendo-switch/assassin%27s-creed-the-rebel-collection}
 Azure Striker Gunvolt Striker Pack {https://www.pricecharting.com/game/nintendo-switch/azure-striker-gunvolt-striker-pack}
-AZURE STRIKER GUNVOLT 3 {https://www.pricecharting.com/game/nintendo-switch/azure-striker-gunvolt-3}
 Crymachina {https://www.pricecharting.com/game/nintendo-switch/crymachina-deluxe-edition}
 Disgaea 6 switch {https://www.pricecharting.com/game/nintendo-switch/disgaea-6-defiance-of-destiny-unrelenting-edition}
 Disgaea 7 switch {https://www.pricecharting.com/game/nintendo-switch/disgaea-7-vows-of-the-virtueless-deluxe-edition}
@@ -22,16 +21,14 @@ Mato Anomalies {https://www.pricecharting.com/game/nintendo-switch/mato-anomalie
 Metro Redux switch {https://www.pricecharting.com/game/nintendo-switch/metro-redux}
 Minecraft DUNGEONS ultimate switch {https://www.pricecharting.com/game/nintendo-switch/minecraft-dungeons-ultimate-edition}
 My Time At Sandrock {https://www.pricecharting.com/game/nintendo-switch/my-time-at-sandrock}
-No Man Sky {https://www.pricecharting.com/game/nintendo-switch/no-man%27s-sky}
 Northgard {https://www.pricecharting.com/game/nintendo-switch/northgard}
 Pokken TOURNAMENT DX {https://www.pricecharting.com/game/nintendo-switch/pokken-tournament-dx}
 Resident Evil Triple Pack {https://www.pricecharting.com/game/nintendo-switch/resident-evil-triple-pack}
 SaGa Frontier Remastered {https://www.pricecharting.com/game/nintendo-switch/saga-frontier-remastered}
 Samurai Warriors 5 {https://www.pricecharting.com/game/nintendo-switch/samurai-warriors-5}
 Spiritfarer {https://www.pricecharting.com/game/nintendo-switch/spiritfarer}
-Star Ocean: The Second Story R {https://www.pricecharting.com/game/nintendo-switch/star-ocean-the-second-story-r}
+Star Ocean: The Second Story R switch {https://www.pricecharting.com/game/nintendo-switch/star-ocean-the-second-story-r}
 Story OF seasons: friends of mineral town {https://www.pricecharting.com/game/nintendo-switch/story-of-seasons-friends-of-mineral-town}
 Tony Hawk Pro Skater 1 2 switch {https://www.pricecharting.com/game/nintendo-switch/tony-hawk%27s-pro-skater-1+2}
-We Love Katamari Reroll {https://www.pricecharting.com/game/nintendo-switch/we-love-katamari-reroll-+-royal-reverie}
 Yoshi Crafted World {https://www.pricecharting.com/game/nintendo-switch/yoshi%27s-crafted-world}
 Yu Legacy of the duelist link evolution {https://www.pricecharting.com/game/nintendo-switch/yu-gi-oh-legacy-of-the-duelist-link-evolution}
