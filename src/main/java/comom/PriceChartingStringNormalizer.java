@@ -38,9 +38,8 @@ public class PriceChartingStringNormalizer {
     private static void createTitleReplaceMap() {
         titleMap = new HashMap<>();
 
-        titleMap.put(".hack//G.U. Recode:Nintendo Switch", ".Hack GU Last Recode");
+        titleMap.put(".hack//G.U. Last Recode:Nintendo Switch", ".Hack GU Last Recode");
         titleMap.put("Baldur's Gate and Baldur's Gate II: Enhanced Editions:Nintendo Switch", "Baldur's Gate 1 & 2 Enhanced Edition");
-        titleMap.put("Final Fantasy I-VI Pixel Remaster Collection:Nintendo Switch", "Final Fantasy I-VI Collection Pixel Remaster");
         titleMap.put("Katanakami:Nintendo Switch", "Katana Kami");
         titleMap.put("Legend of Mana:Nintendo Switch", "Legend Of Mana Remastered");
         titleMap.put("Little Town Hero:Nintendo Switch", "Little Town Hero [Big Idea Edition]");
@@ -50,7 +49,6 @@ public class PriceChartingStringNormalizer {
         titleMap.put("Shin Megami Tensei lll: Nocturne HD Remaster:Nintendo Switch", "Shin Megami Tensei III: Nocturne HD Remaster");
         titleMap.put("Sword Art Online FATAL BULLET Complete Edition:Nintendo Switch", "Sword Art Online: Fatal Bullet");
         titleMap.put("Valthirian Arc: Hero School Story 2:Nintendo Switch", "Valthirian Arc: Hero School Story 2");
-        titleMap.put("Wargroove:Nintendo Switch", "Wargroove Deluxe Edition");
         titleMap.put("Unrailed! (SRG#49):Nintendo Switch", "Unrailed");
 
         titleMap.put("Harvest Moon 3D: The Tale of Two Towns:Nintendo 3DS", "Harvest Moon: The Tale Of Two Towns");
@@ -76,7 +74,7 @@ public class PriceChartingStringNormalizer {
         regionMap.put("Darksiders: Warmastered Edition:Nintendo Switch", "PAL");
 
         regionMap.put("Etrian Odyssey Origins Collection:Nintendo Switch", "Asian English");
-        regionMap.put("Final Fantasy I-VI Pixel Remaster Collection:Nintendo Switch", "Asian English");
+        regionMap.put("Final Fantasy I-VI Collection Pixel Remaster:Nintendo Switch", "Asian English");
         regionMap.put("No More Heroes 1+2:Nintendo Switch", "Asian English");
         regionMap.put("Ultra Kaiju Monster Rancher:Nintendo Switch", "Asian English");
 
