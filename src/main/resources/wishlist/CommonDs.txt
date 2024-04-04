@@ -20,7 +20,7 @@ LEGO Rock Band ds {https://www.pricecharting.com/game/nintendo-ds/lego-rock-band
 Lunar Dragon Song ds {https://www.pricecharting.com/game/nintendo-ds/lunar-dragon-song}
 Magical Starsign {https://www.pricecharting.com/game/nintendo-ds/magical-starsign}
 Mario Hoops {https://www.pricecharting.com/game/nintendo-ds/mario-hoops-3-on-3}
-Mario Vs Donkey Kong {https://www.pricecharting.com/game/nintendo-ds/mario-vs-donkey-kong-mini-land-mayhem}
+Mario Vs Donkey Kong mini {https://www.pricecharting.com/game/nintendo-ds/mario-vs-donkey-kong-mini-land-mayhem}
 Mario Vs Donkey Kong 2 {https://www.pricecharting.com/game/nintendo-ds/mario-vs-donkey-kong-2-march-of-minis}
 Mario luigi: partners in time {https://www.pricecharting.com/game/nintendo-ds/mario-and-luigi-partners-in-time}
 Marvel Ultimate Alliance 2 ds {https://www.pricecharting.com/game/nintendo-ds/marvel-ultimate-alliance-2}
