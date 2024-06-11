@@ -31,7 +31,7 @@ public class ShopeeSeleniumSearch extends SeleniumSearch {
 
 	@Override
 	public String getSearchPattern(ProductType productType) {
-		return "https://shopee.com.br/search?category=26942&keyword=<BUSCA>&subcategory=26957";
+		return "https://shopee.com.br/search?category=11059980&keyword=<BUSCA>&page=0&sortBy=relevancy&subcategory=11060090";
 	}
 
 	@Override

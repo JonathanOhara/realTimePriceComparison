@@ -53,6 +53,9 @@ public enum ProductType {
 
          List<Search> searches = new ArrayList<>();
 
+         searches.add(new ShopeeSeleniumSearch());
+         searches.add(new MercadoLivreSeleniumSearch());
+
          searches.add(new AmazonBRSearch());
          searches.add(new AmericanasSearch());
          searches.add(new SubmarinoSearch());
@@ -82,9 +85,6 @@ public enum ProductType {
          searches.add(new GTAGamesSearch());
          searches.add(new IzzyGamesSearch());
          searches.add(new BlueWavesGamesSearch());
-
-         searches.add(new MercadoLivreSeleniumSearch());
-         searches.add(new ShopeeSeleniumSearch());
 
          searches.add(new AmazonUSSearch());
          searches.add(new FuturisticGamesSeleniumSearch());

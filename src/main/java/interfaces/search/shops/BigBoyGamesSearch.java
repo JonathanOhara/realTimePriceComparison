@@ -11,6 +11,11 @@ import java.net.URISyntaxException;
 public class BigBoyGamesSearch extends JsoupSearch {
 
 	@Override
+	public boolean isShopEnabled() {
+		return false;
+	}
+
+	@Override
 	public String getName() {
 		return "Big Boy Games";
 	}

@@ -1,5 +1,6 @@
 package comom;
 
+import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
@@ -10,6 +11,8 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 
 import java.io.File;
 import java.util.Arrays;
+import java.util.HashMap;
+import java.util.Map;
 import java.util.concurrent.TimeUnit;
 import java.util.concurrent.TimeoutException;
 
@@ -75,10 +78,20 @@ public class SeleniumUtil {
             options.addArguments("profile-directory=Profile 1");
         }
 
-        options.setExperimentalOption("useAutomationExtension", false);
         options.setExperimentalOption("excludeSwitches", Arrays.asList("enable-automation"));
+        options.setExperimentalOption("useAutomationExtension", false);
 
-        driver = new ChromeDriver(options);
+
+        ChromeDriver chromeDriver = new ChromeDriver(options);
+        driver = chromeDriver;
+
+        chromeDriver.executeScript("Object.defineProperty(navigator, 'webdriver', {get: () => undefined})");
+
+        Map<String, Object> params = new HashMap<>();
+        params.put("source", "Object.defineProperty(navigator, 'webdriver', { get: () => undefined })");
+        chromeDriver.executeCdpCommand("Page.addScriptToEvaluateOnNewDocument", params);
+        chromeDriver.executeCdpCommand("Network.setUserAgentOverride", Map.of("userAgent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.53 Safari/537.36"));
+
     }
 
     public static void closeDriver(){
