@@ -75,6 +75,7 @@ public class PriceChartingStringNormalizer {
 //        regionMap.put(".hack//G.U. Recode:Nintendo Switch", "JP"); not in price charting
 
         regionMap.put("Darksiders: Warmastered Edition:Nintendo Switch", "PAL");
+        regionMap.put("Darkest Dungeon [Collector's Edition]:Nintendo Switch", "PAL");
 
         regionMap.put("Etrian Odyssey Origins Collection:Nintendo Switch", "Asian English");
         regionMap.put("Final Fantasy I-VI Pixel Remaster Collection:Nintendo Switch", "Asian English");

@@ -14,6 +14,11 @@ import java.net.URISyntaxException;
 public class ShopeeSeleniumSearch extends SeleniumSearch {
 
 	@Override
+	public boolean isShopEnabled() {
+		return false;
+	}
+
+	@Override
 	protected void afterConnectUrl(Shop shop, String productName) throws InterruptedException {
 		Thread.sleep(4000);
 		super.afterConnectUrl(shop, productName);
