@@ -48,7 +48,6 @@ public class PriceChartingStringNormalizer {
         titleMap.put("Pokémon: Let's Go, Eevee! [Poké Ball Plus Bundle]:Nintendo Switch", "Pokemon Let's Go Eevee [Poke Ball Plus Bundle]");
         titleMap.put("Pokémon Scarlet & Pokémon Violet Dual Pack Steelbook Edition:Nintendo Switch", "Pokemon Scarlet & Violet Double Pack [SteelBook Edition]");
         titleMap.put("Pokkén Tournament DX:Nintendo Switch", "Pokken Tournament DX");
-        titleMap.put("Shin Megami Tensei lll: Nocturne HD Remaster:Nintendo Switch", "Shin Megami Tensei III: Nocturne HD Remaster");
         titleMap.put("Sword Art Online FATAL BULLET Complete Edition:Nintendo Switch", "Sword Art Online: Fatal Bullet");
         titleMap.put("Sword and Fairy Inn 2 [Limited Edition]:Nintendo Switch", "Sword & Fairy Inn 2 [Limited Edition]");
         titleMap.put("Valthirian Arc: Hero School Story 2:Nintendo Switch", "Valthirian Arc: Hero School Story 2");
