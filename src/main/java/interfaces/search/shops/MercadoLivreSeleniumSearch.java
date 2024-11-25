@@ -71,12 +71,12 @@ public class MercadoLivreSeleniumSearch extends SeleniumSearch {
 
 	@Override
 	protected String getProductNameCssQuery() {
-		return "h2.ui-search-item__title";
+		return "h2";
 	}
 
 	@Override
 	protected String getProductPriceCssQuery() {
-		return "span.andes-money-amount.ui-search-price__part.ui-search-price__part--medium.andes-money-amount--cents-superscript";
+		return "span.andes-money-amount.andes-money-amount--cents-superscript";
 	}
 
 	@Override
