@@ -20,7 +20,6 @@ Lunar silver star harmony {https://www.pricecharting.com/game/psp/lunar-silver-s
 Mana Khemia Student Alliance {https://www.pricecharting.com/game/psp/mana-khemia-student-alliance}
 Maverick hunter {https://www.pricecharting.com/game/psp/mega-man-maverick-hunter-x}
 Medal of honor heroes psp {https://www.pricecharting.com/game/psp/medal-of-honor-heroes}
-Medievil resurrection psp {https://www.pricecharting.com/game/psp/medievil-resurrection}
 Mega man powered up {https://www.pricecharting.com/game/psp/mega-man-powered-up}
 Metal Gear Acid 2 {https://www.pricecharting.com/game/psp/metal-gear-acid-2}
 Metal Gear Acid {https://www.pricecharting.com/game/psp/metal-gear-acid}
@@ -29,7 +28,6 @@ Patapon 3 psp{https://www.pricecharting.com/game/psp/patapon-3}
 Patapon psp {https://www.pricecharting.com/game/psp/patapon}
 Persona 2 psp {https://www.pricecharting.com/game/psp/shin-megami-tensei-persona-2-innocent-sin}
 Persona psp {https://www.pricecharting.com/game/psp/shin-megami-tensei-persona}
-Phantasy Star Portable 2 {https://www.pricecharting.com/game/psp/phantasy-star-portable-2}
 Prince of persia rival swords {https://www.pricecharting.com/game/psp/prince-of-persia-rival-swords}
 Ragnarok: Tactics {https://www.pricecharting.com/game/psp/ragnarok-tactics?q=ragnarok+tactics}
 Silent hill: origin {https://www.pricecharting.com/game/psp/silent-hill-origins}
