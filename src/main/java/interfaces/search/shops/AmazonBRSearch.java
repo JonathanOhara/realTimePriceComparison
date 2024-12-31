@@ -47,7 +47,7 @@ public class AmazonBRSearch extends SeleniumSearch {
 
 	@Override
 	protected String getProductNameCssQuery() {
-		return "h2 > a > span";
+		return "h2 > span";
 	}
 
 	@Override

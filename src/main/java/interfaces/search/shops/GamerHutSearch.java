@@ -48,19 +48,20 @@ public class GamerHutSearch extends JsoupSearch {
 		return "#root-app > div > div.ui-search-main.ui-search-main--without-header.ui-search-main--only-products.shops__search-main > section > ol > div";
 	}
 
+
 	@Override
 	protected String getProductListCssQueryAlternative() {
-		return "section.ui-search-results > ol > li";
+		return "#root-app > div > div.ui-search-main.ui-search-main--without-header.ui-search-main--only-products.shops__search-main > section > ol > li";
 	}
 
 	@Override
 	protected String getProductNameCssQuery() {
-		return "h2.ui-search-item__title";
+		return "a.poly-component__title";
 	}
 
 	@Override
 	protected String getProductPriceCssQuery() {
-		return "span.andes-money-amount.ui-search-price__part.shops__price-part.andes-money-amount--cents-superscript";
+		return "span.andes-money-amount.andes-money-amount--cents-superscript";
 	}
 
 	@Override
