@@ -11,32 +11,23 @@ public class DefaultFilters {
 	
 	private static boolean useDenyWords = true;
 	private static String[] denyWords = {
-			"Adesivo", "Alug", "Amiibo", "Bateria", "Blusa", "Bolsa", "Boneca", "Boneco", "Broche", "Calça", "Camisa", "Camiseta",
-			"Caneca", "Capa", "Capinha", "Carregador", "Chaveiro", "Controle", "Cosplay", "Costume", "Deck", "Decoration",
-			"Detonado", "Digital", "Diorama", "E-shop", "Eshop", "Estatueta", "Friccao", "Funko", "Gamepad", "Gift", "Guide",
-			"Hoodie", "Impressao", "Livro", "Locacao", "Luminaria", "Miniatura", "Moletom", "Mousepad", "Mug", "Novel", "Oculos",
-			"PC", "PS1", "PS2", "PS3", "PS4", "PS5", "Play1", "Play2", "Play3", "Play4", "Play5",
-			"Pelicula", "Pelucia", "Placa", "Plush", "Poster", "Quadro", "Revista", "Skin", "Statue", "Steam", "Suporte", "T-Shirt",
-			"Tapete", "Tenis", "Toalha", "Volante", "Walkthrough", "Wii", "WiiU", "X360", "XBOX", "Xone", "Travesseiro"
+		"Adesivo", "Alug", "Amiibo", "Bateria", "Blusa", "Bolsa", "Boneca", "Boneco", "Broche", "Calça", "Camisa", "Camiseta",
+		"Caneca", "Capa", "Capinha", "Carregador", "Chaveiro", "Controle", "Cosplay", "Costume", "Deck", "Decoration",
+		"Detonado", "Digital", "Diorama", "E-shop", "Eshop", "Estatueta", "Friccao", "Funko", "Gamepad", "Gift", "Guide",
+		"Hoodie", "Impressao", "Livro", "Locacao", "Luminaria", "Miniatura", "Moletom", "Mousepad", "Mug", "Novel", "Oculos",
+		"Mochila", "Almofada",
+		"PC", "PS1", "PS2", "PS3", "PS4", "PS5", "Play1", "Play2", "Play3", "Play4", "Play5",
+		"Pelicula", "Pelucia", "Placa", "Plush", "Poster", "Quadro", "Revista", "Skin", "Statue", "Steam", "Suporte", "T-Shirt",
+		"Tapete", "Tenis", "Toalha", "Volante", "Walkthrough", "Wii", "WiiU", "X360", "XBOX", "Xone", "Travesseiro"
 	};
 	private static String[] ignoreWords = {"&", "3ds", "a", "and", "ds", "in", "of", "on", "psp", "switch", "the", "vita"};
 
 	public static Filter noFilter(){
-		return new Filter(){
-			@Override
-			public boolean filter(String productName, String searchedName, String shopName, boolean ignoreMatchWords) {
-				return true;
-			}
-		};
+		return (productName, searchedName, shopName, ignoreMatchWords) -> true;
 	}
 	
 	public static Filter contains(){
-		return new Filter(){
-			@Override
-			public boolean filter(String productName, String searchedName, String shopName, boolean ignoreMatchWords) {
-				return productName.toLowerCase().contains( searchedName.toLowerCase() );
-			}
-		};
+		return (productName, searchedName, shopName, ignoreMatchWords) -> productName.toLowerCase().contains( searchedName.toLowerCase() );
 	}
 	
 	public static Filter containAllWords(){
@@ -133,7 +124,7 @@ public class DefaultFilters {
 	}
 
 	// Finds decimal value of a
-	// given romal numeral
+	// given roman numeral
 	static int romanToDecimal(String str) {
 		// Initialize result
 		int res = 0;

@@ -59,19 +59,23 @@ public class MercadoLivreSeleniumSearch extends SeleniumSearch {
 		return super.priceSanatize(price);
 	}
 
+
+	//3 products per line
 	@Override
 	protected String getProductListCssQuery() {
 		return "section.ui-search-results > ol > li";
 	}
 
+	//1 product per line
 	@Override
 	protected String getProductListCssQueryAlternative() {
+		System.out.println("\tTrying alternative query...");
 		return "section.ui-search-results > ol > div > li";
 	}
 
 	@Override
 	protected String getProductNameCssQuery() {
-		return "h2";
+		return "h3";
 	}
 
 	@Override
