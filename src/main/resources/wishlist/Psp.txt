@@ -3,9 +3,7 @@ Astonishia Story {https://www.pricecharting.com/game/psp/astonishia-story}
 Blade Dancer Lineage of Light {https://www.pricecharting.com/pt/game/psp/blade-dancer-lineage-of-light}
 Breath Of Fire 3 psp {https://www.pricecharting.com/game/pal-psp/breath-of-fire-iii}
 Castlevania: the dracula x chronicles psp {https://www.pricecharting.com/game/psp/castlevania-dracula-x-chronicles}
-Chinatown wars psp {https://www.pricecharting.com/game/psp/grand-theft-auto-chinatown-wars}
 Dungeon maker: hunting ground {https://www.pricecharting.com/game/psp/dungeon-maker-hunting-ground}
-Fat princess fistful of cake {https://www.pricecharting.com/game/psp/fat-princess-fistful-of-cake}
 Fate Extra {https://www.pricecharting.com/game/psp/fateextra}
 Generation Of Chaos {https://www.pricecharting.com/game/psp/generation-of-chaos}
 Growlanser: wayfarer of time {https://www.pricecharting.com/game/psp/growlanser-wayfarer-of-time}
@@ -13,7 +11,7 @@ Guilty gear judgment psp {https://www.pricecharting.com/game/psp/guilty-gear-jud
 Gungnir {https://www.pricecharting.com/game/psp/gungnir}
 Gurumin A Monstrous Adventure {https://www.pricecharting.com/game/psp/gurumin-a-monstrous-adventure}
 Hexyz force {https://www.pricecharting.com/game/psp/hexyz-force}
-Jeanne arc psp {https://www.pricecharting.com/game/psp/jeanne-d%27arc}
+Jeanne arc psp {https://www.pricecharting.com/game1/psp/jeanne-d%27arc}
 Knights in the nightmare {https://www.pricecharting.com/game/psp/knights-in-the-nightmare}
 LocoRoco {https://www.pricecharting.com/game/psp/locoroco}
 Lord of the rings tactics psp {https://www.pricecharting.com/game/psp/lord-of-the-rings-tactics}
